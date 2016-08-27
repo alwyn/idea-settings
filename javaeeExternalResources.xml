@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://schemas.xmlsoap.org/wsdl" location="$USER_HOME$/.IntelliJIdea14/system/extResources/54bb3889_wsdl.xml" />
+  </component>
+</application>
