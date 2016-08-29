@@ -11,6 +11,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="File '[portal] - D:\git\ssb-fortify\postilion\ssb\web\portal_parent\portal\src\main\java\com\s1\postilion\controllers\ClearanceSessionsController.java'" />
+    <option name="FILE_MASK" value="*.properties" />
     <recentFileMasks>
       <mask>*.as</mask>
       <mask>*.mxml</mask>
@@ -31,7 +32,6 @@
       <mask>install.xml</mask>
       <mask>*.html</mask>
       <mask>pom.xml</mask>
-      <mask>*.properties</mask>
       <mask>*.tld</mask>
       <mask>*.jsp</mask>
       <mask>*.java</mask>
@@ -39,6 +39,7 @@
       <mask>*.xml</mask>
       <mask>*.css</mask>
       <mask>*.scss</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
