@@ -5,4 +5,8 @@
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="alt page_down" />
   </action>
+  <action id="ShowPopupMenu">
+    <keyboard-shortcut first-keystroke="context_menu" />
+    <keyboard-shortcut first-keystroke="ctrl back_slash" />
+  </action>
 </keymap>
