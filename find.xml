@@ -9,7 +9,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File '[portal] - D:\git\ssb-fortify\postilion\ssb\web\portal_parent\portal\src\main\java\com\s1\postilion\models\BusinessDay.java'" />
-    <option name="FILE_MASK" value="*.sql" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
       <mask>*.as</mask>
       <mask>*.mxml</mask>
@@ -32,12 +32,12 @@
       <mask>*.css</mask>
       <mask>*.scss</mask>
       <mask>*.xml</mask>
-      <mask>pom.xml</mask>
       <mask>*.jsp</mask>
       <mask>*.properties</mask>
       <mask>*.rb</mask>
       <mask>*.java</mask>
       <mask>*.sql</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
