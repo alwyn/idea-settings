@@ -1,15 +1,15 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[portal] - D:\git\ssb-fortify\postilion\ssb\web\portal_parent\portal\src\main\java\com\s1\postilion\models\BusinessDay.java'" />
-    <option name="defaultScopeName" value="File '[portal] - D:\git\ssb-fortify\postilion\ssb\web\portal_parent\portal\src\main\java\com\s1\postilion\models\BusinessDay.java'" />
+    <option name="customScope" value="Project Test Files" />
+    <option name="defaultScopeName" value="Project Test Files" />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[portal] - D:\git\ssb-fortify\postilion\ssb\web\portal_parent\portal\src\main\java\com\s1\postilion\models\BusinessDay.java'" />
-    <option name="FILE_MASK" value="pom.xml" />
+    <option name="SEARCH_SCOPE" value="Project Test Files" />
+    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
       <mask>*.as</mask>
       <mask>*.mxml</mask>
@@ -35,9 +35,9 @@
       <mask>*.jsp</mask>
       <mask>*.properties</mask>
       <mask>*.rb</mask>
+      <mask>pom.xml</mask>
       <mask>*.java</mask>
       <mask>*.sql</mask>
-      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
