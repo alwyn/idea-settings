@@ -31,12 +31,12 @@
       <mask>*.scss</mask>
       <mask>*.xml</mask>
       <mask>*.rb</mask>
-      <mask>java</mask>
       <mask>*.sql</mask>
       <mask>*.tld</mask>
       <mask>*.jsp</mask>
       <mask>*.properties</mask>
       <mask>pom.xml</mask>
+      <mask>java</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
