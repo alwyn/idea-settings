@@ -9,6 +9,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File '[services] - C:\SOURCE\git\ssb\postilion\ssb\services\src\main\java\postilion\services\ssb\fi\EmailInfo.java'" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.as</mask>
       <mask>*.mxml</mask>
@@ -18,7 +19,6 @@
       <mask>*.properties, *.xml, *.yaml</mask>
       <mask>*.haml</mask>
       <mask>views*.xml</mask>
-      <mask>*.js</mask>
       <mask>*.cmd</mask>
       <mask>*.gradle</mask>
       <mask>*.xsd</mask>
@@ -33,10 +33,11 @@
       <mask>*.properties</mask>
       <mask>java</mask>
       <mask>*.sql</mask>
-      <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>pom.xml</mask>
       <mask>*.java</mask>
+      <mask>*.jsp</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
