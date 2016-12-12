@@ -1,24 +1,29 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[services] - C:\SOURCE\git\ssb\postilion\ssb\services\src\main\java\postilion\services\ssb\fi\EmailInfo.java'" />
-    <option name="defaultScopeName" value="File '[services] - C:\SOURCE\git\ssb\postilion\ssb\services\src\main\java\postilion\services\ssb\fi\EmailInfo.java'" />
+    <option name="customScope" value="File '[portal] - D:\git\ssb-fortify\postilion\ssb\web\portal_parent\portal\src\main\java\com\s1\postilion\models\BusinessDay.java'" />
+    <option name="defaultScopeName" value="File '[portal] - D:\git\ssb-fortify\postilion\ssb\web\portal_parent\portal\src\main\java\com\s1\postilion\models\BusinessDay.java'" />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
+    <option name="showResultsInSeparateView" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[services] - C:\SOURCE\git\ssb\postilion\ssb\services\src\main\java\postilion\services\ssb\fi\EmailInfo.java'" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
+    <option name="SEARCH_SCOPE" value="File '[portal] - D:\git\ssb-fortify\postilion\ssb\web\portal_parent\portal\src\main\java\com\s1\postilion\models\BusinessDay.java'" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.as</mask>
       <mask>*.mxml</mask>
+      <mask>java</mask>
       <mask>*.java,*.sql</mask>
       <mask>*</mask>
       <mask>*.jsf</mask>
       <mask>*.properties, *.xml, *.yaml</mask>
       <mask>*.haml</mask>
       <mask>views*.xml</mask>
+      <mask>*.js</mask>
+      <mask>*.rb</mask>
       <mask>*.cmd</mask>
       <mask>*.gradle</mask>
       <mask>*.xsd</mask>
@@ -26,18 +31,15 @@
       <mask>*refpack.xml</mask>
       <mask>install.xml</mask>
       <mask>*.html</mask>
+      <mask>*.tld</mask>
+      <mask>*.jsp</mask>
       <mask>*.css</mask>
       <mask>*.scss</mask>
-      <mask>*.rb</mask>
-      <mask>*.tld</mask>
       <mask>*.properties</mask>
-      <mask>java</mask>
       <mask>*.sql</mask>
+      <mask>*.xml</mask>
       <mask>pom.xml</mask>
       <mask>*.java</mask>
-      <mask>*.jsp</mask>
-      <mask>*.js</mask>
-      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
