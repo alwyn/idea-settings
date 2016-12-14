@@ -32,11 +32,12 @@
       <file name="/a.regexp" timestamp="1481727522910">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/js/cfeutils.js" timestamp="1481730527341">
-        <mark key="[" line="56" column="23" />
-        <mark key="]" line="57" column="6" />
-        <mark key="." line="57" column="6" />
-        <mark key="^" line="57" column="6" />
+      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/js/cfeutils.js" timestamp="1481734795670">
+        <mark key="'" line="55" column="11" />
+        <mark key="[" line="55" column="34" />
+        <mark key="]" line="55" column="31" />
+        <mark key="." line="55" column="31" />
+        <mark key="^" line="55" column="11" />
       </file>
       <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/BaseWithoutMenu.jsp" timestamp="1481724028659">
         <mark key="[" line="47" column="38" />
@@ -56,25 +57,26 @@
       <jump line="48" column="39" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/TabbedBase.jsp" />
       <jump line="64" column="0" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/TabbedBase.jsp" />
       <jump line="24" column="31" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/TabbedBase.jsp" />
+      <jump line="55" column="11" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/js/cfeutils.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>settid</text>
+        <text>compon</text>
       </register>
     </registers>
     <search>
-      <last-search>settid</last-search>
+      <last-search>compon</last-search>
       <last-offset />
-      <last-pattern>settid</last-pattern>
+      <last-pattern>compon</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -83,6 +85,7 @@
         <entry>validateCSRF</entry>
         <entry>set</entry>
         <entry>settid</entry>
+        <entry>compon</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
