@@ -32,11 +32,11 @@
       <file name="/a.regexp" timestamp="1481727522910">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/js/cfeutils.js" timestamp="1481727486776">
-        <mark key="[" line="54" column="6" />
-        <mark key="]" line="54" column="6" />
-        <mark key="." line="54" column="6" />
-        <mark key="^" line="54" column="6" />
+      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/js/cfeutils.js" timestamp="1481730527341">
+        <mark key="[" line="56" column="23" />
+        <mark key="]" line="57" column="6" />
+        <mark key="." line="57" column="6" />
+        <mark key="^" line="57" column="6" />
       </file>
       <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/BaseWithoutMenu.jsp" timestamp="1481724028659">
         <mark key="[" line="47" column="38" />
@@ -59,13 +59,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHY=</text>
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHY=</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>settid</text>
