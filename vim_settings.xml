@@ -6,6 +6,9 @@
       <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/PrintTemplate.jsp" timestamp="1481723948728">
         <mark key="[" line="46" column="42" />
       </file>
+      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/LoginTemplate.jsp" timestamp="1481749185034">
+        <mark key="'" line="50" column="9" />
+      </file>
       <file name="/a.regexp" timestamp="1481727522910">
         <mark key="[" line="0" column="0" />
       </file>
@@ -16,6 +19,14 @@
       <jump line="64" column="0" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/TabbedBase.jsp" />
       <jump line="24" column="31" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/TabbedBase.jsp" />
       <jump line="55" column="11" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/js/cfeutils.js" />
+      <jump line="15" column="10" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/LoginTemplate.jsp" />
+      <jump line="54" column="10" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/LoginTemplate.jsp" />
+      <jump line="45" column="9" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/LoginTemplate.jsp" />
+      <jump line="46" column="9" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/LoginTemplate.jsp" />
+      <jump line="47" column="9" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/LoginTemplate.jsp" />
+      <jump line="48" column="9" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/LoginTemplate.jsp" />
+      <jump line="49" column="9" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/LoginTemplate.jsp" />
+      <jump line="50" column="9" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/LoginTemplate.jsp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -28,13 +39,13 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>compon</text>
+        <text>pc:script</text>
       </register>
     </registers>
     <search>
-      <last-search>compon</last-search>
+      <last-search>pc:script</last-search>
       <last-offset />
-      <last-pattern>compon</last-pattern>
+      <last-pattern>pc:script</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -44,6 +55,7 @@
         <entry>set</entry>
         <entry>settid</entry>
         <entry>compon</entry>
+        <entry>pc:script</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -63,6 +75,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
