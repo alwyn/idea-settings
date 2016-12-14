@@ -1,0 +1,60 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/portal_parent/postilion_jsf_sdk/src/main/java/postilion/portal/sdk/jsf/renderkit/FormRenderer.java" timestamp="1481723267539">
+        <mark key="'" line="594" column="4" />
+        <mark key="[" line="106" column="7" />
+        <mark key="]" line="106" column="6" />
+        <mark key="^" line="106" column="6" />
+        <mark key="." line="106" column="6" />
+      </file>
+      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/TabbedBase.jsp" timestamp="1481723573292">
+        <mark key="'" line="24" column="31" />
+        <mark key="[" line="59" column="21" />
+        <mark key="]" line="192" column="0" />
+        <mark key="." line="192" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="594" column="4" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/portal_parent/postilion_jsf_sdk/src/main/java/postilion/portal/sdk/jsf/renderkit/FormRenderer.java" />
+      <jump line="48" column="39" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/TabbedBase.jsp" />
+      <jump line="64" column="0" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/TabbedBase.jsp" />
+      <jump line="24" column="31" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/TabbedBase.jsp" />
+    </jumps>
+    <registers>
+      <register name="/" type="4">
+        <text>settid</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>settid</last-search>
+      <last-offset />
+      <last-pattern>settid</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>validateCSRF</entry>
+        <entry>set</entry>
+        <entry>settid</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
