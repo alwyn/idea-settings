@@ -3,6 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/PrintTemplate.jsp" timestamp="1481723948728">
+        <mark key="[" line="46" column="42" />
+        <mark key="]" line="47" column="39" />
+        <mark key="^" line="47" column="39" />
+        <mark key="." line="47" column="39" />
+      </file>
+      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/LoginTemplate.jsp" timestamp="1481724363986">
+        <mark key="[" line="53" column="11" />
+        <mark key="]" line="53" column="12" />
+        <mark key="^" line="53" column="12" />
+        <mark key="." line="53" column="12" />
+      </file>
       <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/portal_parent/postilion_jsf_sdk/src/main/java/postilion/portal/sdk/jsf/renderkit/FormRenderer.java" timestamp="1481723267539">
         <mark key="'" line="594" column="4" />
         <mark key="[" line="106" column="7" />
@@ -10,11 +22,24 @@
         <mark key="^" line="106" column="6" />
         <mark key="." line="106" column="6" />
       </file>
-      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/TabbedBase.jsp" timestamp="1481723573292">
+      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/TabbedBase.jsp" timestamp="1481723984461">
         <mark key="'" line="24" column="31" />
-        <mark key="[" line="59" column="21" />
-        <mark key="]" line="192" column="0" />
-        <mark key="." line="192" column="0" />
+        <mark key="[" line="60" column="17" />
+        <mark key="]" line="60" column="18" />
+        <mark key="." line="60" column="18" />
+        <mark key="^" line="59" column="11" />
+      </file>
+      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/BaseWithoutMenu.jsp" timestamp="1481724028659">
+        <mark key="[" line="47" column="38" />
+        <mark key="]" line="47" column="39" />
+        <mark key="^" line="47" column="39" />
+        <mark key="." line="47" column="39" />
+      </file>
+      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/BaseWithoutMenuWithPrint.jsp" timestamp="1481724115383">
+        <mark key="[" line="44" column="37" />
+        <mark key="]" line="44" column="39" />
+        <mark key="^" line="44" column="39" />
+        <mark key="." line="44" column="39" />
       </file>
     </filemarks>
     <jumps>
@@ -24,6 +49,15 @@
       <jump line="24" column="31" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/TabbedBase.jsp" />
     </jumps>
     <registers>
+      <register name="&quot;" type="4">
+        <text>d();</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>d();</text>
+      </register>
       <register name="/" type="4">
         <text>settid</text>
       </register>
@@ -41,7 +75,9 @@
         <entry>set</entry>
         <entry>settid</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
@@ -51,6 +87,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
