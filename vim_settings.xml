@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/ruby/rails/app/views/shared/_scripts.html.haml" timestamp="1481775324552">
+        <mark key="[" line="48" column="13" />
+        <mark key="]" line="49" column="12" />
+        <mark key="^" line="49" column="12" />
+        <mark key="." line="49" column="12" />
+      </file>
       <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/portal_parent/postilion_jsf_sdk/src/main/java/postilion/portal/sdk/jsf/tag/ScriptTag.java" timestamp="1481770389161">
         <mark key="'" line="115" column="20" />
         <mark key="[" line="54" column="0" />
@@ -12,16 +18,16 @@
       <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/PrintTemplate.jsp" timestamp="1481723948728">
         <mark key="[" line="46" column="42" />
       </file>
-      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/LoginTemplate.jsp" timestamp="1481770283234">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-      </file>
       <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/Login.jsp" timestamp="1481770989960">
         <mark key="[" line="121" column="22" />
       </file>
       <file name="/a.regexp" timestamp="1481727522910">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/LoginTemplate.jsp" timestamp="1481770283234">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" timestamp="1481771117546">
         <mark key="[" line="306" column="107" />
