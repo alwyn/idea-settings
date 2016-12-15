@@ -24,16 +24,22 @@
       <file name="/a.regexp" timestamp="1481727522910">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/SOURCE/git/ssb6/postilion/ssb/services/src/main/java/postilion/services/sdk/security/SessionFilter.java" timestamp="1481834890754">
+        <mark key="[" line="395" column="50" />
+        <mark key="]" line="395" column="50" />
+        <mark key="^" line="319" column="95" />
+        <mark key="." line="395" column="50" />
+      </file>
       <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/LoginTemplate.jsp" timestamp="1481770283234">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" timestamp="1481771117546">
-        <mark key="[" line="306" column="107" />
-        <mark key="]" line="306" column="119" />
+      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" timestamp="1481833624561">
+        <mark key="[" line="526" column="0" />
+        <mark key="]" line="526" column="0" />
         <mark key="^" line="306" column="119" />
-        <mark key="." line="306" column="119" />
+        <mark key="." line="526" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -55,41 +61,52 @@
       <jump line="115" column="20" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/portal_parent/postilion_jsf_sdk/src/main/java/postilion/portal/sdk/jsf/tag/ScriptTag.java" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5zZXRQcm9wZXJ0aWVzKGNvbXBvbmVudCk7Cg==</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5zZXRQcm9wZXJ0aWVzKGNvbXBvbmVudCk7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CXsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CXByb3RlY3RlZCB2b2lkIHNldFByb3BlcnRpZXMoVUlDb21wb25lbnQgY29tcG9uZW50KSAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8L3BjOnNjcmlwdD4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0pOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0QklEKCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICQoZnVuY3Rpb24oKSB7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8cGM6c2NyaXB0Pgo=</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>ValueBind</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBCUk9XU0VSX0ZQX1BST1RFQ1RJT05fRU5BQkxFRF9QQVJBTTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICB7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIFN0cmluZyBnZXRCcm93c2VyRnBQcm90ZWN0aW9uRW5hYmxlZFBhcmFtKCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text>{
+      //
+      // then the attribute for our session object is not set,
+      // place our session into http_session. The container
+      // will ensure that this is always returned to us
+      // in future.
+      //
+      http_session.setAttribute(attribute_id, session);
+    }</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -109,6 +126,7 @@
         <entry>ValueBind</entry>
       </history-search>
       <history-cmd>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
