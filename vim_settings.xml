@@ -3,14 +3,31 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/portal_parent/postilion_jsf_sdk/src/main/java/postilion/portal/sdk/jsf/tag/ScriptTag.java" timestamp="1481770389161">
+        <mark key="'" line="115" column="20" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+      </file>
       <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/PrintTemplate.jsp" timestamp="1481723948728">
         <mark key="[" line="46" column="42" />
       </file>
-      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/LoginTemplate.jsp" timestamp="1481749185034">
-        <mark key="'" line="50" column="9" />
+      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/LoginTemplate.jsp" timestamp="1481770283234">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+      </file>
+      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/Login.jsp" timestamp="1481770989960">
+        <mark key="[" line="121" column="22" />
       </file>
       <file name="/a.regexp" timestamp="1481727522910">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" timestamp="1481771117546">
+        <mark key="[" line="306" column="107" />
+        <mark key="]" line="306" column="119" />
+        <mark key="^" line="306" column="119" />
+        <mark key="." line="306" column="119" />
       </file>
     </filemarks>
     <jumps>
@@ -27,10 +44,37 @@
       <jump line="48" column="9" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/LoginTemplate.jsp" />
       <jump line="49" column="9" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/LoginTemplate.jsp" />
       <jump line="50" column="9" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/LoginTemplate.jsp" />
+      <jump line="54" column="54" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/portal_parent/postilion_jsf_sdk/src/main/java/postilion/portal/sdk/jsf/tag/ScriptTag.java" />
+      <jump line="106" column="16" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/portal_parent/postilion_jsf_sdk/src/main/java/postilion/portal/sdk/jsf/tag/ScriptTag.java" />
+      <jump line="115" column="20" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/portal_parent/postilion_jsf_sdk/src/main/java/postilion/portal/sdk/jsf/tag/ScriptTag.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzdXBlci5zZXRQcm9wZXJ0aWVzKGNvbXBvbmVudCk7Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzdXBlci5zZXRQcm9wZXJ0aWVzKGNvbXBvbmVudCk7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CXsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CXByb3RlY3RlZCB2b2lkIHNldFByb3BlcnRpZXMoVUlDb21wb25lbnQgY29tcG9uZW50KSAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8L3BjOnNjcmlwdD4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIH0pOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2V0QklEKCk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICQoZnVuY3Rpb24oKSB7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICA8cGM6c2NyaXB0Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -39,13 +83,13 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>pc:script</text>
+        <text>ValueBind</text>
       </register>
     </registers>
     <search>
-      <last-search>pc:script</last-search>
+      <last-search>ValueBind</last-search>
       <last-offset />
-      <last-pattern>pc:script</last-pattern>
+      <last-pattern>ValueBind</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -56,6 +100,7 @@
         <entry>settid</entry>
         <entry>compon</entry>
         <entry>pc:script</entry>
+        <entry>ValueBind</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
