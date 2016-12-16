@@ -35,11 +35,11 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" timestamp="1481833624561">
-        <mark key="[" line="526" column="0" />
-        <mark key="]" line="526" column="0" />
-        <mark key="^" line="306" column="119" />
-        <mark key="." line="526" column="0" />
+      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" timestamp="1481896538401">
+        <mark key="[" line="606" column="5" />
+        <mark key="]" line="600" column="8" />
+        <mark key="^" line="600" column="8" />
+        <mark key="." line="600" column="8" />
       </file>
     </filemarks>
     <jumps>
@@ -61,8 +61,8 @@
       <jump line="115" column="20" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/portal_parent/postilion_jsf_sdk/src/main/java/postilion/portal/sdk/jsf/tag/ScriptTag.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgaHR0cFNlc3Npb24uc2V0QXR0cmlidXRlKCIiKTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -71,27 +71,30 @@
         <text>ValueBind</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaHR0cFNlc3Npb24uc2V0QXR0cmlidXRlKCIiKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBCUk9XU0VSX0ZQX1BST1RFQ1RJT05fRU5BQkxFRF9QQVJBTTsK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBCUk9XU0VSX0ZQX1BST1RFQ1RJT05fRU5BQkxFRF9QQVJBTTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIFN0cmluZyBnZXRCcm93c2VyRnBQcm90ZWN0aW9uRW5hYmxlZFBhcmFtKCkK</text>
+        <text encoding="base64">ICB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIFN0cmluZyBnZXRCcm93c2VyRnBQcm90ZWN0aW9uRW5hYmxlZFBhcmFtKCkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>{
       //
       // then the attribute for our session object is not set,
@@ -101,9 +104,6 @@
       //
       http_session.setAttribute(attribute_id, session);
     }</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
