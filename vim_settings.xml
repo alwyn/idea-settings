@@ -5,56 +5,26 @@
     <filemarks>
       <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/ruby/rails/app/views/shared/_scripts.html.haml" timestamp="1481775324552">
         <mark key="[" line="48" column="13" />
-        <mark key="]" line="49" column="12" />
-        <mark key="^" line="49" column="12" />
-        <mark key="." line="49" column="12" />
-      </file>
-      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/portal_parent/postilion_jsf_sdk/src/main/java/postilion/portal/sdk/jsf/tag/ScriptTag.java" timestamp="1481770389161">
-        <mark key="'" line="115" column="20" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
       </file>
       <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/PrintTemplate.jsp" timestamp="1481723948728">
         <mark key="[" line="46" column="42" />
-      </file>
-      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/Login.jsp" timestamp="1481770989960">
-        <mark key="[" line="121" column="22" />
-      </file>
-      <file name="/a.regexp" timestamp="1481727522910">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/SOURCE/git/ssb6/postilion/ssb/services/src/main/java/postilion/services/sdk/security/SessionFilter.java" timestamp="1481897620566">
-        <mark key="'" line="92" column="43" />
-        <mark key="[" line="395" column="50" />
-        <mark key="]" line="395" column="50" />
-        <mark key="^" line="319" column="95" />
-        <mark key="." line="395" column="50" />
       </file>
       <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/LoginTemplate.jsp" timestamp="1481770283234">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/portal_parent/postilion_jsf_sdk/src/main/java/postilion/portal/sdk/jsf/renderkit/FormRenderer.java" timestamp="1481898961313">
-        <mark key="[" line="649" column="38" />
-        <mark key="]" line="649" column="44" />
-        <mark key="^" line="649" column="44" />
-        <mark key="." line="649" column="44" />
+      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/ruby/rails/app/views/layouts/application.html.haml" timestamp="1481925751384">
+        <mark key="[" line="12" column="57" />
+        <mark key="]" line="13" column="60" />
+        <mark key="^" line="13" column="60" />
+        <mark key="." line="13" column="60" />
       </file>
-      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/data/UserSession.java" timestamp="1481898428110">
-        <mark key="'" line="246" column="37" />
-        <mark key="[" line="2715" column="3" />
-        <mark key="]" line="2716" column="1" />
-        <mark key="^" line="2716" column="1" />
-        <mark key="." line="2716" column="1" />
+      <file name="/a.regexp" timestamp="1481727522910">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" timestamp="1481903469947">
-        <mark key="'" line="429" column="17" />
-        <mark key="[" line="529" column="19" />
-        <mark key="]" line="530" column="31" />
-        <mark key="^" line="530" column="31" />
-        <mark key="." line="530" column="31" />
+      <file name="/fragment.java" timestamp="1481925450470">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
