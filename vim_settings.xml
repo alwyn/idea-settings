@@ -49,12 +49,12 @@
         <mark key="^" line="2716" column="1" />
         <mark key="." line="2716" column="1" />
       </file>
-      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" timestamp="1481898776511">
-        <mark key="'" line="611" column="45" />
-        <mark key="[" line="610" column="60" />
-        <mark key="]" line="611" column="45" />
-        <mark key="^" line="611" column="45" />
-        <mark key="." line="611" column="45" />
+      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" timestamp="1481903469947">
+        <mark key="'" line="429" column="17" />
+        <mark key="[" line="529" column="19" />
+        <mark key="]" line="530" column="31" />
+        <mark key="^" line="530" column="31" />
+        <mark key="." line="530" column="31" />
       </file>
     </filemarks>
     <jumps>
@@ -85,6 +85,11 @@
       <jump line="118" column="33" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" />
       <jump line="309" column="17" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" />
       <jump line="611" column="45" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" />
+      <jump line="791" column="30" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" />
+      <jump line="818" column="34" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" />
+      <jump line="839" column="34" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" />
+      <jump line="1417" column="9" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" />
+      <jump line="429" column="17" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -94,7 +99,7 @@
         <text encoding="base64">VEFCSUQg</text>
       </register>
       <register name="/" type="4">
-        <text>clear</text>
+        <text>clearTABID</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldEJyb3dzZXJGUCgpCiAgewogICAgcmV0dXJuIHRoaXMuYnJvd3NlckZQOwogIH0KfQo=</text>
@@ -131,9 +136,9 @@
       </register>
     </registers>
     <search>
-      <last-search>clear</last-search>
+      <last-search>clearTABID</last-search>
       <last-offset />
-      <last-pattern>clear</last-pattern>
+      <last-pattern>clearTABID</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -148,7 +153,9 @@
         <entry>TABID</entry>
         <entry>setTab</entry>
         <entry>doLogin</entry>
+        <entry>clearTAB</entry>
         <entry>clear</entry>
+        <entry>clearTABID</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
