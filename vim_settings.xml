@@ -24,7 +24,8 @@
       <file name="/a.regexp" timestamp="1481727522910">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/SOURCE/git/ssb6/postilion/ssb/services/src/main/java/postilion/services/sdk/security/SessionFilter.java" timestamp="1481834890754">
+      <file name="C:/SOURCE/git/ssb6/postilion/ssb/services/src/main/java/postilion/services/sdk/security/SessionFilter.java" timestamp="1481897620566">
+        <mark key="'" line="92" column="43" />
         <mark key="[" line="395" column="50" />
         <mark key="]" line="395" column="50" />
         <mark key="^" line="319" column="95" />
@@ -35,11 +36,25 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" timestamp="1481896538401">
-        <mark key="[" line="606" column="5" />
-        <mark key="]" line="600" column="8" />
-        <mark key="^" line="600" column="8" />
-        <mark key="." line="600" column="8" />
+      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/portal_parent/postilion_jsf_sdk/src/main/java/postilion/portal/sdk/jsf/renderkit/FormRenderer.java" timestamp="1481897596477">
+        <mark key="[" line="656" column="0" />
+        <mark key="]" line="658" column="61" />
+        <mark key="^" line="658" column="61" />
+        <mark key="." line="658" column="61" />
+      </file>
+      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/data/UserSession.java" timestamp="1481898251466">
+        <mark key="'" line="246" column="37" />
+        <mark key="[" line="2738" column="0" />
+        <mark key="]" line="2742" column="0" />
+        <mark key="^" line="246" column="37" />
+        <mark key="." line="246" column="37" />
+      </file>
+      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" timestamp="1481897793809">
+        <mark key="'" line="92" column="0" />
+        <mark key="[" line="118" column="1" />
+        <mark key="]" line="118" column="43" />
+        <mark key="^" line="118" column="43" />
+        <mark key="." line="118" column="43" />
       </file>
     </filemarks>
     <jumps>
@@ -59,16 +74,27 @@
       <jump line="54" column="54" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/portal_parent/postilion_jsf_sdk/src/main/java/postilion/portal/sdk/jsf/tag/ScriptTag.java" />
       <jump line="106" column="16" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/portal_parent/postilion_jsf_sdk/src/main/java/postilion/portal/sdk/jsf/tag/ScriptTag.java" />
       <jump line="115" column="20" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/portal_parent/postilion_jsf_sdk/src/main/java/postilion/portal/sdk/jsf/tag/ScriptTag.java" />
+      <jump line="600" column="8" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" />
+      <jump line="253" column="4" filename="C:/SOURCE/git/ssb6/postilion/ssb/services/src/main/java/postilion/services/sdk/security/SessionFilter.java" />
+      <jump line="312" column="33" filename="C:/SOURCE/git/ssb6/postilion/ssb/services/src/main/java/postilion/services/sdk/security/SessionFilter.java" />
+      <jump line="314" column="31" filename="C:/SOURCE/git/ssb6/postilion/ssb/services/src/main/java/postilion/services/sdk/security/SessionFilter.java" />
+      <jump line="387" column="29" filename="C:/SOURCE/git/ssb6/postilion/ssb/services/src/main/java/postilion/services/sdk/security/SessionFilter.java" />
+      <jump line="92" column="43" filename="C:/SOURCE/git/ssb6/postilion/ssb/services/src/main/java/postilion/services/sdk/security/SessionFilter.java" />
+      <jump line="92" column="0" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" />
+      <jump line="246" column="37" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/data/UserSession.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgaHR0cFNlc3Npb24uc2V0QXR0cmlidXRlKCIiKTsK</text>
+        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldEJyb3dzZXJGUCgpCiAgewogICAgcmV0dXJuIHRoaXMuYnJvd3NlckZQOwogIH0KfQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>ValueBind</text>
+        <text>TABID</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldEJyb3dzZXJGUCgpCiAgewogICAgcmV0dXJuIHRoaXMuYnJvd3NlckZQOwogIH0KfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgaHR0cFNlc3Npb24uc2V0QXR0cmlidXRlKCIiKTsK</text>
@@ -110,9 +136,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ValueBind</last-search>
+      <last-search>TABID</last-search>
       <last-offset />
-      <last-pattern>ValueBind</last-pattern>
+      <last-pattern>TABID</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -124,6 +150,7 @@
         <entry>compon</entry>
         <entry>pc:script</entry>
         <entry>ValueBind</entry>
+        <entry>TABID</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
