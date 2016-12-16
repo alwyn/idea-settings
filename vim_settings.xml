@@ -36,25 +36,25 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/portal_parent/postilion_jsf_sdk/src/main/java/postilion/portal/sdk/jsf/renderkit/FormRenderer.java" timestamp="1481897596477">
-        <mark key="[" line="656" column="0" />
-        <mark key="]" line="658" column="61" />
-        <mark key="^" line="658" column="61" />
-        <mark key="." line="658" column="61" />
+      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/portal_parent/postilion_jsf_sdk/src/main/java/postilion/portal/sdk/jsf/renderkit/FormRenderer.java" timestamp="1481898961313">
+        <mark key="[" line="649" column="38" />
+        <mark key="]" line="649" column="44" />
+        <mark key="^" line="649" column="44" />
+        <mark key="." line="649" column="44" />
       </file>
-      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/data/UserSession.java" timestamp="1481898251466">
+      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/data/UserSession.java" timestamp="1481898428110">
         <mark key="'" line="246" column="37" />
-        <mark key="[" line="2738" column="0" />
-        <mark key="]" line="2742" column="0" />
-        <mark key="^" line="246" column="37" />
-        <mark key="." line="246" column="37" />
+        <mark key="[" line="2715" column="3" />
+        <mark key="]" line="2716" column="1" />
+        <mark key="^" line="2716" column="1" />
+        <mark key="." line="2716" column="1" />
       </file>
-      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" timestamp="1481897793809">
-        <mark key="'" line="92" column="0" />
-        <mark key="[" line="118" column="1" />
-        <mark key="]" line="118" column="43" />
-        <mark key="^" line="118" column="43" />
-        <mark key="." line="118" column="43" />
+      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" timestamp="1481898776511">
+        <mark key="'" line="611" column="45" />
+        <mark key="[" line="610" column="60" />
+        <mark key="]" line="611" column="45" />
+        <mark key="^" line="611" column="45" />
+        <mark key="." line="611" column="45" />
       </file>
     </filemarks>
     <jumps>
@@ -82,63 +82,58 @@
       <jump line="92" column="43" filename="C:/SOURCE/git/ssb6/postilion/ssb/services/src/main/java/postilion/services/sdk/security/SessionFilter.java" />
       <jump line="92" column="0" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" />
       <jump line="246" column="37" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/data/UserSession.java" />
+      <jump line="118" column="33" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" />
+      <jump line="309" column="17" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" />
+      <jump line="611" column="45" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldEJyb3dzZXJGUCgpCiAgewogICAgcmV0dXJuIHRoaXMuYnJvd3NlckZQOwogIH0KfQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">VEFCSUQg</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">VEFCSUQg</text>
       </register>
       <register name="/" type="4">
-        <text>TABID</text>
+        <text>clear</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldEJyb3dzZXJGUCgpCiAgewogICAgcmV0dXJuIHRoaXMuYnJvd3NlckZQOwogIH0KfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaHR0cFNlc3Npb24uc2V0QXR0cmlidXRlKCIiKTsK</text>
+        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldEJyb3dzZXJGUCgpCiAgewogICAgcmV0dXJuIHRoaXMuYnJvd3NlckZQOwogIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaHR0cFNlc3Npb24uc2V0QXR0cmlidXRlKCIiKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBCUk9XU0VSX0ZQX1BST1RFQ1RJT05fRU5BQkxFRF9QQVJBTTsK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBCUk9XU0VSX0ZQX1BST1RFQ1RJT05fRU5BQkxFRF9QQVJBTTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIFN0cmluZyBnZXRCcm93c2VyRnBQcm90ZWN0aW9uRW5hYmxlZFBhcmFtKCkK</text>
+        <text encoding="base64">ICB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIFN0cmluZyBnZXRCcm93c2VyRnBQcm90ZWN0aW9uRW5hYmxlZFBhcmFtKCkK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-      //
-      // then the attribute for our session object is not set,
-      // place our session into http_session. The container
-      // will ensure that this is always returned to us
-      // in future.
-      //
-      http_session.setAttribute(attribute_id, session);
-    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>TABID</last-search>
+      <last-search>clear</last-search>
       <last-offset />
-      <last-pattern>TABID</last-pattern>
+      <last-pattern>clear</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -151,6 +146,9 @@
         <entry>pc:script</entry>
         <entry>ValueBind</entry>
         <entry>TABID</entry>
+        <entry>setTab</entry>
+        <entry>doLogin</entry>
+        <entry>clear</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
