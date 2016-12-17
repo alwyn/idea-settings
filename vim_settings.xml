@@ -14,12 +14,18 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
+      <file name="C:/SOURCE/git/postmaster/src/main/java/postilion/postmaster/BaseDataProvider.java" timestamp="1481945319577">
+        <mark key="[" line="144" column="25" />
+        <mark key="]" line="144" column="25" />
+        <mark key="." line="144" column="25" />
+      </file>
       <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/ruby/rails/app/views/layouts/application.html.haml" timestamp="1481925751384">
         <mark key="[" line="12" column="57" />
         <mark key="]" line="13" column="60" />
         <mark key="^" line="13" column="60" />
         <mark key="." line="13" column="60" />
       </file>
+      <file name="C:/SOURCE/git/postmaster/src/main/java/postilion/postmaster/PostMaster.java" timestamp="1481945895176" />
       <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/TabbedBase.jsp" timestamp="1481937974285">
         <mark key="[" line="59" column="21" />
         <mark key="]" line="60" column="20" />
@@ -89,10 +95,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">VEFCSUQg</text>
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VEFCSUQg</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>BROWSERFP</text>
@@ -182,6 +188,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
