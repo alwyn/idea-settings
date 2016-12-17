@@ -9,16 +9,21 @@
       <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/PrintTemplate.jsp" timestamp="1481723948728">
         <mark key="[" line="46" column="42" />
       </file>
+      <file name="/fragment.kt" timestamp="1481948023433">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/LoginTemplate.jsp" timestamp="1481770283234">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="C:/SOURCE/git/postmaster/src/main/java/postilion/postmaster/BaseDataProvider.java" timestamp="1481947174224">
+      <file name="C:/SOURCE/git/postmaster/src/main/java/postilion/postmaster/BaseDataProvider.java" timestamp="1481949250693">
         <mark key="'" line="33" column="2" />
-        <mark key="[" line="144" column="25" />
-        <mark key="]" line="144" column="25" />
-        <mark key="." line="144" column="25" />
+        <mark key="[" line="381" column="6" />
+        <mark key="]" line="381" column="6" />
+        <mark key="." line="381" column="6" />
       </file>
       <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/ruby/rails/app/views/layouts/application.html.haml" timestamp="1481925751384">
         <mark key="[" line="12" column="57" />
@@ -46,7 +51,7 @@
         <mark key="^" line="615" column="81" />
         <mark key="." line="615" column="81" />
       </file>
-      <file name="/fragment.java" timestamp="1481927725083">
+      <file name="/fragment.java" timestamp="1481948522849">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -97,10 +102,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>c</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="/" type="4">
         <text>BROWSERFP</text>
