@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="11006c7e-181b-48f3-9cc5-15eb21bc35ce" name="XBat2008" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="C:\VMSHARE\staging" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</application>
