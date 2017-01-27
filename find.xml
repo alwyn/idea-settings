@@ -9,7 +9,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '[postmaster] - ...'" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.jsp" />
     <recentFileMasks>
       <mask>*.as</mask>
       <mask>*.mxml</mask>
@@ -32,12 +32,12 @@
       <mask>*.tld</mask>
       <mask>*.properties</mask>
       <mask>java</mask>
-      <mask>*.jsp</mask>
       <mask>*.sql</mask>
       <mask>pom.xml</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.js</mask>
+      <mask>*.jsp</mask>
     </recentFileMasks>
   </component>
 </application>
