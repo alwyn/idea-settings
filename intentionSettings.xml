@@ -1,5 +1,8 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="Kotlin/Remove braces" />
+    <ignoreAction name="Java/Boolean/Expand Boolean" />
+    <ignoreAction name="Java/Boolean/DeMorgan Law" />
+    <ignoreAction name="Java/Declaration/Split Declaration" />
   </component>
 </application>
