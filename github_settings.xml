@@ -1,6 +1,6 @@
 <application>
   <component name="GithubSettings">
-    <option name="LOGIN" value="alwyn.schoeman@gmail.com" />
+    <option name="LOGIN" value="alwyn" />
     <option name="AUTH_TYPE" value="BASIC" />
   </component>
 </application>
