@@ -1,14 +1,14 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[admin] - C:\SOURCE\git\ssb6\postilion\ssb\web\applicationmanager\src\main\java\postilion\portal\admin\bean\fi\AddFi.java'" />
-    <option name="defaultScopeName" value="File '[admin] - C:\SOURCE\git\ssb6\postilion\ssb\web\applicationmanager\src\main\java\postilion\portal\admin\bean\fi\AddFi.java'" />
+    <option name="customScope" value="File '[portal_java] - C:\SOURCE\git\ssb6\postilion\ssb\web\portal_parent\portal_java\src\main\java\postilion\portal\ui\bean\businesscustomer\BusinessCustomer.java'" />
+    <option name="defaultScopeName" value="File '[portal_java] - C:\SOURCE\git\ssb6\postilion\ssb\web\portal_parent\portal_java\src\main\java\postilion\portal\ui\bean\businesscustomer\BusinessCustomer.java'" />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[admin] - C:\SOURCE\git\ssb6\postilion\ssb\web\applicationmanager\src\main\java\postilion\portal\admin\bean\fi\AddFi.java'" />
+    <option name="SEARCH_SCOPE" value="File '[portal_java] - C:\SOURCE\git\ssb6\postilion\ssb\web\portal_parent\portal_java\src\main\java\postilion\portal\ui\bean\businesscustomer\BusinessCustomer.java'" />
     <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.as</mask>
