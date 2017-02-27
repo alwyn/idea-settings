@@ -32,11 +32,11 @@
       <mask>*.tld</mask>
       <mask>java</mask>
       <mask>*.js</mask>
-      <mask>*.sql</mask>
       <mask>*.xml</mask>
       <mask>pom.xml</mask>
       <mask>*.jsp</mask>
       <mask>*.properties</mask>
+      <mask>*.sql</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
