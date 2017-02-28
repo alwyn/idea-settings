@@ -1,14 +1,14 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[services] - C:\SOURCE\git\ssb6\postilion\ssb\services\src\main\java\postilion\services\ssb\payments\PaymentDataUtils.java'" />
-    <option name="defaultScopeName" value="File '[services] - C:\SOURCE\git\ssb6\postilion\ssb\services\src\main\java\postilion\services\ssb\payments\PaymentDataUtils.java'" />
+    <option name="customScope" value="File '[portal_java] - C:\SOURCE\git\ssb6\postilion\ssb\web\portal_parent\portal_java\src\main\java\postilion\portal\ui\bean\serviceplan\ServicePlan.java'" />
+    <option name="defaultScopeName" value="File '[portal_java] - C:\SOURCE\git\ssb6\postilion\ssb\web\portal_parent\portal_java\src\main\java\postilion\portal\ui\bean\serviceplan\ServicePlan.java'" />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[services] - C:\SOURCE\git\ssb6\postilion\ssb\services\src\main\java\postilion\services\ssb\payments\PaymentDataUtils.java'" />
+    <option name="SEARCH_SCOPE" value="File '[portal_java] - C:\SOURCE\git\ssb6\postilion\ssb\web\portal_parent\portal_java\src\main\java\postilion\portal\ui\bean\serviceplan\ServicePlan.java'" />
     <option name="FILE_MASK" value="*.haml" />
     <recentFileMasks>
       <mask>*.as</mask>
