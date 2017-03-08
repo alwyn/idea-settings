@@ -1,15 +1,15 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[scheduleinjector] - C:\SOURCE\git\ssb6\postilion\ssb\scheduleinjector\src\main\java\postilion\scheduleinjector\transactions\PaymentBatchTransaction.java'" />
-    <option name="defaultScopeName" value="File '[scheduleinjector] - C:\SOURCE\git\ssb6\postilion\ssb\scheduleinjector\src\main\java\postilion\scheduleinjector\transactions\PaymentBatchTransaction.java'" />
+    <option name="customScope" value="Module 'scheduleinjector'" />
+    <option name="defaultScopeName" value="Module 'scheduleinjector'" />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[scheduleinjector] - C:\SOURCE\git\ssb6\postilion\ssb\scheduleinjector\src\main\java\postilion\scheduleinjector\transactions\PaymentBatchTransaction.java'" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="SEARCH_SCOPE" value="Module 'scheduleinjector'" />
+    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
       <mask>*.as</mask>
       <mask>*.mxml</mask>
@@ -36,8 +36,8 @@
       <mask>*.jsp</mask>
       <mask>*.properties</mask>
       <mask>*.haml</mask>
-      <mask>*.sql</mask>
       <mask>*.java</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
