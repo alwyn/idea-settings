@@ -1,14 +1,14 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'intellij-community'" />
-    <option name="defaultScopeName" value="Project 'intellij-community'" />
+    <option name="customScope" value="Project 'Idea6'" />
+    <option name="defaultScopeName" value="Project 'Idea6'" />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'intellij-community'" />
+    <option name="SEARCH_SCOPE" value="Project 'Idea6'" />
     <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
       <mask>*.as</mask>
