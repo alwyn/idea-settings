@@ -9,7 +9,6 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File '[scheduleinjector] - C:\SOURCE\git\ssb6\postilion\ssb\scheduleinjector\src\main\java\postilion\scheduleinjector\limits\VelocityLimitsService.java'" />
-    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
       <mask>*.as</mask>
       <mask>*.mxml</mask>
