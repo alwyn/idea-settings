@@ -1,14 +1,14 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Idea6'" />
-    <option name="defaultScopeName" value="Project 'Idea6'" />
+    <option name="customScope" value="File '[messagedelivery] - C:\SOURCE\git\ssb6\postilion\ssb\messagedelivery\src\main\java\postilion\messagedelivery\PosExtMessageDelService.java'" />
+    <option name="defaultScopeName" value="File '[messagedelivery] - C:\SOURCE\git\ssb6\postilion\ssb\messagedelivery\src\main\java\postilion\messagedelivery\PosExtMessageDelService.java'" />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'Idea6'" />
+    <option name="SEARCH_SCOPE" value="File '[messagedelivery] - C:\SOURCE\git\ssb6\postilion\ssb\messagedelivery\src\main\java\postilion\messagedelivery\PosExtMessageDelService.java'" />
     <recentFileMasks>
       <mask>*.as</mask>
       <mask>*.mxml</mask>
