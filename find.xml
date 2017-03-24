@@ -1,21 +1,16 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[postilion_jsf_sdk] - C:\SOURCE\git\ssb6\postilion\ssb\web\portal_parent\postilion_jsf_sdk\src\main\java\postilion\portal\sdk\jsf\view\ViewDefinitionFactory.java'" />
-    <option name="defaultScopeName" value="File '[postilion_jsf_sdk] - C:\SOURCE\git\ssb6\postilion\ssb\web\portal_parent\postilion_jsf_sdk\src\main\java\postilion\portal\sdk\jsf\view\ViewDefinitionFactory.java'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[postilion_jsf_sdk] - C:\SOURCE\git\ssb6\postilion\ssb\web\portal_parent\postilion_jsf_sdk\src\main\java\postilion\portal\sdk\jsf\view\ViewDefinitionFactory.java'" />
-    <option name="FILE_MASK" value="pom.xml" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="web.xml" />
     <recentFileMasks>
-      <mask>*.mxml</mask>
-      <mask>*.java,*.sql</mask>
-      <mask>*.jsf</mask>
-      <mask>*.properties, *.xml, *.yaml</mask>
-      <mask>views*.xml</mask>
       <mask>*.cmd</mask>
       <mask>*.gradle</mask>
       <mask>*.xsd</mask>
@@ -37,10 +32,15 @@
       <mask>*.xml</mask>
       <mask>*.</mask>
       <mask>*</mask>
-      <mask>p</mask>
-      <mask>pom</mask>
-      <mask>pom.</mask>
       <mask>pom.xml</mask>
+      <mask>pom.</mask>
+      <mask>pom</mask>
+      <mask>po</mask>
+      <mask>p</mask>
+      <mask>we</mask>
+      <mask>web</mask>
+      <mask>web.</mask>
+      <mask>web.xml</mask>
     </recentFileMasks>
   </component>
 </application>
