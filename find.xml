@@ -9,25 +9,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
-      <mask>build.gradle</mask>
-      <mask>*refpack.xml</mask>
-      <mask>install.xml</mask>
-      <mask>*.html</mask>
-      <mask>*.css</mask>
-      <mask>*.scss</mask>
-      <mask>*.rb</mask>
-      <mask>*.tld</mask>
-      <mask>java</mask>
-      <mask>*.js</mask>
-      <mask>*.jsp</mask>
-      <mask>*.properties</mask>
-      <mask>*.haml</mask>
-      <mask>*.java</mask>
-      <mask>*.xml</mask>
-      <mask>web.xml</mask>
-      <mask>web.</mask>
       <mask>web</mask>
       <mask>we</mask>
       <mask>w</mask>
@@ -35,12 +17,29 @@
       <mask>*.sql</mask>
       <mask>*.sq</mask>
       <mask>*.s</mask>
-      <mask>*.</mask>
-      <mask>*</mask>
       <mask>p</mask>
       <mask>pom</mask>
       <mask>pom.</mask>
       <mask>pom.xml</mask>
+      <mask>*.</mask>
+      <mask>*.xml</mask>
+      <mask>refpack</mask>
+      <mask>refpac</mask>
+      <mask>refpa</mask>
+      <mask>refp</mask>
+      <mask>ref</mask>
+      <mask>re</mask>
+      <mask>r</mask>
+      <mask>*</mask>
+      <mask>*re</mask>
+      <mask>*ref</mask>
+      <mask>*refpa</mask>
+      <mask>*refpack.xm</mask>
+      <mask>*refpack.x</mask>
+      <mask>*refpack*</mask>
+      <mask>*refpack</mask>
+      <mask>*refpack.</mask>
+      <mask>*refpack.xml</mask>
     </recentFileMasks>
   </component>
 </application>
