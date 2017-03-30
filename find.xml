@@ -1,14 +1,15 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'legacyproj'" />
-    <option name="defaultScopeName" value="Project 'legacyproj'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'legacyproj'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
       <mask>build.gradle</mask>
       <mask>*refpack.xml</mask>
@@ -25,21 +26,21 @@
       <mask>*.haml</mask>
       <mask>*.java</mask>
       <mask>*.xml</mask>
-      <mask>p</mask>
       <mask>web.xml</mask>
       <mask>web.</mask>
       <mask>web</mask>
       <mask>we</mask>
       <mask>w</mask>
       <mask>po</mask>
+      <mask>*.sql</mask>
+      <mask>*.sq</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>p</mask>
       <mask>pom</mask>
       <mask>pom.</mask>
       <mask>pom.xml</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.s</mask>
-      <mask>*.sq</mask>
-      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
