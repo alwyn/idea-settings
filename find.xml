@@ -1,22 +1,16 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[triggersystem] - C:\SOURCE\git\legacy\postilion\ssb\triggersystem\src\main\java\postilion\triggersystem\triggers\standard\samedayachnotification\SameDayAchNotification.java'" />
-    <option name="defaultScopeName" value="File '[triggersystem] - C:\SOURCE\git\legacy\postilion\ssb\triggersystem\src\main\java\postilion\triggersystem\triggers\standard\samedayachnotification\SameDayAchNotification.java'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[triggersystem] - C:\SOURCE\git\legacy\postilion\ssb\triggersystem\src\main\java\postilion\triggersystem\triggers\standard\samedayachnotification\SameDayAchNotification.java'" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
-      <mask>w</mask>
-      <mask>po</mask>
-      <mask>*.sql</mask>
-      <mask>*.sq</mask>
-      <mask>*.s</mask>
-      <mask>p</mask>
       <mask>pom</mask>
       <mask>pom.</mask>
       <mask>pom.xml</mask>
@@ -39,8 +33,14 @@
       <mask>*refpack.xml</mask>
       <mask>*(</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sq</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
