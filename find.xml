@@ -10,12 +10,6 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>pom</mask>
-      <mask>pom.</mask>
-      <mask>pom.xml</mask>
-      <mask>*.xml</mask>
-      <mask>refpack</mask>
-      <mask>refpac</mask>
       <mask>refpa</mask>
       <mask>refp</mask>
       <mask>ref</mask>
@@ -31,7 +25,6 @@
       <mask>*refpack.</mask>
       <mask>*refpack.xml</mask>
       <mask>*(</mask>
-      <mask>*</mask>
       <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
@@ -40,6 +33,13 @@
       <mask>*.s</mask>
       <mask>*.sq</mask>
       <mask>*.sql</mask>
+      <mask>*</mask>
+      <mask>*da</mask>
+      <mask>*dao</mask>
+      <mask>*dao.</mask>
+      <mask>*dao.j</mask>
+      <mask>*dao.ja</mask>
+      <mask>*dao.java</mask>
     </recentFileMasks>
   </component>
 </application>
