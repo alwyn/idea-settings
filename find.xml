@@ -9,8 +9,8 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.jsp" />
     <recentFileMasks>
-      <mask>ref</mask>
       <mask>re</mask>
       <mask>r</mask>
       <mask>*re</mask>
@@ -35,11 +35,12 @@
       <mask>*.s</mask>
       <mask>*.sq</mask>
       <mask>*.sql</mask>
-      <mask>*.j</mask>
-      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.xml</mask>
+      <mask>*.j</mask>
+      <mask>*.jsp[</mask>
+      <mask>*.jsp</mask>
     </recentFileMasks>
   </component>
 </application>
