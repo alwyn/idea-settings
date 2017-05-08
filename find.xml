@@ -9,7 +9,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.jsp" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>re</mask>
       <mask>r</mask>
@@ -23,9 +23,7 @@
       <mask>*refpack.</mask>
       <mask>*refpack.xml</mask>
       <mask>*(</mask>
-      <mask>*.java</mask>
       <mask>*.jav</mask>
-      <mask>*.ja</mask>
       <mask>*da</mask>
       <mask>*dao</mask>
       <mask>*dao.</mask>
@@ -36,11 +34,13 @@
       <mask>*.sq</mask>
       <mask>*.sql</mask>
       <mask>*.xml</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.jsp[</mask>
       <mask>*.jsp</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
