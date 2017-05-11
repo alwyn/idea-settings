@@ -7,14 +7,8 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Dao.java" />
     <recentFileMasks>
-      <mask>re</mask>
-      <mask>r</mask>
-      <mask>*re</mask>
-      <mask>*ref</mask>
-      <mask>*refpa</mask>
-      <mask>*refpack.xm</mask>
-      <mask>*refpack.x</mask>
       <mask>*refpack*</mask>
       <mask>*refpack</mask>
       <mask>*refpack.</mask>
@@ -34,10 +28,17 @@
       <mask>*.j</mask>
       <mask>*.jsp[</mask>
       <mask>*.jsp</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>*D</mask>
+      <mask>*Da</mask>
+      <mask>*Dao</mask>
+      <mask>*Dao.</mask>
+      <mask>*Dao.j</mask>
+      <mask>*Dao.ja</mask>
+      <mask>*Dao.java</mask>
     </recentFileMasks>
   </component>
 </application>
