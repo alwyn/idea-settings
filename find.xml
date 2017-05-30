@@ -7,13 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*refpack.</mask>
-      <mask>*refpack.xml</mask>
-      <mask>*(</mask>
-      <mask>*.jav</mask>
-      <mask>*da</mask>
       <mask>*dao</mask>
       <mask>*dao.</mask>
       <mask>*dao.j</mask>
@@ -36,9 +30,14 @@
       <mask>(*Dao.java)</mask>
       <mask>()</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*.yml</mask>
+      <mask>*.ym</mask>
+      <mask>*.y</mask>
+      <mask>*.</mask>
+      <mask>*.r</mask>
+      <mask>*.rb</mask>
     </recentFileMasks>
   </component>
 </application>
