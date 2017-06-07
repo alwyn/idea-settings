@@ -1,13 +1,13 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[services] - C:\SOURCE\git\legacy\postilion\ssb\services\src\main\java\postilion\office\plugin\normalization\ssb\fee\FeeRetriever.java'" />
-    <option name="defaultScopeName" value="File '[services] - C:\SOURCE\git\legacy\postilion\ssb\services\src\main\java\postilion\office\plugin\normalization\ssb\fee\FeeRetriever.java'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[services] - C:\SOURCE\git\legacy\postilion\ssb\services\src\main\java\postilion\office\plugin\normalization\ssb\fee\FeeRetriever.java'" />
-    <option name="FILE_MASK" value="*.properties" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.jsp</mask>
       <mask>*D</mask>
@@ -28,10 +28,6 @@
       <mask>*.sq</mask>
       <mask>*.sql</mask>
       <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.pr</mask>
       <mask>*.prop</mask>
@@ -39,6 +35,10 @@
       <mask>*.propert</mask>
       <mask>*.propertie</mask>
       <mask>*.properties</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
