@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'legacy'" />
-    <option name="defaultScopeName" value="Project 'legacy'" />
+    <option name="customScope" value="File '[services] - ...\postilion\ssb\services\src\main\java\postilion\services\ssb\payments\PaymentDataUtils.java'" />
+    <option name="defaultScopeName" value="File '[services] - ...\postilion\ssb\services\src\main\java\postilion\services\ssb\payments\PaymentDataUtils.java'" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'legacy'" />
+    <option name="SEARCH_SCOPE" value="File '[services] - ...\postilion\ssb\services\src\main\java\postilion\services\ssb\payments\PaymentDataUtils.java'" />
     <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.jsp</mask>
