@@ -1,23 +1,14 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[services] - ...\postilion\ssb\services\src\main\java\postilion\services\ssb\payments\PaymentDataUtils.java'" />
-    <option name="defaultScopeName" value="File '[services] - ...\postilion\ssb\services\src\main\java\postilion\services\ssb\payments\PaymentDataUtils.java'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[services] - ...\postilion\ssb\services\src\main\java\postilion\services\ssb\payments\PaymentDataUtils.java'" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*refpack.xml" />
     <recentFileMasks>
-      <mask>*.jsp</mask>
-      <mask>*D</mask>
-      <mask>*Da</mask>
-      <mask>*Dao</mask>
-      <mask>*Dao.</mask>
-      <mask>*Dao.j</mask>
-      <mask>*Dao.ja</mask>
-      <mask>*Dao.java</mask>
-      <mask>(*Dao.java)</mask>
       <mask>()</mask>
       <mask>*.yml</mask>
       <mask>*.ym</mask>
@@ -35,10 +26,19 @@
       <mask>*.propert</mask>
       <mask>*.propertie</mask>
       <mask>*.properties</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*.xml</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>*re</mask>
+      <mask>*ref</mask>
+      <mask>*refp</mask>
+      <mask>*refpa</mask>
+      <mask>*refpack</mask>
+      <mask>*refpack.</mask>
+      <mask>*refpack.x</mask>
+      <mask>*refpack.xml</mask>
     </recentFileMasks>
   </component>
 </application>
