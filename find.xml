@@ -9,14 +9,6 @@
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.yml</mask>
-      <mask>*.ym</mask>
-      <mask>*.y</mask>
-      <mask>*.rb</mask>
-      <mask>*.r</mask>
-      <mask>*.s</mask>
-      <mask>*.sq</mask>
-      <mask>*.j</mask>
       <mask>*.p</mask>
       <mask>*.pr</mask>
       <mask>*.prop</mask>
@@ -26,7 +18,6 @@
       <mask>*.properties</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
-      <mask>*.xml</mask>
       <mask>*re</mask>
       <mask>*ref</mask>
       <mask>*refp</mask>
@@ -36,9 +27,18 @@
       <mask>*refpack.x</mask>
       <mask>*refpack.xml</mask>
       <mask>*refpack.xm</mask>
+      <mask>*.sql</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.sql</mask>
+      <mask>*.xsd</mask>
+      <mask>*.xs</mask>
+      <mask>*.x</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
+      <mask>*.dd</mask>
+      <mask>*.d</mask>
+      <mask>*.dt</mask>
+      <mask>*.dtd</mask>
     </recentFileMasks>
   </component>
 </application>
