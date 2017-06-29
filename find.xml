@@ -1,23 +1,18 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '[services] - ...\postilion\ssb\services\src\main\java\postilion\services\ssb\serviceplan\DemoServicePlanDao.java'" />
+    <option name="defaultScopeName" value="File '[services] - ...\postilion\ssb\services\src\main\java\postilion\services\ssb\serviceplan\DemoServicePlanDao.java'" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '[services] - ...\postilion\ssb\services\src\main\java\postilion\services\ssb\serviceplan\DemoServicePlanDao.java'" />
+    <option name="FILE_MASK" value="proc*" />
     <recentFileMasks>
-      <mask>*.p</mask>
-      <mask>*.pr</mask>
-      <mask>*.prop</mask>
-      <mask>*.proper</mask>
-      <mask>*.propert</mask>
       <mask>*.propertie</mask>
       <mask>*.properties</mask>
       <mask>*.ja</mask>
-      <mask>*.java</mask>
       <mask>*re</mask>
       <mask>*ref</mask>
       <mask>*refp</mask>
@@ -28,8 +23,6 @@
       <mask>*refpack.xml</mask>
       <mask>*refpack.xm</mask>
       <mask>*.sql</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.xsd</mask>
       <mask>*.xs</mask>
       <mask>*.x</mask>
@@ -39,6 +32,14 @@
       <mask>*.d</mask>
       <mask>*.dt</mask>
       <mask>*.dtd</mask>
+      <mask>pr</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.java</mask>
+      <mask>p</mask>
+      <mask>pro</mask>
+      <mask>proc</mask>
+      <mask>proc*</mask>
     </recentFileMasks>
   </component>
 </application>
