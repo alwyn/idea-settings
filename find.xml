@@ -1,13 +1,13 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'legacy'" />
-    <option name="defaultScopeName" value="Project 'legacy'" />
+    <option name="customScope" value="Project 'postmaster'" />
+    <option name="defaultScopeName" value="Project 'postmaster'" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="Project 'legacy'" />
+    <option name="SEARCH_SCOPE" value="Project 'postmaster'" />
     <option name="FILE_MASK" value="proc*" />
     <recentFileMasks>
       <mask>*.propertie</mask>
