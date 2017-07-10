@@ -9,8 +9,6 @@
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*ref</mask>
-      <mask>*refp</mask>
       <mask>*refpa</mask>
       <mask>*refpack</mask>
       <mask>*refpack.</mask>
@@ -28,9 +26,6 @@
       <mask>*.dt</mask>
       <mask>*.dtd</mask>
       <mask>pr</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.java</mask>
       <mask>pro</mask>
       <mask>proc</mask>
       <mask>proc*</mask>
@@ -39,6 +34,11 @@
       <mask>pom</mask>
       <mask>pom.</mask>
       <mask>pom.xml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
