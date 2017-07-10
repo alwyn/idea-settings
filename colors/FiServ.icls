@@ -1,5 +1,12 @@
-<scheme name="Obsidian" version="142" parent_scheme="Default">
+<scheme name="FiServ" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.25" />
+  <metaInfo>
+    <property name="created">2017-07-10T19:02:07</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2017.1.5.0.0</property>
+    <property name="modified">2017-07-10T19:02:23</property>
+    <property name="originalScheme">Obsidian copy</property>
+  </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="20" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
@@ -519,6 +526,11 @@
     <option name="METHOD_DECLARATION_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="678cb1" />
+      </value>
+    </option>
+    <option name="NOT_TOP_FRAME_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="93df0" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
