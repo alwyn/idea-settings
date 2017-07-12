@@ -8,20 +8,8 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.cmd" />
     <recentFileMasks>
-      <mask>*refpa</mask>
-      <mask>*refpack</mask>
-      <mask>*refpack.</mask>
-      <mask>*refpack.x</mask>
-      <mask>*refpack.xml</mask>
-      <mask>*refpack.xm</mask>
-      <mask>*.sql</mask>
-      <mask>*.xsd</mask>
-      <mask>*.xs</mask>
-      <mask>*.x</mask>
-      <mask>*.xm</mask>
-      <mask>*.xml</mask>
       <mask>*.dd</mask>
       <mask>*.d</mask>
       <mask>*.dt</mask>
@@ -30,16 +18,28 @@
       <mask>pro</mask>
       <mask>proc</mask>
       <mask>proc*</mask>
-      <mask>p</mask>
       <mask>po</mask>
-      <mask>pom</mask>
-      <mask>pom.</mask>
-      <mask>pom.xml</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>[pm.]</mask>
+      <mask>[pm]</mask>
+      <mask>[p]</mask>
+      <mask>[]</mask>
+      <mask>p</mask>
+      <mask>pom</mask>
+      <mask>pom.</mask>
+      <mask>pom.x</mask>
+      <mask>pom.xml</mask>
+      <mask>pom.xm</mask>
+      <mask>*</mask>
+      <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.c</mask>
+      <mask>*.cm</mask>
+      <mask>*.cmd</mask>
     </recentFileMasks>
   </component>
 </application>
