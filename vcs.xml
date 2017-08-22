@@ -18,6 +18,10 @@
           <option name="url" value="ssh://git@10.213.82.14:7999/st/sso-tool-postilion_loaders.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@10.213.82.14:7999/st/harland.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\SOURCE\git" />
