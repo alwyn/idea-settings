@@ -22,9 +22,13 @@
           <option name="url" value="ssh://git@10.213.82.14:7999/st/harland.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/alwyn/standup.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\SOURCE\git" />
+    <option name="cloneParentDir" value="C:\SOURCE\github" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="C:/SOURCE/git/legacy/legacyproj" />
