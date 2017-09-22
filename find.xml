@@ -1,14 +1,13 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[harland-sso-services] - ...\harland-services\src\main\java\postilion\services\ssb\sso\harland\HarlandProvider.java'" />
-    <option name="defaultScopeName" value="File '[harland-sso-services] - ...\harland-services\src\main\java\postilion\services\ssb\sso\harland\HarlandProvider.java'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="File '[harland-sso-services] - ...\harland-services\src\main\java\postilion\services\ssb\sso\harland\HarlandProvider.java'" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.cmd</mask>
       <mask>(*.sql)</mask>
