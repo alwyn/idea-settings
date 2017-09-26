@@ -8,21 +8,10 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
-      <mask>*.cmd</mask>
-      <mask>(*.sql)</mask>
-      <mask>(.java)</mask>
-      <mask>(.jav)</mask>
-      <mask>(.ja)</mask>
-      <mask>(.j)</mask>
-      <mask>(.)</mask>
-      <mask>()</mask>
       <mask>)</mask>
-      <mask>pom.xml</mask>
       <mask>pom.x</mask>
-      <mask>pom.</mask>
-      <mask>pom</mask>
-      <mask>po</mask>
       <mask>p</mask>
       <mask>*.jsf</mask>
       <mask>*.jsp</mask>
@@ -39,6 +28,18 @@
       <mask>*.</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>jpom.xml</mask>
+      <mask>jpom.xm</mask>
+      <mask>jpom.x</mask>
+      <mask>jpom.</mask>
+      <mask>jpom</mask>
+      <mask>jpo</mask>
+      <mask>jp</mask>
+      <mask>j</mask>
+      <mask>po</mask>
+      <mask>pom</mask>
+      <mask>pom.</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
