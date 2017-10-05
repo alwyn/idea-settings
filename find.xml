@@ -8,26 +8,8 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>)</mask>
-      <mask>pom.x</mask>
-      <mask>p</mask>
-      <mask>*.jsf</mask>
-      <mask>*.jsp</mask>
-      <mask>*.js</mask>
-      <mask>*.jav</mask>
-      <mask>*.j</mask>
-      <mask>*.xml</mask>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
-      <mask>*.s</mask>
-      <mask>*.sq</mask>
-      <mask>*.sql</mask>
-      <mask>jpom.xml</mask>
-      <mask>jpom.xm</mask>
-      <mask>jpom.x</mask>
-      <mask>jpom.</mask>
       <mask>jpom</mask>
       <mask>jpo</mask>
       <mask>jp</mask>
@@ -36,10 +18,28 @@
       <mask>pom</mask>
       <mask>pom.</mask>
       <mask>pom.xml</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>*re</mask>
+      <mask>*ref</mask>
+      <mask>*refp</mask>
+      <mask>*refpa</mask>
+      <mask>*refpac</mask>
+      <mask>*refpack</mask>
+      <mask>*refpack.</mask>
+      <mask>*refpack.x</mask>
+      <mask>*refpack.xml</mask>
+      <mask>*refpac.xml</mask>
+      <mask>*refpa.xml</mask>
+      <mask>*refp.xml</mask>
+      <mask>*ref.xml</mask>
+      <mask>*re.xml</mask>
+      <mask>.xml</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
