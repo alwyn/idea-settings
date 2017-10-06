@@ -8,6 +8,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>jpom</mask>
       <mask>jpo</mask>
@@ -17,7 +18,6 @@
       <mask>pom</mask>
       <mask>pom.</mask>
       <mask>pom.xml</mask>
-      <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
@@ -39,6 +39,7 @@
       <mask>*re.xml</mask>
       <mask>.xml</mask>
       <mask>*.xml</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
