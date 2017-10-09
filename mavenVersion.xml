@@ -1,3 +1,3 @@
 <application>
-  <component name="MavenVersion" vmOptions="-Xms 128m -Xmx768m" embedderJdk="1.8 152" mavenHome="$USER_HOME$/Utilities/apache-maven-3.2.5" />
+  <component name="MavenVersion" vmOptions="-Xms128m -Xmx768m" embedderJdk="1.8 152" mavenHome="$USER_HOME$/Utilities/apache-maven-3.2.5" />
 </application>
