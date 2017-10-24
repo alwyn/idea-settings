@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1482154924382">
+      <file name="/Dummy.txt" timestamp="1508855476360">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/ruby/rails/app/views/shared/_scripts.html.haml" timestamp="1481775324552">
@@ -30,6 +30,13 @@
         <mark key="." line="558" column="18" />
         <mark key="^" line="558" column="17" />
       </file>
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/web/postilion_tomcat/pom.xml" timestamp="1508855710147">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="293" column="15" />
+        <mark key="]" line="293" column="18" />
+        <mark key="^" line="293" column="18" />
+        <mark key="." line="293" column="18" />
+      </file>
       <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/TabbedBase.jsp" timestamp="1481937974285">
         <mark key="[" line="59" column="21" />
         <mark key="]" line="60" column="20" />
@@ -42,12 +49,12 @@
       <file name="C:/SOURCE/git/ssb6/postilion/ssb/services/src/main/java/postilion/services/sdk/security/SessionFilter.java" timestamp="1481927878038">
         <mark key="'" line="314" column="31" />
       </file>
-      <file name="C:/SOURCE/git/legacy/postilion/pom.xml" timestamp="1508812500905">
+      <file name="C:/SOURCE/git/legacy/postilion/pom.xml" timestamp="1508855632882">
         <mark key="'" line="51" column="25" />
-        <mark key="[" line="719" column="23" />
-        <mark key="]" line="719" column="24" />
-        <mark key="^" line="719" column="20" />
-        <mark key="." line="719" column="24" />
+        <mark key="[" line="1084" column="15" />
+        <mark key="]" line="1084" column="18" />
+        <mark key="^" line="1084" column="18" />
+        <mark key="." line="1084" column="18" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/action/AServiceAction.java" timestamp="1508810739642" />
       <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/test/java/postilion/services/tools/edd/TestEddImporter.java" timestamp="1508809901519">
@@ -77,6 +84,12 @@
         <mark key="'" line="280" column="57" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/ssb/customer/merge/data/ProfileMergeDataMerger.java" timestamp="1508811474811" />
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/web/shared-lib/pom.xml" timestamp="1508855487847">
+        <mark key="[" line="252" column="15" />
+        <mark key="]" line="252" column="18" />
+        <mark key="^" line="252" column="18" />
+        <mark key="." line="252" column="18" />
+      </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/test/java/postilion/services/ssb/accounts/TestTransactionHistoryDao.java" timestamp="1508810236904">
         <mark key="[" line="204" column="54" />
         <mark key="]" line="204" column="64" />
@@ -171,6 +184,7 @@
       <jump line="564" column="56" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/test/java/postilion/services/ssb/customer/merge/TestMergeCustomer.java" />
       <jump line="90" column="60" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/test/java/postilion/services/ssb/customer/merge/TestMergeCustomer.java" />
       <jump line="313" column="30" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/test/java/postilion/services/ssb/customer/merge/TestMergeCustomer.java" />
+      <jump line="0" column="0" filename="C:/SOURCE/git/legacy/postilion/ssb/web/postilion_tomcat/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -180,7 +194,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>Pending</text>
+        <text>javassist</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QFJ1bldpdGgoUG93ZXJNb2NrUnVubmVyLmNsYXNzKQpAUHJlcGFyZUZvclRlc3QoCnsKCU5pZ2h0TW9kZVNOSUQuY2xhc3MsCglFdmVudFJlY29yZGVyLmNsYXNzLAoJQUhvc3RJbnRlcmZhY2VTdGF0ZS5jbGFzcywKCUhvc3RJbnRlcmZhY2VEYW8uY2xhc3MsCglNZW1vc0Rhby5jbGFzcywKCVNzYk1lc3NhZ2VVdGlscy5jbGFzcwp9KQpAU3VwcHJlc3NTdGF0aWNJbml0aWFsaXphdGlvbkZvcigKewoJInBvc3RpbGlvbi5jb3JlLmV2ZW50cmVjb3JkZXIuRXZlbnRSZWNvcmRlciIsCgkicG9zdGlsaW9uLmNvcmUudXRpbC5KZGJjVXRpbHMiLAoJInBvc3RpbGlvbi5jZmdwY2V4dC5wb3N0Y2FyZC51dGlsLk1lbW9zRGFvIgp9KQo=</text>
@@ -213,13 +227,13 @@
         <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcubW9ja2l0by5Nb2NraXRvLnN0dWI7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>help</text>
+        <text>1084</text>
       </register>
     </registers>
     <search>
-      <last-search>Pending</last-search>
+      <last-search>javassist</last-search>
       <last-offset />
-      <last-pattern>Pending</last-pattern>
+      <last-pattern>javassist</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -241,10 +255,10 @@
         <entry>BROWSERFP</entry>
         <entry>statement</entry>
         <entry>javaassist</entry>
-        <entry>javassist</entry>
         <entry>find</entry>
         <entry>Matchers</entry>
         <entry>Pending</entry>
+        <entry>javassist</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
@@ -252,6 +266,7 @@
         <entry>actionlist maven</entry>
         <entry>q</entry>
         <entry>help</entry>
+        <entry>1084</entry>
       </history-cmd>
       <history-expr />
       <history-input />
