@@ -16,7 +16,8 @@
         <mark key="^" line="2629" column="45" />
         <mark key="." line="2629" column="45" />
       </file>
-      <file name="C:/SOURCE/git/legacy/postilion/ssb/web/pom.xml" timestamp="1508876417689">
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/web/pom.xml" timestamp="1508885645324">
+        <mark key="'" line="258" column="29" />
         <mark key="[" line="272" column="0" />
         <mark key="]" line="272" column="0" />
         <mark key="^" line="269" column="18" />
@@ -40,6 +41,9 @@
         <mark key="]" line="60" column="20" />
         <mark key="^" line="60" column="20" />
         <mark key="." line="60" column="20" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.3.12.RELEASE/spring-context-support-4.3.12.RELEASE.jar!/org/springframework/scheduling/quartz/SchedulerFactoryBean.class" timestamp="1508884498822">
+        <mark key="'" line="79" column="17" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/ssb/customer/merge/MergeCustomerAction.java" timestamp="1508870006764" />
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/services2/src/test/java/postilion/services/spring/jpa/office/helper/TestClearanceSessionHelper.java" timestamp="1508874504867">
@@ -82,14 +86,7 @@
         <mark key="^" line="615" column="81" />
         <mark key="." line="615" column="81" />
       </file>
-      <file name="C:/SOURCE/git/legacy/postilion/cfgpack/src/test/java/postilion/cfgpack/snid/nightmode/TestNightModeHandlerFactory.java" timestamp="1508807611447">
-        <mark key="k" line="59" column="4" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-        <mark key="^" line="88" column="19" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1508876211083">
+      <file name="/Dummy.txt" timestamp="1508884325462">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/postilion_tomcat/pom.xml" timestamp="1508855710147">
@@ -105,12 +102,12 @@
       <file name="C:/SOURCE/git/ssb6/postilion/ssb/services/src/main/java/postilion/services/sdk/security/SessionFilter.java" timestamp="1481927878038">
         <mark key="'" line="314" column="31" />
       </file>
-      <file name="C:/SOURCE/git/legacy/postilion/pom.xml" timestamp="1508881250566">
-        <mark key="'" line="454" column="19" />
-        <mark key="[" line="692" column="31" />
-        <mark key="]" line="696" column="32" />
-        <mark key="^" line="696" column="32" />
-        <mark key="." line="696" column="32" />
+      <file name="C:/SOURCE/git/legacy/postilion/pom.xml" timestamp="1508885593107">
+        <mark key="'" line="969" column="20" />
+        <mark key="[" line="970" column="21" />
+        <mark key="]" line="970" column="22" />
+        <mark key="^" line="970" column="21" />
+        <mark key="." line="970" column="22" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/action/AServiceAction.java" timestamp="1508873611779">
         <mark key="[" line="630" column="28" />
@@ -154,22 +151,15 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/web/services2/src/test/resources/postilion/services/spring/clearance/TestClearanceService-context.xml" timestamp="1508884457983">
+        <mark key="'" line="21" column="2" />
+        <mark key="[" line="21" column="2" />
+        <mark key="]" line="21" column="2" />
+        <mark key="." line="21" column="2" />
+        <mark key="^" line="21" column="2" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="429" column="17" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" />
-      <jump line="43" column="1" filename="C:/SOURCE/git/ssb6/postilion/ssb/services/src/main/java/postilion/services/sdk/security/SessionFilter.java" />
-      <jump line="387" column="29" filename="C:/SOURCE/git/ssb6/postilion/ssb/services/src/main/java/postilion/services/sdk/security/SessionFilter.java" />
-      <jump line="92" column="43" filename="C:/SOURCE/git/ssb6/postilion/ssb/services/src/main/java/postilion/services/sdk/security/SessionFilter.java" />
-      <jump line="312" column="33" filename="C:/SOURCE/git/ssb6/postilion/ssb/services/src/main/java/postilion/services/sdk/security/SessionFilter.java" />
-      <jump line="314" column="31" filename="C:/SOURCE/git/ssb6/postilion/ssb/services/src/main/java/postilion/services/sdk/security/SessionFilter.java" />
-      <jump line="464" column="0" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" />
-      <jump line="452" column="33" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" />
-      <jump line="209" column="5" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" />
-      <jump line="118" column="4" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" />
-      <jump line="439" column="45" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" />
-      <jump line="615" column="49" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" />
-      <jump line="616" column="37" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" />
-      <jump line="103" column="5" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" />
       <jump line="104" column="17" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" />
       <jump line="126" column="0" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" />
       <jump line="33" column="2" filename="C:/SOURCE/git/postmaster/src/main/java/postilion/postmaster/BaseDataProvider.java" />
@@ -256,16 +246,30 @@
       <jump line="452" column="17" filename="C:/SOURCE/git/legacy/postilion/pom.xml" />
       <jump line="453" column="20" filename="C:/SOURCE/git/legacy/postilion/pom.xml" />
       <jump line="454" column="19" filename="C:/SOURCE/git/legacy/postilion/pom.xml" />
+      <jump line="468" column="37" filename="C:/SOURCE/git/legacy/postilion/pom.xml" />
+      <jump line="968" column="21" filename="C:/SOURCE/git/legacy/postilion/pom.xml" />
+      <jump line="969" column="20" filename="C:/SOURCE/git/legacy/postilion/pom.xml" />
+      <jump line="81" column="0" filename="C:/SOURCE/git/legacy/postilion/ssb/web/services2/src/test/resources/postilion/services/spring/clearance/TestClearanceService-context.xml" />
+      <jump line="21" column="2" filename="C:/SOURCE/git/legacy/postilion/ssb/web/services2/src/test/resources/postilion/services/spring/clearance/TestClearanceService-context.xml" />
+      <jump line="32" column="47" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.3.12.RELEASE/spring-context-support-4.3.12.RELEASE.jar!/org/springframework/scheduling/quartz/SchedulerFactoryBean.class" />
+      <jump line="34" column="83" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.3.12.RELEASE/spring-context-support-4.3.12.RELEASE.jar!/org/springframework/scheduling/quartz/SchedulerFactoryBean.class" />
+      <jump line="41" column="71" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.3.12.RELEASE/spring-context-support-4.3.12.RELEASE.jar!/org/springframework/scheduling/quartz/SchedulerFactoryBean.class" />
+      <jump line="50" column="35" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.3.12.RELEASE/spring-context-support-4.3.12.RELEASE.jar!/org/springframework/scheduling/quartz/SchedulerFactoryBean.class" />
+      <jump line="56" column="24" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.3.12.RELEASE/spring-context-support-4.3.12.RELEASE.jar!/org/springframework/scheduling/quartz/SchedulerFactoryBean.class" />
+      <jump line="58" column="10" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.3.12.RELEASE/spring-context-support-4.3.12.RELEASE.jar!/org/springframework/scheduling/quartz/SchedulerFactoryBean.class" />
+      <jump line="60" column="9" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.3.12.RELEASE/spring-context-support-4.3.12.RELEASE.jar!/org/springframework/scheduling/quartz/SchedulerFactoryBean.class" />
+      <jump line="79" column="17" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.3.12.RELEASE/spring-context-support-4.3.12.RELEASE.jar!/org/springframework/scheduling/quartz/SchedulerFactoryBean.class" />
+      <jump line="258" column="29" filename="C:/SOURCE/git/legacy/postilion/ssb/web/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>rule</text>
+        <text>quartz</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkgICAgQXJndW1lbnRNYXRjaGVycy5udWxsYWJsZShTdHJpbmcuY2xhc3MpLCAKICAgICAgICBBcmd1bWVudE1hdGNoZXJzLm51bGxhYmxlKFN0cmluZy5jbGFzcyksCiAgICAgICAgQXJndW1lbnRNYXRjaGVycy5udWxsYWJsZShJbnRlZ2VyLmNsYXNzKSwgCiAgICAgICAgQXJndW1lbnRNYXRjaGVycy5udWxsYWJsZShJbnRlZ2VyLmNsYXNzKSk7Cg==</text>
@@ -302,18 +306,14 @@
       </register>
     </registers>
     <search>
-      <last-search>rule</last-search>
+      <last-search>quartz</last-search>
       <last-offset />
-      <last-pattern>rule</last-pattern>
+      <last-pattern>quartz</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>BROWSER</entry>
-        <entry>browserFP</entry>
-        <entry>BROWSERFP</entry>
-        <entry>statement</entry>
         <entry>javaassist</entry>
         <entry>find</entry>
         <entry>Pending</entry>
@@ -330,6 +330,10 @@
         <entry>hibernate-entity</entry>
         <entry>junit</entry>
         <entry>rule</entry>
+        <entry>init</entry>
+        <entry>schedulerFac</entry>
+        <entry>Scheduler</entry>
+        <entry>quartz</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
