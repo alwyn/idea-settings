@@ -69,6 +69,12 @@
         <mark key="^" line="269" column="18" />
         <mark key="." line="271" column="0" />
       </file>
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/web/services2/src/test/java/postilion/services/spring/clearance/TestClearanceService.java" timestamp="1508882363572">
+        <mark key="[" line="81" column="25" />
+        <mark key="]" line="81" column="36" />
+        <mark key="." line="81" column="36" />
+        <mark key="^" line="81" column="36" />
+      </file>
       <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" timestamp="1481928244541">
         <mark key="'" line="126" column="0" />
         <mark key="[" line="615" column="81" />
@@ -99,12 +105,12 @@
       <file name="C:/SOURCE/git/ssb6/postilion/ssb/services/src/main/java/postilion/services/sdk/security/SessionFilter.java" timestamp="1481927878038">
         <mark key="'" line="314" column="31" />
       </file>
-      <file name="C:/SOURCE/git/legacy/postilion/pom.xml" timestamp="1508875639029">
-        <mark key="'" line="49" column="30" />
-        <mark key="[" line="1084" column="15" />
-        <mark key="]" line="1084" column="18" />
-        <mark key="^" line="1084" column="18" />
-        <mark key="." line="1084" column="18" />
+      <file name="C:/SOURCE/git/legacy/postilion/pom.xml" timestamp="1508881250566">
+        <mark key="'" line="454" column="19" />
+        <mark key="[" line="692" column="31" />
+        <mark key="]" line="696" column="32" />
+        <mark key="^" line="696" column="32" />
+        <mark key="." line="696" column="32" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/action/AServiceAction.java" timestamp="1508873611779">
         <mark key="[" line="630" column="28" />
@@ -150,19 +156,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="54" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/portal_parent/postilion_jsf_sdk/src/main/java/postilion/portal/sdk/jsf/tag/ScriptTag.java" />
-      <jump line="106" column="16" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/portal_parent/postilion_jsf_sdk/src/main/java/postilion/portal/sdk/jsf/tag/ScriptTag.java" />
-      <jump line="115" column="20" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/portal_parent/postilion_jsf_sdk/src/main/java/postilion/portal/sdk/jsf/tag/ScriptTag.java" />
-      <jump line="600" column="8" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" />
-      <jump line="253" column="4" filename="C:/SOURCE/git/ssb6/postilion/ssb/services/src/main/java/postilion/services/sdk/security/SessionFilter.java" />
-      <jump line="92" column="0" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" />
-      <jump line="246" column="37" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/data/UserSession.java" />
-      <jump line="309" column="17" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" />
-      <jump line="611" column="45" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" />
-      <jump line="791" column="30" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" />
-      <jump line="818" column="34" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" />
-      <jump line="839" column="34" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" />
-      <jump line="1417" column="9" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" />
       <jump line="429" column="17" filename="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" />
       <jump line="43" column="1" filename="C:/SOURCE/git/ssb6/postilion/ssb/services/src/main/java/postilion/services/sdk/security/SessionFilter.java" />
       <jump line="387" column="29" filename="C:/SOURCE/git/ssb6/postilion/ssb/services/src/main/java/postilion/services/sdk/security/SessionFilter.java" />
@@ -250,16 +243,29 @@
       <jump line="1084" column="18" filename="C:/SOURCE/git/legacy/postilion/pom.xml" />
       <jump line="48" column="9" filename="C:/SOURCE/git/legacy/postilion/pom.xml" />
       <jump line="49" column="30" filename="C:/SOURCE/git/legacy/postilion/pom.xml" />
+      <jump line="450" column="0" filename="C:/SOURCE/git/legacy/postilion/pom.xml" />
+      <jump line="696" column="32" filename="C:/SOURCE/git/legacy/postilion/pom.xml" />
+      <jump line="1020" column="31" filename="C:/SOURCE/git/legacy/postilion/pom.xml" />
+      <jump line="1025" column="37" filename="C:/SOURCE/git/legacy/postilion/pom.xml" />
+      <jump line="1066" column="15" filename="C:/SOURCE/git/legacy/postilion/pom.xml" />
+      <jump line="1067" column="18" filename="C:/SOURCE/git/legacy/postilion/pom.xml" />
+      <jump line="1079" column="35" filename="C:/SOURCE/git/legacy/postilion/pom.xml" />
+      <jump line="1314" column="37" filename="C:/SOURCE/git/legacy/postilion/pom.xml" />
+      <jump line="1315" column="50" filename="C:/SOURCE/git/legacy/postilion/pom.xml" />
+      <jump line="50" column="25" filename="C:/SOURCE/git/legacy/postilion/pom.xml" />
+      <jump line="452" column="17" filename="C:/SOURCE/git/legacy/postilion/pom.xml" />
+      <jump line="453" column="20" filename="C:/SOURCE/git/legacy/postilion/pom.xml" />
+      <jump line="454" column="19" filename="C:/SOURCE/git/legacy/postilion/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJPHZlcnNpb24+My4xMy4wLkdBPC92ZXJzaW9uPgo=</text>
+      <register name="&quot;" type="4">
+        <text>SpringJUnit4ClassRunner</text>
       </register>
       <register name="-" type="4">
-        <text>anyString</text>
+        <text>SpringJUnit4ClassRunner</text>
       </register>
       <register name="/" type="4">
-        <text>powermock</text>
+        <text>rule</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkgICAgQXJndW1lbnRNYXRjaGVycy5udWxsYWJsZShTdHJpbmcuY2xhc3MpLCAKICAgICAgICBBcmd1bWVudE1hdGNoZXJzLm51bGxhYmxlKFN0cmluZy5jbGFzcyksCiAgICAgICAgQXJndW1lbnRNYXRjaGVycy5udWxsYWJsZShJbnRlZ2VyLmNsYXNzKSwgCiAgICAgICAgQXJndW1lbnRNYXRjaGVycy5udWxsYWJsZShJbnRlZ2VyLmNsYXNzKSk7Cg==</text>
@@ -296,17 +302,14 @@
       </register>
     </registers>
     <search>
-      <last-search>powermock</last-search>
+      <last-search>rule</last-search>
       <last-offset />
-      <last-pattern>powermock</last-pattern>
+      <last-pattern>rule</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>clear</entry>
-        <entry>clearTABID</entry>
-        <entry>TAB</entry>
         <entry>BROWSER</entry>
         <entry>browserFP</entry>
         <entry>BROWSERFP</entry>
@@ -324,6 +327,9 @@
         <entry>anyString</entry>
         <entry>Whitebox</entry>
         <entry>powermock</entry>
+        <entry>hibernate-entity</entry>
+        <entry>junit</entry>
+        <entry>rule</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
