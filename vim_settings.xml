@@ -3,19 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1508855476360">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/ruby/rails/app/views/shared/_scripts.html.haml" timestamp="1481775324552">
         <mark key="[" line="48" column="13" />
       </file>
       <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/PrintTemplate.jsp" timestamp="1481723948728">
         <mark key="[" line="46" column="42" />
-      </file>
-      <file name="/fragment.kt" timestamp="1481948023433">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/ruby/rails/app/views/layouts/application.html.haml" timestamp="1481925751384">
         <mark key="[" line="12" column="57" />
@@ -30,18 +22,56 @@
         <mark key="." line="558" column="18" />
         <mark key="^" line="558" column="17" />
       </file>
+      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/TabbedBase.jsp" timestamp="1481937974285">
+        <mark key="[" line="59" column="21" />
+        <mark key="]" line="60" column="20" />
+        <mark key="^" line="60" column="20" />
+        <mark key="." line="60" column="20" />
+      </file>
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/ssb/customer/merge/MergeCustomerAction.java" timestamp="1508870006764" />
+      <file name="C:/SOURCE/git/postmaster/src/main/java/postilion/postmaster/BaseDataProvider.java" timestamp="1481950310772">
+        <mark key="'" line="33" column="2" />
+        <mark key="[" line="381" column="6" />
+        <mark key="]" line="381" column="6" />
+        <mark key="." line="381" column="6" />
+      </file>
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/ssb/customer/merge/data/ProfileMergeDataMerger.java" timestamp="1508870178368">
+        <mark key="'" line="132" column="13" />
+      </file>
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/web/shared-lib/pom.xml" timestamp="1508855487847">
+        <mark key="[" line="252" column="15" />
+        <mark key="]" line="252" column="18" />
+        <mark key="^" line="252" column="18" />
+        <mark key="." line="252" column="18" />
+      </file>
+      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" timestamp="1481928244541">
+        <mark key="'" line="126" column="0" />
+        <mark key="[" line="615" column="81" />
+        <mark key="]" line="615" column="81" />
+        <mark key="^" line="615" column="81" />
+        <mark key="." line="615" column="81" />
+      </file>
+      <file name="C:/SOURCE/git/legacy/postilion/cfgpack/src/test/java/postilion/cfgpack/snid/nightmode/TestNightModeHandlerFactory.java" timestamp="1508807611447">
+        <mark key="k" line="59" column="4" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+        <mark key="^" line="88" column="19" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1508870398189">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.kt" timestamp="1481948023433">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/postilion_tomcat/pom.xml" timestamp="1508855710147">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="293" column="15" />
         <mark key="]" line="293" column="18" />
         <mark key="^" line="293" column="18" />
         <mark key="." line="293" column="18" />
-      </file>
-      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/TabbedBase.jsp" timestamp="1481937974285">
-        <mark key="[" line="59" column="21" />
-        <mark key="]" line="60" column="20" />
-        <mark key="^" line="60" column="20" />
-        <mark key="." line="60" column="20" />
       </file>
       <file name="/a.regexp" timestamp="1481946663574">
         <mark key="[" line="0" column="0" />
@@ -74,21 +104,8 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="C:/SOURCE/git/postmaster/src/main/java/postilion/postmaster/BaseDataProvider.java" timestamp="1481950310772">
-        <mark key="'" line="33" column="2" />
-        <mark key="[" line="381" column="6" />
-        <mark key="]" line="381" column="6" />
-        <mark key="." line="381" column="6" />
-      </file>
       <file name="C:/SOURCE/git/postmaster/src/main/java/postilion/postmaster/PostMaster.java" timestamp="1481950353547">
         <mark key="'" line="280" column="57" />
-      </file>
-      <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/ssb/customer/merge/data/ProfileMergeDataMerger.java" timestamp="1508811474811" />
-      <file name="C:/SOURCE/git/legacy/postilion/ssb/web/shared-lib/pom.xml" timestamp="1508855487847">
-        <mark key="[" line="252" column="15" />
-        <mark key="]" line="252" column="18" />
-        <mark key="^" line="252" column="18" />
-        <mark key="." line="252" column="18" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/test/java/postilion/services/ssb/accounts/TestTransactionHistoryDao.java" timestamp="1508810236904">
         <mark key="[" line="204" column="54" />
@@ -96,22 +113,11 @@
         <mark key="." line="204" column="64" />
         <mark key="^" line="204" column="64" />
       </file>
-      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" timestamp="1481928244541">
-        <mark key="'" line="126" column="0" />
-        <mark key="[" line="615" column="81" />
-        <mark key="]" line="615" column="81" />
-        <mark key="^" line="615" column="81" />
-        <mark key="." line="615" column="81" />
-      </file>
-      <file name="C:/SOURCE/git/legacy/postilion/cfgpack/src/test/java/postilion/cfgpack/snid/nightmode/TestNightModeHandlerFactory.java" timestamp="1508807611447">
-        <mark key="k" line="59" column="4" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-        <mark key="^" line="88" column="19" />
-      </file>
-      <file name="/fragment.java" timestamp="1508811488738">
+      <file name="/fragment.java" timestamp="1508870100548">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/ssb/transactions/TransactionsDao.java" timestamp="1508811169290">
         <mark key="'" line="1236" column="14" />
@@ -185,6 +191,7 @@
       <jump line="90" column="60" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/test/java/postilion/services/ssb/customer/merge/TestMergeCustomer.java" />
       <jump line="313" column="30" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/test/java/postilion/services/ssb/customer/merge/TestMergeCustomer.java" />
       <jump line="0" column="0" filename="C:/SOURCE/git/legacy/postilion/ssb/web/postilion_tomcat/pom.xml" />
+      <jump line="132" column="13" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/ssb/customer/merge/data/ProfileMergeDataMerger.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -227,7 +234,7 @@
         <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcubW9ja2l0by5Nb2NraXRvLnN0dWI7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>1084</text>
+        <text>742</text>
       </register>
     </registers>
     <search>
@@ -267,6 +274,12 @@
         <entry>q</entry>
         <entry>help</entry>
         <entry>1084</entry>
+        <entry>204</entry>
+        <entry>243</entry>
+        <entry>94</entry>
+        <entry>72</entry>
+        <entry>532</entry>
+        <entry>742</entry>
       </history-cmd>
       <history-expr />
       <history-input />
