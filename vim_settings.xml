@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/ruby/rails/app/views/shared/_scripts.html.haml" timestamp="1481775324552">
-        <mark key="[" line="48" column="13" />
-      </file>
-      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/PrintTemplate.jsp" timestamp="1481723948728">
-        <mark key="[" line="46" column="42" />
-      </file>
       <file name="C:/SOURCE/git/legacy/postilion/cfgpack/src/test/java/postilion/cfgpack/snid/nightmode/TestNightModeSNID.java" timestamp="1508873957937">
         <mark key="'" line="2629" column="45" />
         <mark key="[" line="2629" column="8" />
@@ -18,10 +12,6 @@
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/pom.xml" timestamp="1508885645324">
         <mark key="'" line="258" column="29" />
-        <mark key="[" line="272" column="0" />
-        <mark key="]" line="272" column="0" />
-        <mark key="^" line="269" column="18" />
-        <mark key="." line="272" column="0" />
       </file>
       <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/ruby/rails/app/views/layouts/application.html.haml" timestamp="1481925751384">
         <mark key="[" line="12" column="57" />
@@ -86,7 +76,7 @@
         <mark key="^" line="615" column="81" />
         <mark key="." line="615" column="81" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508884325462">
+      <file name="/Dummy.txt" timestamp="1508888423423">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/postilion_tomcat/pom.xml" timestamp="1508855710147">
@@ -96,18 +86,8 @@
         <mark key="^" line="293" column="18" />
         <mark key="." line="293" column="18" />
       </file>
-      <file name="/a.regexp" timestamp="1481946663574">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/SOURCE/git/ssb6/postilion/ssb/services/src/main/java/postilion/services/sdk/security/SessionFilter.java" timestamp="1481927878038">
         <mark key="'" line="314" column="31" />
-      </file>
-      <file name="C:/SOURCE/git/legacy/postilion/pom.xml" timestamp="1508885593107">
-        <mark key="'" line="969" column="20" />
-        <mark key="[" line="970" column="21" />
-        <mark key="]" line="970" column="22" />
-        <mark key="^" line="970" column="21" />
-        <mark key="." line="970" column="22" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/action/AServiceAction.java" timestamp="1508873611779">
         <mark key="[" line="630" column="28" />
