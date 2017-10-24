@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="/Dummy.txt" timestamp="1482154924382">
@@ -23,6 +23,13 @@
         <mark key="^" line="13" column="60" />
         <mark key="." line="13" column="60" />
       </file>
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/test/java/postilion/services/ssb/customer/merge/TestMergeCustomer.java" timestamp="1508812179670">
+        <mark key="'" line="315" column="30" />
+        <mark key="[" line="558" column="18" />
+        <mark key="]" line="558" column="18" />
+        <mark key="." line="558" column="18" />
+        <mark key="^" line="558" column="17" />
+      </file>
       <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/TabbedBase.jsp" timestamp="1481937974285">
         <mark key="[" line="59" column="21" />
         <mark key="]" line="60" column="20" />
@@ -34,6 +41,26 @@
       </file>
       <file name="C:/SOURCE/git/ssb6/postilion/ssb/services/src/main/java/postilion/services/sdk/security/SessionFilter.java" timestamp="1481927878038">
         <mark key="'" line="314" column="31" />
+      </file>
+      <file name="C:/SOURCE/git/legacy/postilion/pom.xml" timestamp="1508812500905">
+        <mark key="'" line="51" column="25" />
+        <mark key="[" line="719" column="23" />
+        <mark key="]" line="719" column="24" />
+        <mark key="^" line="719" column="20" />
+        <mark key="." line="719" column="24" />
+      </file>
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/action/AServiceAction.java" timestamp="1508810739642" />
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/test/java/postilion/services/tools/edd/TestEddImporter.java" timestamp="1508809901519">
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="^" line="118" column="28" />
+        <mark key="." line="124" column="0" />
+      </file>
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/test/java/postilion/services/ssb/transactions/TestTransactionsDao.java" timestamp="1508809750134">
+        <mark key="[" line="1365" column="14" />
+        <mark key="]" line="1365" column="18" />
+        <mark key="^" line="1365" column="18" />
+        <mark key="." line="1365" column="18" />
       </file>
       <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/LoginTemplate.jsp" timestamp="1481770283234">
         <mark key="[" line="50" column="0" />
@@ -49,6 +76,13 @@
       <file name="C:/SOURCE/git/postmaster/src/main/java/postilion/postmaster/PostMaster.java" timestamp="1481950353547">
         <mark key="'" line="280" column="57" />
       </file>
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/ssb/customer/merge/data/ProfileMergeDataMerger.java" timestamp="1508811474811" />
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/test/java/postilion/services/ssb/accounts/TestTransactionHistoryDao.java" timestamp="1508810236904">
+        <mark key="[" line="204" column="54" />
+        <mark key="]" line="204" column="64" />
+        <mark key="." line="204" column="64" />
+        <mark key="^" line="204" column="64" />
+      </file>
       <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" timestamp="1481928244541">
         <mark key="'" line="126" column="0" />
         <mark key="[" line="615" column="81" />
@@ -56,8 +90,18 @@
         <mark key="^" line="615" column="81" />
         <mark key="." line="615" column="81" />
       </file>
-      <file name="/fragment.java" timestamp="1481948522849">
+      <file name="C:/SOURCE/git/legacy/postilion/cfgpack/src/test/java/postilion/cfgpack/snid/nightmode/TestNightModeHandlerFactory.java" timestamp="1508807611447">
+        <mark key="k" line="59" column="4" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+        <mark key="^" line="88" column="19" />
+      </file>
+      <file name="/fragment.java" timestamp="1508811488738">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/ssb/transactions/TransactionsDao.java" timestamp="1508811169290">
+        <mark key="'" line="1236" column="14" />
       </file>
     </filemarks>
     <jumps>
@@ -112,62 +156,75 @@
       <jump line="161" column="60" filename="C:/SOURCE/git/postmaster/src/main/java/postilion/postmaster/PostMaster.java" />
       <jump line="186" column="51" filename="C:/SOURCE/git/postmaster/src/main/java/postilion/postmaster/PostMaster.java" />
       <jump line="280" column="57" filename="C:/SOURCE/git/postmaster/src/main/java/postilion/postmaster/PostMaster.java" />
+      <jump line="32" column="30" filename="C:/SOURCE/git/legacy/postilion/cfgpack/src/test/java/postilion/cfgpack/snid/nightmode/TestNightModeHandlerFactory.java" />
+      <jump line="51" column="25" filename="C:/SOURCE/git/legacy/postilion/pom.xml" />
+      <jump line="534" column="13" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/test/java/postilion/services/ssb/customer/merge/TestMergeCustomer.java" />
+      <jump line="1295" column="0" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/test/java/postilion/services/ssb/customer/merge/TestMergeCustomer.java" />
+      <jump line="371" column="0" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/test/java/postilion/services/ssb/customer/merge/TestMergeCustomer.java" />
+      <jump line="1236" column="14" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/ssb/transactions/TransactionsDao.java" />
+      <jump line="551" column="37" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/test/java/postilion/services/ssb/customer/merge/TestMergeCustomer.java" />
+      <jump line="554" column="0" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/test/java/postilion/services/ssb/customer/merge/TestMergeCustomer.java" />
+      <jump line="0" column="0" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/test/java/postilion/services/ssb/customer/merge/TestMergeCustomer.java" />
+      <jump line="52" column="0" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/test/java/postilion/services/ssb/customer/merge/TestMergeCustomer.java" />
+      <jump line="540" column="53" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/test/java/postilion/services/ssb/customer/merge/TestMergeCustomer.java" />
+      <jump line="548" column="30" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/test/java/postilion/services/ssb/customer/merge/TestMergeCustomer.java" />
+      <jump line="564" column="56" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/test/java/postilion/services/ssb/customer/merge/TestMergeCustomer.java" />
+      <jump line="90" column="60" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/test/java/postilion/services/ssb/customer/merge/TestMergeCustomer.java" />
+      <jump line="313" column="30" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/test/java/postilion/services/ssb/customer/merge/TestMergeCustomer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>statement</text>
+        <text>Pending</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldEJyb3dzZXJGUCgpCiAgewogICAgcmV0dXJuIHRoaXMuYnJvd3NlckZQOwogIH0KfQo=</text>
+        <text encoding="base64">QFJ1bldpdGgoUG93ZXJNb2NrUnVubmVyLmNsYXNzKQpAUHJlcGFyZUZvclRlc3QoCnsKCU5pZ2h0TW9kZVNOSUQuY2xhc3MsCglFdmVudFJlY29yZGVyLmNsYXNzLAoJQUhvc3RJbnRlcmZhY2VTdGF0ZS5jbGFzcywKCUhvc3RJbnRlcmZhY2VEYW8uY2xhc3MsCglNZW1vc0Rhby5jbGFzcywKCVNzYk1lc3NhZ2VVdGlscy5jbGFzcwp9KQpAU3VwcHJlc3NTdGF0aWNJbml0aWFsaXphdGlvbkZvcigKewoJInBvc3RpbGlvbi5jb3JlLmV2ZW50cmVjb3JkZXIuRXZlbnRSZWNvcmRlciIsCgkicG9zdGlsaW9uLmNvcmUudXRpbC5KZGJjVXRpbHMiLAoJInBvc3RpbGlvbi5jZmdwY2V4dC5wb3N0Y2FyZC51dGlsLk1lbW9zRGFvIgp9KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldEJyb3dzZXJGUCgpCiAgewogICAgcmV0dXJuIHRoaXMuYnJvd3NlckZQOwogIH0K</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLk1hdGNoZXJzOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaHR0cFNlc3Npb24uc2V0QXR0cmlidXRlKCIiKTsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLkFyZ3VtZW50TWF0Y2hlcnMuTWF0Y2hlcnM7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLk1hdGNoZXJzOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLk1hdGNoZXJzOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBCUk9XU0VSX0ZQX1BST1RFQ1RJT05fRU5BQkxFRF9QQVJBTTsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLk1hdGNoZXJzOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB7Cg==</text>
+        <text encoding="base64">LyotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tKgogKiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAqCiAqIENvcHlyaWdodCAoYykgMjAxMS4gUzEsIEluYy4gQWxsIHJpZ2h0cyByZXNlcnZlZC4gICAgICAgICAgICAgICAgICAgICAgICAgICAgKgogKiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAqCiAqIFRISVMgU09GVFdBUkUgTUFZIE5PVCBCRSBDT1BJRUQgT1IgRElTVFJJQlVURUQgSU4gQU5ZIEZPUk0gV0lUSE9VVCBUSEUgICAgICoKICogV1JJVFRFTiBQRVJNSVNTSU9OIE9GIFMxICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKgogKiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAqCiAqLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSovCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIFN0cmluZyBnZXRCcm93c2VyRnBQcm90ZWN0aW9uRW5hYmxlZFBhcmFtKCkK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLk1hdGNoZXJzOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLk1hdGNoZXJzOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcubW9ja2l0by5Nb2NraXRvLnN0dWI7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>help</text>
       </register>
     </registers>
     <search>
-      <last-search>statement</last-search>
+      <last-search>Pending</last-search>
       <last-offset />
-      <last-pattern>statement</last-pattern>
+      <last-pattern>Pending</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>validateCSRF</entry>
-        <entry>set</entry>
         <entry>settid</entry>
         <entry>compon</entry>
         <entry>pc:script</entry>
@@ -183,10 +240,18 @@
         <entry>browserFP</entry>
         <entry>BROWSERFP</entry>
         <entry>statement</entry>
+        <entry>javaassist</entry>
+        <entry>javassist</entry>
+        <entry>find</entry>
+        <entry>Matchers</entry>
+        <entry>Pending</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
+        <entry>actionlist maven</entry>
+        <entry>q</entry>
+        <entry>help</entry>
       </history-cmd>
       <history-expr />
       <history-input />
