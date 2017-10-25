@@ -35,6 +35,7 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.3.12.RELEASE/spring-context-support-4.3.12.RELEASE.jar!/org/springframework/scheduling/quartz/SchedulerFactoryBean.class" timestamp="1508884498822">
         <mark key="'" line="79" column="17" />
       </file>
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/transfer/Transfer.java" timestamp="1508894188072" />
       <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/ssb/customer/merge/MergeCustomerAction.java" timestamp="1508870006764" />
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/services2/src/test/java/postilion/services/spring/jpa/office/helper/TestClearanceSessionHelper.java" timestamp="1508874504867">
         <mark key="'" line="17" column="0" />
@@ -117,11 +118,11 @@
         <mark key="." line="204" column="64" />
         <mark key="^" line="204" column="64" />
       </file>
-      <file name="/fragment.java" timestamp="1508893385430">
+      <file name="/fragment.java" timestamp="1508894788571">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
+        <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="4" />
-        <mark key="." line="0" column="4" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/ssb/transactions/TransactionsDao.java" timestamp="1508811169290">
         <mark key="'" line="1236" column="14" />
@@ -244,10 +245,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>quartz</text>
