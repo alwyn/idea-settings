@@ -93,6 +93,12 @@
       <file name="C:/SOURCE/git/ssb6/postilion/ssb/services/src/main/java/postilion/services/sdk/security/SessionFilter.java" timestamp="1481927878038">
         <mark key="'" line="314" column="31" />
       </file>
+      <file name="C:/SOURCE/git/legacy/postilion/pom.xml" timestamp="1508939157547">
+        <mark key="'" line="951" column="21" />
+        <mark key="[" line="55" column="28" />
+        <mark key="]" line="55" column="29" />
+        <mark key="." line="55" column="29" />
+      </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/action/AServiceAction.java" timestamp="1508873611779">
         <mark key="[" line="630" column="28" />
         <mark key="]" line="630" column="28" />
@@ -144,7 +150,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="60" filename="C:/SOURCE/git/postmaster/src/main/java/postilion/postmaster/PostMaster.java" />
       <jump line="186" column="51" filename="C:/SOURCE/git/postmaster/src/main/java/postilion/postmaster/PostMaster.java" />
       <jump line="280" column="57" filename="C:/SOURCE/git/postmaster/src/main/java/postilion/postmaster/PostMaster.java" />
       <jump line="32" column="30" filename="C:/SOURCE/git/legacy/postilion/cfgpack/src/test/java/postilion/cfgpack/snid/nightmode/TestNightModeHandlerFactory.java" />
@@ -244,6 +249,7 @@
       <jump line="3306" column="9" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/transfer/Transfer.java" />
       <jump line="3375" column="9" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/transfer/Transfer.java" />
       <jump line="177" column="17" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/transfer/Transfer.java" />
+      <jump line="951" column="21" filename="C:/SOURCE/git/legacy/postilion/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -253,7 +259,7 @@
         <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>transaction_type</text>
+        <text>spring</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkgICAgQXJndW1lbnRNYXRjaGVycy5udWxsYWJsZShTdHJpbmcuY2xhc3MpLCAKICAgICAgICBBcmd1bWVudE1hdGNoZXJzLm51bGxhYmxlKFN0cmluZy5jbGFzcyksCiAgICAgICAgQXJndW1lbnRNYXRjaGVycy5udWxsYWJsZShJbnRlZ2VyLmNsYXNzKSwgCiAgICAgICAgQXJndW1lbnRNYXRjaGVycy5udWxsYWJsZShJbnRlZ2VyLmNsYXNzKSk7Cg==</text>
@@ -290,16 +296,14 @@
       </register>
     </registers>
     <search>
-      <last-search>transaction_type</last-search>
+      <last-search>spring</last-search>
       <last-offset />
-      <last-pattern>transaction_type</last-pattern>
+      <last-pattern>spring</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>javassist</entry>
-        <entry>anyInt</entry>
         <entry>nullable</entry>
         <entry>Matchers</entry>
         <entry>anyObject</entry>
@@ -318,6 +322,8 @@
         <entry>submit()</entry>
         <entry>isOnline</entry>
         <entry>transaction_type</entry>
+        <entry>spring-version</entry>
+        <entry>spring</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
