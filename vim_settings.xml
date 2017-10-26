@@ -122,6 +122,11 @@
         <mark key="^" line="615" column="81" />
         <mark key="." line="615" column="81" />
       </file>
+      <file name="C:/SOURCE/github/ADD/src/docs/asciidoc/2018.R1/epics/Summary.adoc" timestamp="1509028246789">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/.m2/settings.xml" timestamp="1508977558627">
         <mark key="'" line="35" column="35" />
         <mark key="[" line="49" column="23" />
@@ -146,6 +151,12 @@
         <mark key="]" line="293" column="18" />
         <mark key="^" line="293" column="18" />
         <mark key="." line="293" column="18" />
+      </file>
+      <file name="C:/SOURCE/github/ADD/src/docs/asciidoc/2018.R1/Architecture Description Document for SSB 18_1.adoc" timestamp="1509028200698">
+        <mark key="[" line="0" column="58" />
+        <mark key="]" line="0" column="61" />
+        <mark key="." line="0" column="61" />
+        <mark key="^" line="0" column="61" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/pom.xml" timestamp="1508976885333">
         <mark key="'" line="1202" column="33" />
@@ -327,10 +338,11 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>== NB. READ THE EPIC SUMMARY. Only ARCHITECTURALLY SIGNIFICANT sections will have CONTENT.
+=</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>isTransferOnline</text>
@@ -339,33 +351,34 @@
         <text>DEFAULT_TRANSFER_ONLINE = &quot;default_transfer_online&quot;;</text>
       </register>
       <register name="1" type="4">
+        <text>== NB. READ THE EPIC SUMMARY. Only ARCHITECTURALLY SIGNIFICANT sections will have CONTENT.
+=</text>
+      </register>
+      <register name="2" type="4">
         <text>Boolean {
   return true
 }</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5IYXNoTWFwOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">cHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgUDJQX1NFVFRMRU1FTlRfVFJBTlNGRVJfT05MSU5FID0gInAycF9zZXR0bGVtZW50X3RyYW5zZmVyX29ubGluZSI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">cHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgUDJQX1NFVFRMRU1FTlRfVFJBTlNGRVJfT05MSU5FID0gInAycF9zZXR0bGVtZW50X3RyYW5zZmVyX29ubGluZSI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
