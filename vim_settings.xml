@@ -9,10 +9,10 @@
         <mark key="^" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/util/TransferUtil.java" timestamp="1508979034734">
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/util/TransferUtil.java" timestamp="1508980350589">
         <mark key="'" line="37" column="10" />
-        <mark key="[" line="60" column="16" />
-        <mark key="]" line="60" column="16" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="78" />
         <mark key="." line="60" column="16" />
         <mark key="^" line="60" column="16" />
       </file>
@@ -59,11 +59,11 @@
         <mark key="^" line="60" column="20" />
         <mark key="." line="60" column="20" />
       </file>
-      <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/kotlin/postilion/services/util/Transfer.kt" timestamp="1508980050828">
-        <mark key="[" line="21" column="3" />
-        <mark key="]" line="23" column="12" />
-        <mark key="^" line="23" column="12" />
-        <mark key="." line="23" column="12" />
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/kotlin/postilion/services/util/Transfer.kt" timestamp="1508980655325">
+        <mark key="[" line="31" column="17" />
+        <mark key="]" line="31" column="17" />
+        <mark key="." line="31" column="17" />
+        <mark key="^" line="31" column="18" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.3.12.RELEASE/spring-context-support-4.3.12.RELEASE.jar!/org/springframework/scheduling/quartz/SchedulerFactoryBean.class" timestamp="1508884498822">
         <mark key="'" line="79" column="17" />
@@ -192,6 +192,12 @@
         <mark key="]" line="204" column="64" />
         <mark key="." line="204" column="64" />
         <mark key="^" line="204" column="64" />
+      </file>
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/kotlin/postilion/services/util/Configuration.kt" timestamp="1508980541946">
+        <mark key="[" line="23" column="9" />
+        <mark key="]" line="23" column="18" />
+        <mark key="^" line="23" column="18" />
+        <mark key="." line="23" column="18" />
       </file>
       <file name="/fragment.java" timestamp="1508979809168">
         <mark key="[" line="0" column="0" />
@@ -328,44 +334,44 @@
       <jump line="27" column="2" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/util/ApplicationUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>transaction_type</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBUUkFOU0ZFUl9UUkFOX0dST1VQU19PTkxJTkVfTUFQID0gCgkJInRyYW5zZmVyX3RyYW5fZ3JvdXBzX29ubGluZV9tYXAiOwo=</text>
+      <register name="0" type="4">
+        <text>isP2PSettlementTransferOnline</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfHwgU2VydmljZUZlYXR1cmUuRmVhdHVyZXMuQ0hJTERfU1VQUE9SVF9QQVlNRU5UUyA9PSBmZWF0dXJlCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">b2JqZWN0IFNhbWVEYXlBY2gge2RkCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Ci8qCiAqCiAqICAqIKkgMjAxNi0yMDMwIEZpc2VydiwgSW5jLiBvciBpdHMgYWZmaWxpYXRlcwogKiAgKgogKiAgKiBBbGwgcmlnaHRzIHJlc2VydmVkLiBUaGlzIHdvcmssIGluY2x1ZGluZyBpdHMgY29udGVudHMgYW5kIHByb2dyYW1taW5nLCBpcyBjb25maWRlbnRpYWwKICogICogYW5kIGl0cyB1c2UgaXMgc3RyaWN0bHkgbGltaXRlZC4gVGhpcyB3b3JrIGlzIGZ1cm5pc2hlZCBvbmx5IGZvciB1c2UgYnkgZHVseSBhdXRob3JpemVkCiAqICAqIGxpY2Vuc2VlcyBvZiBGaXNlcnYsIEluYy4gb3IgaXRzIGFmZmlsaWF0ZXMsIGFuZCB0aGVpciBkZXNpZ25hdGVkIGFnZW50cyBvciBlbXBsb3llZXMKICogICogcmVzcG9uc2libGUgZm9yIGluc3RhbGxhdGlvbiBvciBvcGVyYXRpb24gb2YgdGhlIHByb2R1Y3RzLiBBbnkgb3RoZXIgdXNlLCBkdXBsaWNhdGlvbiwKICogICogb3IgZGlzc2VtaW5hdGlvbiB3aXRob3V0IHRoZSBwcmlvciB3cml0dGVuIGNvbnNlbnQgb2YgRmlzZXJ2LCBJbmMuIG9yIGl0cyBhZmZpbGlhdGVzIGlzCiAqICAqIHN0cmljdGx5IHByb2hpYml0ZWQuIEV4Y2VwdCBhcyBzcGVjaWZpZWQgYnkgdGhlIGFncmVlbWVudCB1bmRlciB3aGljaCB0aGUgbWF0ZXJpYWxzCiAqICAqIGFyZSBmdXJuaXNoZWQsIEZpc2VydiwgSW5jLiBhbmQgaXRzIGFmZmlsaWF0ZXMgZG8gbm90IGFjY2VwdCBhbnkgbGlhYmlsaXRpZXMgd2l0aCByZXNwZWN0CiAqICAqIHRvIHRoZSBpbmZvcm1hdGlvbiBjb250YWluZWQgaGVyZWluIGFuZCBhcmUgbm90IHJlc3BvbnNpYmxlIGZvciBhbnkgZGlyZWN0LCBpbmRpcmVjdCwKICogICogc3BlY2lhbCwgY29uc2VxdWVudGlhbCBvciBleGVtcGxhcnkgZGFtYWdlcyByZXN1bHRpbmcgZnJvbSB0aGUgdXNlIG9mIHRoaXMKICogICogaW5mb3JtYXRpb24uIE5vIHdhcnJhbnRpZXMsIGVpdGhlciBleHByZXNzIG9yIGltcGxpZWQsIGFyZSBncmFudGVkIG9yIGV4dGVuZGVkIGJ5IHRoaXMKICogICogd29yayBvciB0aGUgZGVsaXZlcnkgb2YgdGhpcyB3b3JrLgogKgogKi8=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBpc19vbmxpbmU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAoSGFzaE1hcDxTdHJpbmcsQm9vbGVhbj4pIGZpX2NvbmZpZ190YWJsZS5nZXQoVFJBTlNGRVJfVFJBTl9HUk9VUFNfT05MSU5FX01BUCk7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEhhc2hNYXA8U3RyaW5nLEJvb2xlYW4+IHRyYW5zZmVyc19vbmxpbmVfbWFwID0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwdWJsaWMgYm9vbGVhbiBpc1AyUFRyYW5zZmVyKCkK</text>
+        <text encoding="base64">ZnVuIGlzUDJQVHJhbnNmZXIodHJhbnNhY3Rpb25UeXBlOiBTdHJpbmcpID0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
