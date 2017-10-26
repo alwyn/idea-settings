@@ -59,14 +59,11 @@
         <mark key="^" line="60" column="20" />
         <mark key="." line="60" column="20" />
       </file>
-      <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/kotlin/postilion/services/util/Transfer.kt" timestamp="1508984797631">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="25" column="86" />
-        <mark key="." line="34" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.3.12.RELEASE/spring-context-support-4.3.12.RELEASE.jar!/org/springframework/scheduling/quartz/SchedulerFactoryBean.class" timestamp="1508884498822">
-        <mark key="'" line="79" column="17" />
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/kotlin/postilion/services/util/Transfer.kt" timestamp="1508986857401">
+        <mark key="[" line="28" column="29" />
+        <mark key="]" line="29" column="3" />
+        <mark key="^" line="29" column="3" />
+        <mark key="." line="29" column="3" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/transfer/Transfer.java" timestamp="1508978927576">
         <mark key="'" line="2116" column="8" />
@@ -75,12 +72,12 @@
         <mark key="^" line="909" column="0" />
         <mark key="." line="2280" column="0" />
       </file>
-      <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/util/ApplicationUtil.java" timestamp="1508985009055">
-        <mark key="'" line="28" column="2" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="38" column="57" />
-        <mark key="." line="38" column="0" />
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/util/ApplicationUtil.java" timestamp="1508985526407">
+        <mark key="'" line="27" column="2" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="37" column="57" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/services2/src/test/java/postilion/services/spring/jpa/office/helper/TestClearanceSessionHelper.java" timestamp="1508874504867">
         <mark key="'" line="17" column="0" />
@@ -99,9 +96,6 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
         <mark key="^" line="207" column="24" />
-      </file>
-      <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/ssb/customer/merge/data/ProfileMergeDataMerger.java" timestamp="1508870178368">
-        <mark key="'" line="132" column="13" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/shared-lib/pom.xml" timestamp="1508855487847">
         <mark key="[" line="252" column="15" />
@@ -143,15 +137,15 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="/fragment.kt" timestamp="1508986788314">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/postilion_tomcat/pom.xml" timestamp="1508855710147">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="293" column="15" />
         <mark key="]" line="293" column="18" />
         <mark key="^" line="293" column="18" />
         <mark key="." line="293" column="18" />
-      </file>
-      <file name="C:/SOURCE/git/ssb6/postilion/ssb/services/src/main/java/postilion/services/sdk/security/SessionFilter.java" timestamp="1481927878038">
-        <mark key="'" line="314" column="31" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/pom.xml" timestamp="1508976885333">
         <mark key="'" line="1202" column="33" />
@@ -184,29 +178,24 @@
         <mark key="^" line="1365" column="18" />
         <mark key="." line="1365" column="18" />
       </file>
-      <file name="C:/SOURCE/git/postmaster/src/main/java/postilion/postmaster/PostMaster.java" timestamp="1481950353547">
-        <mark key="'" line="280" column="57" />
-      </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/test/java/postilion/services/ssb/accounts/TestTransactionHistoryDao.java" timestamp="1508810236904">
         <mark key="[" line="204" column="54" />
         <mark key="]" line="204" column="64" />
         <mark key="." line="204" column="64" />
         <mark key="^" line="204" column="64" />
       </file>
-      <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/kotlin/postilion/services/util/Configuration.kt" timestamp="1508985267918">
-        <mark key="[" line="32" column="6" />
-        <mark key="]" line="32" column="9" />
-        <mark key="." line="32" column="9" />
-        <mark key="^" line="32" column="9" />
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/kotlin/postilion/services/util/Configuration.kt" timestamp="1508988557439">
+        <mark key="'" line="25" column="56" />
+        <mark key="[" line="32" column="58" />
+        <mark key="]" line="32" column="59" />
+        <mark key="." line="32" column="59" />
+        <mark key="^" line="32" column="39" />
       </file>
       <file name="/fragment.java" timestamp="1508979809168">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/ssb/transactions/TransactionsDao.java" timestamp="1508811169290">
-        <mark key="'" line="1236" column="14" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/services2/src/test/java/postilion/services/spring/fi/TestHostInterfaceStateChangeScheduledAction.java" timestamp="1508874648610">
         <mark key="'" line="36" column="0" />
@@ -219,9 +208,12 @@
         <mark key="]" line="25" column="4" />
         <mark key="." line="25" column="4" />
       </file>
-      <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/data/Application.java" timestamp="1508979365483">
-        <mark key="[" line="3209" column="0" />
-        <mark key="]" line="3210" column="37" />
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/data/Application.java" timestamp="1508987664982">
+        <mark key="'" line="3176" column="29" />
+        <mark key="[" line="3177" column="29" />
+        <mark key="]" line="3177" column="80" />
+        <mark key="." line="1196" column="179" />
+        <mark key="^" line="1196" column="179" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/services2/src/test/resources/postilion/services/spring/clearance/TestClearanceService-context.xml" timestamp="1508884457983">
         <mark key="'" line="21" column="2" />
@@ -232,13 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2499" column="8" filename="C:/SOURCE/git/legacy/postilion/cfgpack/src/test/java/postilion/cfgpack/snid/nightmode/TestNightModeSNID.java" />
-      <jump line="2529" column="8" filename="C:/SOURCE/git/legacy/postilion/cfgpack/src/test/java/postilion/cfgpack/snid/nightmode/TestNightModeSNID.java" />
-      <jump line="2555" column="8" filename="C:/SOURCE/git/legacy/postilion/cfgpack/src/test/java/postilion/cfgpack/snid/nightmode/TestNightModeSNID.java" />
-      <jump line="2601" column="8" filename="C:/SOURCE/git/legacy/postilion/cfgpack/src/test/java/postilion/cfgpack/snid/nightmode/TestNightModeSNID.java" />
-      <jump line="60" column="11" filename="C:/SOURCE/git/legacy/postilion/cfgpack/src/test/java/postilion/cfgpack/snid/nightmode/TestNightModeSNID.java" />
-      <jump line="2442" column="45" filename="C:/SOURCE/git/legacy/postilion/cfgpack/src/test/java/postilion/cfgpack/snid/nightmode/TestNightModeSNID.java" />
-      <jump line="2470" column="45" filename="C:/SOURCE/git/legacy/postilion/cfgpack/src/test/java/postilion/cfgpack/snid/nightmode/TestNightModeSNID.java" />
       <jump line="2500" column="45" filename="C:/SOURCE/git/legacy/postilion/cfgpack/src/test/java/postilion/cfgpack/snid/nightmode/TestNightModeSNID.java" />
       <jump line="2530" column="45" filename="C:/SOURCE/git/legacy/postilion/cfgpack/src/test/java/postilion/cfgpack/snid/nightmode/TestNightModeSNID.java" />
       <jump line="2552" column="8" filename="C:/SOURCE/git/legacy/postilion/cfgpack/src/test/java/postilion/cfgpack/snid/nightmode/TestNightModeSNID.java" />
@@ -332,31 +317,40 @@
       <jump line="32" column="54" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/util/TransferUtil.java" />
       <jump line="37" column="10" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/util/TransferUtil.java" />
       <jump line="27" column="2" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/util/ApplicationUtil.java" />
+      <jump line="125" column="30" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/data/Application.java" />
+      <jump line="705" column="17" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/data/Application.java" />
+      <jump line="710" column="10" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/data/Application.java" />
+      <jump line="727" column="17" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/data/Application.java" />
+      <jump line="23" column="56" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/kotlin/postilion/services/util/Configuration.kt" />
+      <jump line="3177" column="29" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/data/Application.java" />
+      <jump line="3176" column="29" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/data/Application.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>transaction_type</text>
+        <text>isTransferOnline</text>
       </register>
       <register name="0" type="4">
-        <text>&quot;p2p_settlement_transfer_online&quot;;</text>
+        <text>DEFAULT_TRANSFER_ONLINE = &quot;default_transfer_online&quot;;</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>Boolean {
+  return true
+}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgUDJQX1NFVFRMRU1FTlRfVFJBTlNGRVJfT05MSU5FID0gInAycF9zZXR0bGVtZW50X3RyYW5zZmVyX29ubGluZSI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5IYXNoTWFwOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgUDJQX1NFVFRMRU1FTlRfVFJBTlNGRVJfT05MSU5FID0gInAycF9zZXR0bGVtZW50X3RyYW5zZmVyX29ubGluZSI7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">fQo=</text>
@@ -365,29 +359,27 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBpc19vbmxpbmU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciBpc09ubGluZSA9IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>transaction_type</last-search>
+      <last-search>isTransferOnline</last-search>
       <last-offset />
-      <last-pattern>transaction_type</last-pattern>
+      <last-pattern>isTransferOnline</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>writeTransaction</entry>
-        <entry>anyString</entry>
         <entry>Whitebox</entry>
         <entry>powermock</entry>
         <entry>hibernate-entity</entry>
@@ -406,6 +398,8 @@
         <entry>nexus</entry>
         <entry>isP2P</entry>
         <entry>transaction_type</entry>
+        <entry>fi_config_table</entry>
+        <entry>isTransferOnline</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
@@ -460,6 +454,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
