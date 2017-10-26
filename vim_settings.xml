@@ -72,6 +72,12 @@
         <mark key="^" line="22" column="3" />
         <mark key="." line="22" column="3" />
       </file>
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/transactions/SsbTransaction.java" timestamp="1509049042471">
+        <mark key="[" line="241" column="5" />
+      </file>
+      <file name="/fragment.kt" timestamp="1508986788314">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/messagedelivery/pom.xml" timestamp="1509043078681">
         <mark key="[" line="49" column="8" />
         <mark key="]" line="49" column="12" />
@@ -257,7 +263,7 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/ssb/transactions/TransactionsDao.java" timestamp="1509048345014" />
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/ssb/transactions/TransactionsDao.java" timestamp="1509049541781" />
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/services2/src/test/resources/postilion/services/spring/clearance/TestClearanceService-context.xml" timestamp="1508884457983">
         <mark key="'" line="21" column="2" />
         <mark key="[" line="21" column="2" />
