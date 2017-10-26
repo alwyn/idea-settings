@@ -9,6 +9,12 @@
         <mark key="^" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/util/TransferUtil.java" timestamp="1508978692380">
+        <mark key="[" line="22" column="1" />
+        <mark key="]" line="23" column="1" />
+        <mark key="." line="23" column="1" />
+        <mark key="^" line="23" column="1" />
+      </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/kotlin/postilion/services/util/BusinessCalendar.kt" timestamp="1508962816743">
         <mark key="[" line="27" column="5" />
         <mark key="]" line="27" column="4" />
@@ -55,7 +61,7 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.3.12.RELEASE/spring-context-support-4.3.12.RELEASE.jar!/org/springframework/scheduling/quartz/SchedulerFactoryBean.class" timestamp="1508884498822">
         <mark key="'" line="79" column="17" />
       </file>
-      <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/transfer/Transfer.java" timestamp="1508976417744">
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/transfer/Transfer.java" timestamp="1508978676376">
         <mark key="[" line="908" column="0" />
         <mark key="]" line="909" column="0" />
         <mark key="^" line="909" column="0" />
@@ -298,8 +304,8 @@
       <jump line="35" column="35" filename="$USER_HOME$/.m2/settings.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>nexus</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
         <text>nexus</text>
@@ -311,31 +317,31 @@
         <text encoding="base64">CQkgICAgQXJndW1lbnRNYXRjaGVycy5udWxsYWJsZShTdHJpbmcuY2xhc3MpLCAKICAgICAgICBBcmd1bWVudE1hdGNoZXJzLm51bGxhYmxlKFN0cmluZy5jbGFzcyksCiAgICAgICAgQXJndW1lbnRNYXRjaGVycy5udWxsYWJsZShJbnRlZ2VyLmNsYXNzKSwgCiAgICAgICAgQXJndW1lbnRNYXRjaGVycy5udWxsYWJsZShJbnRlZ2VyLmNsYXNzKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PC9yZXBvc2l0b3JpZXM+Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">PC9yZXBvc2l0b3JpZXM+Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">PHJlcG9zaXRvcmllcz4KCTxyZXBvc2l0b3J5PgoJCTx1cmw+aHR0cDovL2Rvd25sb2FkLmphdmEubmV0L21hdmVuLzIvPC91cmw+CgkJPGlkPmhpYmVybmF0ZS1wZXJzaXN0ZW5jZTwvaWQ+CgkJPGxheW91dD5kZWZhdWx0PC9sYXlvdXQ+CgkJPG5hbWU+UmVwb3NpdG9yeSBmb3IgbGlicmFyeSBMaWJyYXJ5W2hpYmVybmF0ZS1wZXJzaXN0ZW5jZV08L25hbWU+Cgk8L3JlcG9zaXRvcnk+</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkJCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICA8dmVyc2lvbj4xLjcuMjQ8L3ZlcnNpb24+Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8YXJ0aWZhY3RJZD5zbGY0ai1hcGk8L2FydGlmYWN0SWQ+Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8Z3JvdXBJZD5vcmcuc2xmNGo8L2dyb3VwSWQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8YXJ0aWZhY3RJZD5zbGY0ai1hcGk8L2FydGlmYWN0SWQ+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -421,6 +427,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
