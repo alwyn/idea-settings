@@ -65,6 +65,7 @@
         <mark key="^" line="29" column="3" />
         <mark key="." line="29" column="3" />
       </file>
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/service/adapters/PayeeServiceAdapter.java" timestamp="1509046898005" />
       <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/util/ApplicationUtil.java" timestamp="1508985526407">
         <mark key="'" line="27" column="2" />
         <mark key="[" line="20" column="0" />
@@ -144,7 +145,7 @@
         <mark key="." line="49" column="29" />
         <mark key="^" line="49" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509045474960">
+      <file name="/Dummy.txt" timestamp="1509047254955">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -170,6 +171,11 @@
         <mark key="^" line="49" column="12" />
         <mark key="." line="49" column="12" />
       </file>
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/ssb/transactions/SSBTransaction.java" timestamp="1509046676727">
+        <mark key="'" line="61" column="27" />
+      </file>
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/resources/postilion/ibs/ui/messages.properties" timestamp="1509047002128" />
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/data/UserSession.java" timestamp="1509047583236" />
       <file name="C:/SOURCE/github/ADD/src/docs/asciidoc/2018.R1/Architecture Description Document for SSB 18_1.adoc" timestamp="1509033325478">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -258,10 +264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2578" column="8" filename="C:/SOURCE/git/legacy/postilion/cfgpack/src/test/java/postilion/cfgpack/snid/nightmode/TestNightModeSNID.java" />
-      <jump line="2579" column="45" filename="C:/SOURCE/git/legacy/postilion/cfgpack/src/test/java/postilion/cfgpack/snid/nightmode/TestNightModeSNID.java" />
-      <jump line="2604" column="45" filename="C:/SOURCE/git/legacy/postilion/cfgpack/src/test/java/postilion/cfgpack/snid/nightmode/TestNightModeSNID.java" />
-      <jump line="2626" column="8" filename="C:/SOURCE/git/legacy/postilion/cfgpack/src/test/java/postilion/cfgpack/snid/nightmode/TestNightModeSNID.java" />
       <jump line="2627" column="8" filename="C:/SOURCE/git/legacy/postilion/cfgpack/src/test/java/postilion/cfgpack/snid/nightmode/TestNightModeSNID.java" />
       <jump line="2628" column="8" filename="C:/SOURCE/git/legacy/postilion/cfgpack/src/test/java/postilion/cfgpack/snid/nightmode/TestNightModeSNID.java" />
       <jump line="2629" column="45" filename="C:/SOURCE/git/legacy/postilion/cfgpack/src/test/java/postilion/cfgpack/snid/nightmode/TestNightModeSNID.java" />
@@ -358,6 +360,10 @@
       <jump line="37" column="51" filename="C:/SOURCE/git/legacy/postilion/ssb_installer/src/main/izpack/install.xml" />
       <jump line="108" column="69" filename="C:/SOURCE/git/legacy/postilion/ssb_installer/src/main/izpack/install.xml" />
       <jump line="372" column="63" filename="C:/SOURCE/git/legacy/postilion/ssb_installer/src/main/izpack/install.xml" />
+      <jump line="253" column="23" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/ssb/transactions/SSBTransaction.java" />
+      <jump line="49" column="24" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/ssb/transactions/SSBTransaction.java" />
+      <jump line="58" column="18" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/ssb/transactions/SSBTransaction.java" />
+      <jump line="61" column="27" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/ssb/transactions/SSBTransaction.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -367,7 +373,7 @@
         <text>) ?: defaultOnline</text>
       </register>
       <register name="/" type="4">
-        <text>message</text>
+        <text>sql_date_time</text>
       </register>
       <register name="0" type="4">
         <text>DEFAULT_TRANSFER_ONLINE = &quot;default_transfer_online&quot;;</text>
@@ -404,15 +410,14 @@
       </register>
     </registers>
     <search>
-      <last-search>message</last-search>
+      <last-search>sql_date_time</last-search>
       <last-offset />
-      <last-pattern>message</last-pattern>
+      <last-pattern>sql_date_time</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>hibernate-entity</entry>
         <entry>junit</entry>
         <entry>rule</entry>
         <entry>init</entry>
@@ -432,6 +437,7 @@
         <entry>izpack</entry>
         <entry>messagedelivery</entry>
         <entry>message</entry>
+        <entry>sql_date_time</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
