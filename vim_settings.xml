@@ -113,11 +113,11 @@
       <file name="C:/SOURCE/git/ssb6/postilion/ssb/services/src/main/java/postilion/services/sdk/security/SessionFilter.java" timestamp="1481927878038">
         <mark key="'" line="314" column="31" />
       </file>
-      <file name="C:/SOURCE/git/legacy/postilion/pom.xml" timestamp="1508939157547">
-        <mark key="'" line="951" column="21" />
-        <mark key="[" line="55" column="28" />
-        <mark key="]" line="55" column="29" />
-        <mark key="." line="55" column="29" />
+      <file name="C:/SOURCE/git/legacy/postilion/pom.xml" timestamp="1508975790840">
+        <mark key="'" line="701" column="20" />
+        <mark key="[" line="903" column="0" />
+        <mark key="]" line="903" column="0" />
+        <mark key="." line="903" column="0" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/action/AServiceAction.java" timestamp="1508873611779">
         <mark key="[" line="630" column="28" />
@@ -182,14 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="30" filename="C:/SOURCE/git/legacy/postilion/cfgpack/src/test/java/postilion/cfgpack/snid/nightmode/TestNightModeHandlerFactory.java" />
-      <jump line="51" column="25" filename="C:/SOURCE/git/legacy/postilion/pom.xml" />
-      <jump line="534" column="13" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/test/java/postilion/services/ssb/customer/merge/TestMergeCustomer.java" />
-      <jump line="1295" column="0" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/test/java/postilion/services/ssb/customer/merge/TestMergeCustomer.java" />
-      <jump line="371" column="0" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/test/java/postilion/services/ssb/customer/merge/TestMergeCustomer.java" />
-      <jump line="1236" column="14" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/ssb/transactions/TransactionsDao.java" />
-      <jump line="551" column="37" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/test/java/postilion/services/ssb/customer/merge/TestMergeCustomer.java" />
-      <jump line="554" column="0" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/test/java/postilion/services/ssb/customer/merge/TestMergeCustomer.java" />
       <jump line="0" column="0" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/test/java/postilion/services/ssb/customer/merge/TestMergeCustomer.java" />
       <jump line="52" column="0" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/test/java/postilion/services/ssb/customer/merge/TestMergeCustomer.java" />
       <jump line="540" column="53" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/test/java/postilion/services/ssb/customer/merge/TestMergeCustomer.java" />
@@ -282,61 +274,68 @@
       <jump line="951" column="21" filename="C:/SOURCE/git/legacy/postilion/pom.xml" />
       <jump line="20" column="4" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/kotlin/postilion/services/util/SameDayACH.kt" />
       <jump line="656" column="34" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/transfer/Transfer.java" />
+      <jump line="903" column="6" filename="C:/SOURCE/git/legacy/postilion/pom.xml" />
+      <jump line="61" column="14" filename="C:/SOURCE/git/legacy/postilion/pom.xml" />
+      <jump line="904" column="21" filename="C:/SOURCE/git/legacy/postilion/pom.xml" />
+      <jump line="905" column="20" filename="C:/SOURCE/git/legacy/postilion/pom.xml" />
+      <jump line="94" column="21" filename="C:/SOURCE/git/legacy/postilion/pom.xml" />
+      <jump line="95" column="20" filename="C:/SOURCE/git/legacy/postilion/pom.xml" />
+      <jump line="700" column="21" filename="C:/SOURCE/git/legacy/postilion/pom.xml" />
+      <jump line="701" column="20" filename="C:/SOURCE/git/legacy/postilion/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>spring</text>
+        <text>slf4j</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkgICAgQXJndW1lbnRNYXRjaGVycy5udWxsYWJsZShTdHJpbmcuY2xhc3MpLCAKICAgICAgICBBcmd1bWVudE1hdGNoZXJzLm51bGxhYmxlKFN0cmluZy5jbGFzcyksCiAgICAgICAgQXJndW1lbnRNYXRjaGVycy5udWxsYWJsZShJbnRlZ2VyLmNsYXNzKSwgCiAgICAgICAgQXJndW1lbnRNYXRjaGVycy5udWxsYWJsZShJbnRlZ2VyLmNsYXNzKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZXR1cm4gZmFsc2RkZQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">KQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHBvc3RpbGlvbi5zZXJ2aWNlcy51dGlsLmFjaC5TYW1lRGF5VXRpbDsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHBvc3RpbGlvbi5zZXJ2aWNlcy51dGlsLlNhbWVEYXlBQ0g7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICA8dmVyc2lvbj4xLjcuMjQ8L3ZlcnNpb24+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8YXJ0aWZhY3RJZD5zbGY0ai1hcGk8L2FydGlmYWN0SWQ+Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICA8Z3JvdXBJZD5vcmcuc2xmNGo8L2dyb3VwSWQ+Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHBvc3RpbGlvbi5zZXJ2aWNlcy5zc2Iuc2VydmljZXBsYW4uU2VydmljZUZlYXR1cmUK</text>
+        <text encoding="base64">ICAgICAgPGRlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogICogqSAyMDE2LTIwMzAgRmlzZXJ2LCBJbmMuIG9yIGl0cyBhZmZpbGlhdGVzCg==</text>
+        <text encoding="base64">ICByZXR1cm4gZmFsc2RkZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">aW1wb3J0IHBvc3RpbGlvbi5zZXJ2aWNlcy51dGlsLmFjaC5TYW1lRGF5VXRpbDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>spring</last-search>
+      <last-search>slf4j</last-search>
       <last-offset />
-      <last-pattern>spring</last-pattern>
+      <last-pattern>slf4j</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>nullable</entry>
         <entry>Matchers</entry>
         <entry>anyObject</entry>
         <entry>deleteTrans</entry>
@@ -356,6 +355,7 @@
         <entry>transaction_type</entry>
         <entry>spring-version</entry>
         <entry>spring</entry>
+        <entry>slf4j</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
@@ -371,6 +371,7 @@
         <entry>742</entry>
         <entry>61</entry>
         <entry>56</entry>
+        <entry>904</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
