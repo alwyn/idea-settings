@@ -10,6 +10,11 @@
         <mark key="." line="60" column="16" />
         <mark key="^" line="60" column="16" />
       </file>
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/kotlin/postilion/services/util/ach/SameDayUtil.kt" timestamp="1508959492066">
+        <mark key="[" line="18" column="31" />
+        <mark key="]" line="18" column="31" />
+        <mark key="." line="18" column="31" />
+      </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/kotlin/postilion/services/util/Transfer.kt" timestamp="1508986857401">
         <mark key="[" line="28" column="29" />
         <mark key="]" line="29" column="3" />
@@ -49,12 +54,12 @@
         <mark key="." line="0" column="28" />
         <mark key="^" line="0" column="28" />
       </file>
-      <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/service/wrappers/transactions/ATransactionProxy.java" timestamp="1509053167472">
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/service/wrappers/transactions/ATransactionProxy.java" timestamp="1509055110029">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="1435" column="0" />
-        <mark key="]" line="1435" column="0" />
-        <mark key="^" line="1434" column="40" />
-        <mark key="." line="1435" column="0" />
+        <mark key="[" line="1434" column="9" />
+        <mark key="]" line="1434" column="9" />
+        <mark key="^" line="1434" column="12" />
+        <mark key="." line="1434" column="9" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/pom.xml" timestamp="1508875895798">
         <mark key="[" line="271" column="0" />
@@ -103,11 +108,16 @@
         <mark key="^" line="18" column="28" />
         <mark key="." line="18" column="28" />
       </file>
-      <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/test/java/postilion/services/ssb/transactions/TestTransactionsDao.java" timestamp="1508809750134">
-        <mark key="[" line="1365" column="14" />
-        <mark key="]" line="1365" column="18" />
-        <mark key="^" line="1365" column="18" />
-        <mark key="." line="1365" column="18" />
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/test/java/postilion/services/ssb/transactions/TestTransactionsDao.java" timestamp="1509054358358">
+        <mark key="'" line="103" column="16" />
+        <mark key="[" line="183" column="0" />
+        <mark key="]" line="183" column="0" />
+        <mark key="." line="183" column="0" />
+      </file>
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/kotlin/postilion/services/util/Transaction.kt" timestamp="1508962404345">
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="25" column="4" />
+        <mark key="." line="25" column="4" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/data/Application.java" timestamp="1508987664982">
         <mark key="'" line="3176" column="29" />
@@ -122,12 +132,12 @@
         <mark key="^" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/service/wrappers/transactions/SsbTransactionProxy.java" timestamp="1509053066077">
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/service/wrappers/transactions/SsbTransactionProxy.java" timestamp="1509054848027">
         <mark key="'" line="67" column="15" />
-        <mark key="[" line="922" column="3" />
-        <mark key="]" line="923" column="0" />
-        <mark key="." line="923" column="0" />
-        <mark key="^" line="923" column="0" />
+        <mark key="[" line="927" column="6" />
+        <mark key="]" line="913" column="27" />
+        <mark key="." line="913" column="27" />
+        <mark key="^" line="913" column="27" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/kotlin/postilion/services/util/BusinessCalendar.kt" timestamp="1508962816743">
         <mark key="[" line="27" column="5" />
@@ -141,6 +151,11 @@
         <mark key="]" line="2354" column="10" />
         <mark key="^" line="2354" column="10" />
         <mark key="." line="2354" column="10" />
+      </file>
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/service/wrappers/transactions/BatchPaymentProxy.java" timestamp="1509055375479">
+        <mark key="[" line="228" column="0" />
+        <mark key="]" line="228" column="0" />
+        <mark key="." line="228" column="0" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/cfgpack/src/test/java/postilion/cfgpack/snid/nightmode/TestNightModeSNID.java" timestamp="1508873957937">
         <mark key="'" line="2629" column="45" />
@@ -185,9 +200,6 @@
         <mark key="^" line="252" column="18" />
         <mark key="." line="252" column="18" />
       </file>
-      <file name="C:/SOURCE/git/legacy/postilion/ssb_installer/src/main/izpack/install.xml" timestamp="1509043461990">
-        <mark key="'" line="372" column="63" />
-      </file>
       <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" timestamp="1481928244541">
         <mark key="'" line="126" column="0" />
         <mark key="[" line="615" column="81" />
@@ -202,10 +214,15 @@
         <mark key="." line="49" column="29" />
         <mark key="^" line="49" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509052586064">
+      <file name="/Dummy.txt" timestamp="1509054672908">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/kotlin/postilion/services/util/SameDayAch.kt" timestamp="1508979927792">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/postilion_tomcat/pom.xml" timestamp="1508855710147">
         <mark key="'" line="0" column="0" />
@@ -233,6 +250,11 @@
         <mark key="." line="1104" column="0" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/data/UserSession.java" timestamp="1509047846721" />
+      <file name="C:/SOURCE/github/ADD/src/docs/asciidoc/2018.R1/Architecture Description Document for SSB 18_1.adoc" timestamp="1509033325478">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/service/wrappers/transactions/PaymentModelProxy.java" timestamp="1509051421918">
         <mark key="[" line="45" column="37" />
         <mark key="]" line="45" column="0" />
@@ -264,12 +286,12 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/ssb/transactions/TransactionsDao.java" timestamp="1509050474825">
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/ssb/transactions/TransactionsDao.java" timestamp="1509054491411">
         <mark key="'" line="2685" column="0" />
-        <mark key="[" line="4024" column="97" />
-        <mark key="]" line="4025" column="7" />
-        <mark key="." line="4025" column="7" />
-        <mark key="^" line="4025" column="7" />
+        <mark key="[" line="4027" column="9" />
+        <mark key="]" line="4026" column="9" />
+        <mark key="." line="4026" column="9" />
+        <mark key="^" line="4026" column="9" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/services2/src/test/resources/postilion/services/spring/clearance/TestClearanceService-context.xml" timestamp="1508884457983">
         <mark key="'" line="21" column="2" />
@@ -280,7 +302,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1202" column="33" filename="C:/SOURCE/git/legacy/postilion/pom.xml" />
       <jump line="15" column="22" filename="$USER_HOME$/.m2/settings.xml" />
       <jump line="19" column="37" filename="$USER_HOME$/.m2/settings.xml" />
       <jump line="20" column="37" filename="$USER_HOME$/.m2/settings.xml" />
@@ -380,61 +401,61 @@
       <jump line="67" column="15" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/service/wrappers/transactions/SsbTransactionProxy.java" />
       <jump line="1436" column="16" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/service/wrappers/transactions/ATransactionProxy.java" />
       <jump line="0" column="0" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/service/wrappers/transactions/ATransactionProxy.java" />
+      <jump line="103" column="16" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/test/java/postilion/services/ssb/transactions/TestTransactionsDao.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>is_same_day</text>
+        <text encoding="base64">YWJkd3N0cmFjdCA=</text>
       </register>
       <register name="/" type="4">
-        <text>isSameDa</text>
+        <text>office_result</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">c3RydWN0dXJlZERhdGFSZXEuaW5kZXhPZigiU2FtZURheUFjaDE0VHJ1ZSIpID4gLTEgPyB0cnVlIDogZmFsc2U7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaXNfc2FtZV9kYXkgPSB0cmFuLmlzU2FtZURheUFjaCgpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIChzdXBwb3J0c1NhbWVEYXlBY2goKSkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGJvb2xlYW4gaXNfc2FtZV9kYXkgPSBmYWxzZTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmYWxzZTsK</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBiYXRjaC4K</text>
       </register>
-      <register name="8" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICB7Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="5" type="2">
+        <text encoding="base64">ICBwdWJsaWMgYm9vbGVhbiBpc1NhbWVEYXlBY2goKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBAT3ZlcnJpZGUK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIG9mZmljZV9yb3dbT0ZGSUNFX1NUUlVDVF9EQVRBXSA9ICJCbGFoYmxhaGJsYWgiOwo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgaXNfc2FtZV9kYXkgPSB0cmFuLmlzU2FtZURheUFjaCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>isSameDa</last-search>
+      <last-search>office_result</last-search>
       <last-offset />
-      <last-pattern>isSameDa</last-pattern>
+      <last-pattern>office_result</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>nexus</entry>
         <entry>isP2P</entry>
         <entry>transaction_type</entry>
         <entry>fi_config_table</entry>
@@ -454,6 +475,7 @@
         <entry>getStructuredData</entry>
         <entry>isSame</entry>
         <entry>isSameDa</entry>
+        <entry>office_result</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
