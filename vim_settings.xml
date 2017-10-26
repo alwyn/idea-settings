@@ -97,6 +97,12 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="207" column="24" />
       </file>
+      <file name="C:/SOURCE/github/ADD/src/docs/asciidoc/2018.R1/epics/PlatformUpdate.adoc" timestamp="1509031306271">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/shared-lib/pom.xml" timestamp="1508855487847">
         <mark key="[" line="252" column="15" />
         <mark key="]" line="252" column="18" />
@@ -122,9 +128,11 @@
         <mark key="^" line="615" column="81" />
         <mark key="." line="615" column="81" />
       </file>
-      <file name="C:/SOURCE/github/ADD/src/docs/asciidoc/2018.R1/epics/Summary.adoc" timestamp="1509028246789">
+      <file name="C:/SOURCE/github/ADD/src/docs/asciidoc/2018.R1/epics/Summary.adoc" timestamp="1509031728998">
+        <mark key="'" line="38" column="1" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.m2/settings.xml" timestamp="1508977558627">
@@ -152,11 +160,11 @@
         <mark key="^" line="293" column="18" />
         <mark key="." line="293" column="18" />
       </file>
-      <file name="C:/SOURCE/github/ADD/src/docs/asciidoc/2018.R1/Architecture Description Document for SSB 18_1.adoc" timestamp="1509028200698">
-        <mark key="[" line="0" column="58" />
-        <mark key="]" line="0" column="61" />
-        <mark key="." line="0" column="61" />
+      <file name="C:/SOURCE/github/ADD/src/docs/asciidoc/2018.R1/Architecture Description Document for SSB 18_1.adoc" timestamp="1509031512271">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
         <mark key="^" line="0" column="61" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/pom.xml" timestamp="1508976885333">
         <mark key="'" line="1202" column="33" />
@@ -235,7 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2500" column="45" filename="C:/SOURCE/git/legacy/postilion/cfgpack/src/test/java/postilion/cfgpack/snid/nightmode/TestNightModeSNID.java" />
       <jump line="2530" column="45" filename="C:/SOURCE/git/legacy/postilion/cfgpack/src/test/java/postilion/cfgpack/snid/nightmode/TestNightModeSNID.java" />
       <jump line="2552" column="8" filename="C:/SOURCE/git/legacy/postilion/cfgpack/src/test/java/postilion/cfgpack/snid/nightmode/TestNightModeSNID.java" />
       <jump line="2553" column="8" filename="C:/SOURCE/git/legacy/postilion/cfgpack/src/test/java/postilion/cfgpack/snid/nightmode/TestNightModeSNID.java" />
@@ -335,14 +342,14 @@
       <jump line="23" column="56" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/kotlin/postilion/services/util/Configuration.kt" />
       <jump line="3177" column="29" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/data/Application.java" />
       <jump line="3176" column="29" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/data/Application.java" />
+      <jump line="38" column="1" filename="C:/SOURCE/github/ADD/src/docs/asciidoc/2018.R1/epics/Summary.adoc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>== NB. READ THE EPIC SUMMARY. Only ARCHITECTURALLY SIGNIFICANT sections will have CONTENT.
-=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW5jbHVkZTo6e2luY2x1ZGVkaXJ9L015U25hcC5hZG9jW10K</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>isTransferOnline</text>
@@ -350,35 +357,32 @@
       <register name="0" type="4">
         <text>DEFAULT_TRANSFER_ONLINE = &quot;default_transfer_online&quot;;</text>
       </register>
-      <register name="1" type="4">
-        <text>== NB. READ THE EPIC SUMMARY. Only ARCHITECTURALLY SIGNIFICANT sections will have CONTENT.
-=</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW5jbHVkZTo6e2luY2x1ZGVkaXJ9L015U25hcC5hZG9jW10K</text>
       </register>
-      <register name="2" type="4">
-        <text>Boolean {
-  return true
-}</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5IYXNoTWFwOwo=</text>
+        <text encoding="base64">PDw8Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgUDJQX1NFVFRMRU1FTlRfVFJBTlNGRVJfT05MSU5FID0gInAycF9zZXR0bGVtZW50X3RyYW5zZmVyX29ubGluZSI7Cg==</text>
+        <text encoding="base64">aW5jbHVkZTo6e2luY2x1ZGVkaXJ9L1BvcE1vbmV5LmFkb2NbXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW5jbHVkZTo6e2luY2x1ZGVkaXJ9L0FMTERBVEEuYWRvY1tdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
