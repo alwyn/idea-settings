@@ -109,6 +109,12 @@
         <mark key="^" line="252" column="18" />
         <mark key="." line="252" column="18" />
       </file>
+      <file name="C:/SOURCE/github/ADD/src/docs/asciidoc/2018.R1/epics/OTPMobile.adoc" timestamp="1509032817055">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="28" />
+        <mark key="." line="0" column="28" />
+        <mark key="^" line="0" column="28" />
+      </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/pom.xml" timestamp="1508875895798">
         <mark key="[" line="271" column="0" />
         <mark key="]" line="271" column="0" />
@@ -128,12 +134,12 @@
         <mark key="^" line="615" column="81" />
         <mark key="." line="615" column="81" />
       </file>
-      <file name="C:/SOURCE/github/ADD/src/docs/asciidoc/2018.R1/epics/Summary.adoc" timestamp="1509031728998">
+      <file name="C:/SOURCE/github/ADD/src/docs/asciidoc/2018.R1/epics/Summary.adoc" timestamp="1509033348967">
         <mark key="'" line="38" column="1" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="22" column="2" />
+        <mark key="]" line="22" column="3" />
+        <mark key="^" line="22" column="3" />
+        <mark key="." line="22" column="3" />
       </file>
       <file name="$USER_HOME$/.m2/settings.xml" timestamp="1508977558627">
         <mark key="'" line="35" column="35" />
@@ -160,10 +166,9 @@
         <mark key="^" line="293" column="18" />
         <mark key="." line="293" column="18" />
       </file>
-      <file name="C:/SOURCE/github/ADD/src/docs/asciidoc/2018.R1/Architecture Description Document for SSB 18_1.adoc" timestamp="1509031512271">
+      <file name="C:/SOURCE/github/ADD/src/docs/asciidoc/2018.R1/Architecture Description Document for SSB 18_1.adoc" timestamp="1509033325478">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
-        <mark key="^" line="0" column="61" />
         <mark key="." line="23" column="0" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/pom.xml" timestamp="1508976885333">
@@ -345,11 +350,11 @@
       <jump line="38" column="1" filename="C:/SOURCE/github/ADD/src/docs/asciidoc/2018.R1/epics/Summary.adoc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW5jbHVkZTo6e2luY2x1ZGVkaXJ9L015U25hcC5hZG9jW10K</text>
+      <register name="&quot;" type="4">
+        <text>S</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>S</text>
       </register>
       <register name="/" type="4">
         <text>isTransferOnline</text>
@@ -358,31 +363,31 @@
         <text>DEFAULT_TRANSFER_ONLINE = &quot;default_transfer_online&quot;;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW5jbHVkZTo6e2luY2x1ZGVkaXJ9L015U25hcC5hZG9jW10K</text>
+        <text encoding="base64">PDw8Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW5jbHVkZTo6e2luY2x1ZGVkaXJ9L09UUE1vYmlsZS5hZG9jW10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8Cg==</text>
+        <text encoding="base64">aW5jbHVkZTo6e2luY2x1ZGVkaXJ9L015U25hcC5hZG9jW10K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW5jbHVkZTo6e2luY2x1ZGVkaXJ9L1BvcE1vbmV5LmFkb2NbXQo=</text>
+        <text encoding="base64">PDw8Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8Cg==</text>
+        <text encoding="base64">aW5jbHVkZTo6e2luY2x1ZGVkaXJ9L1BvcE1vbmV5LmFkb2NbXQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW5jbHVkZTo6e2luY2x1ZGVkaXJ9L0FMTERBVEEuYWRvY1tdCg==</text>
+        <text encoding="base64">PDw8Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
