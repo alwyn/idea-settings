@@ -85,6 +85,7 @@
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/resources/postilion/ibs/ui/messages.properties" timestamp="1509047002128" />
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/businessapps/view_postings/MergedTransactions.java" timestamp="1509048048775" />
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/test/java/postilion/ibs/ui/bean/transfer/TestTransfer.java" timestamp="1509144741063" />
       <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/test/java/postilion/services/tools/edd/TestEddImporter.java" timestamp="1508809901519">
         <mark key="[" line="124" column="0" />
         <mark key="]" line="124" column="0" />
