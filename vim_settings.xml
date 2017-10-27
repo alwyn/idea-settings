@@ -17,7 +17,7 @@
         <mark key="." line="29" column="3" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/service/adapters/PayeeServiceAdapter.java" timestamp="1509046898005" />
-      <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/transfer/Transfer.java" timestamp="1509138431463" />
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/transfer/Transfer.java" timestamp="1509143390657" />
       <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/util/ApplicationUtil.java" timestamp="1508985526407">
         <mark key="'" line="27" column="2" />
         <mark key="[" line="20" column="0" />
@@ -71,6 +71,11 @@
         <mark key="]" line="22" column="3" />
         <mark key="^" line="22" column="3" />
         <mark key="." line="22" column="3" />
+      </file>
+      <file name="/fragment.kt" timestamp="1509142514467">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="28" />
+        <mark key="." line="0" column="28" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/messagedelivery/pom.xml" timestamp="1509043078681">
         <mark key="[" line="49" column="8" />
@@ -239,7 +244,7 @@
         <mark key="." line="33" column="62" />
         <mark key="^" line="32" column="56" />
       </file>
-      <file name="/fragment.java" timestamp="1509138248637">
+      <file name="/fragment.java" timestamp="1509143393704">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="4" />
@@ -364,10 +369,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>messagedelivery</text>
+        <text>DateTime()</text>
       </register>
       <register name="-" type="4">
-        <text>messagedelivery</text>
+        <text>DateTime()</text>
       </register>
       <register name="/" type="4">
         <text>isSame</text>
