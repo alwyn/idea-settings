@@ -181,6 +181,12 @@
       <file name="C:/SOURCE/git/legacy/postilion/ssb_installer/src/main/izpack/install.xml" timestamp="1509043461990">
         <mark key="'" line="372" column="63" />
       </file>
+      <file name="C:/SOURCE/git/admin/build.gradle" timestamp="1509156494754">
+        <mark key="[" line="46" column="61" />
+        <mark key="]" line="47" column="63" />
+        <mark key="^" line="47" column="63" />
+        <mark key="." line="47" column="63" />
+      </file>
       <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" timestamp="1481928244541">
         <mark key="'" line="126" column="0" />
         <mark key="[" line="615" column="81" />
@@ -369,8 +375,8 @@
       <jump line="127" column="0" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/service/wrappers/transactions/PaymentModelProxy.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>DateTime()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnd2FyJwo=</text>
       </register>
       <register name="-" type="4">
         <text>DateTime()</text>
@@ -382,31 +388,31 @@
         <text encoding="base64">c3RydWN0dXJlZERhdGFSZXEuaW5kZXhPZigiU2FtZURheUFjaDE0VHJ1ZSIpID4gLTEgPyB0cnVlIDogZmFsc2U7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnd2FyJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBiYXRjaC4K</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBiYXRjaC4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwdWJsaWMgYm9vbGVhbiBpc1NhbWVEYXlBY2goKQo=</text>
+        <text encoding="base64">ICB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBAT3ZlcnJpZGUK</text>
+        <text encoding="base64">ICBwdWJsaWMgYm9vbGVhbiBpc1NhbWVEYXlBY2goKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG9mZmljZV9yb3dbT0ZGSUNFX1NUUlVDVF9EQVRBXSA9ICJCbGFoYmxhaGJsYWgiOwo=</text>
+        <text encoding="base64">ICBAT3ZlcnJpZGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIG9mZmljZV9yb3dbT0ZGSUNFX1NUUlVDVF9EQVRBXSA9ICJCbGFoYmxhaGJsYWgiOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaXNfc2FtZV9kYXkgPSB0cmFuLmlzU2FtZURheUFjaCgpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
