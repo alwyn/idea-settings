@@ -16,8 +16,7 @@
         <mark key="^" line="29" column="3" />
         <mark key="." line="29" column="3" />
       </file>
-      <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/service/adapters/PayeeServiceAdapter.java" timestamp="1509046898005" />
-      <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/transfer/Transfer.java" timestamp="1509143390657" />
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/transfer/Transfer.java" timestamp="1509220404232" />
       <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/util/ApplicationUtil.java" timestamp="1508985526407">
         <mark key="'" line="27" column="2" />
         <mark key="[" line="20" column="0" />
@@ -89,9 +88,6 @@
         <mark key="^" line="49" column="12" />
         <mark key="." line="49" column="12" />
       </file>
-      <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/resources/postilion/ibs/ui/messages.properties" timestamp="1509047002128" />
-      <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/businessapps/view_postings/MergedTransactions.java" timestamp="1509048048775" />
-      <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/test/java/postilion/ibs/ui/bean/transfer/TestTransfer.java" timestamp="1509144741063" />
       <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/test/java/postilion/services/tools/edd/TestEddImporter.java" timestamp="1508809901519">
         <mark key="[" line="124" column="0" />
         <mark key="]" line="124" column="0" />
@@ -167,7 +163,6 @@
         <mark key="^" line="60" column="20" />
         <mark key="." line="60" column="20" />
       </file>
-      <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/ssb/banking/AReversalTransactionBatchAction.java" timestamp="1509050833908" />
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/services2/src/main/java/postilion/services/spring/jpa/office/ClearanceTran.java" timestamp="1509052112871">
         <mark key="[" line="244" column="11" />
         <mark key="]" line="244" column="76" />
@@ -201,7 +196,7 @@
         <mark key="." line="49" column="29" />
         <mark key="^" line="49" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509138248616">
+      <file name="/Dummy.txt" timestamp="1509220406039">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -223,7 +218,6 @@
       <file name="C:/SOURCE/git/legacy/postilion/database/src/main/sql/postilion_office/proc_ssb_find_trans_by_cif.sql" timestamp="1509048652072">
         <mark key="'" line="351" column="11" />
       </file>
-      <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/ssb/transactions/GetBatchTransactionAction.java" timestamp="1509050843540" />
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/service/wrappers/TransactionDetailsWrapper.java" timestamp="1509053133408">
         <mark key="'" line="303" column="18" />
         <mark key="[" line="1104" column="0" />
@@ -231,7 +225,6 @@
         <mark key="^" line="1104" column="108" />
         <mark key="." line="1104" column="0" />
       </file>
-      <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/data/UserSession.java" timestamp="1509047846721" />
       <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/action/AServiceAction.java" timestamp="1508873611779">
         <mark key="[" line="630" column="28" />
         <mark key="]" line="630" column="28" />
