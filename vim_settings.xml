@@ -112,12 +112,12 @@
         <mark key="^" line="60" column="20" />
         <mark key="." line="60" column="20" />
       </file>
-      <file name="C:/SOURCE/git/cfe/build.gradle" timestamp="1509398671599">
+      <file name="C:/SOURCE/git/cfe/build.gradle" timestamp="1509399087395">
         <mark key="a" line="7" column="4" />
         <mark key="i" line="7" column="4" />
-        <mark key="[" line="5" column="16" />
-        <mark key="]" line="6" column="15" />
-        <mark key="." line="6" column="15" />
+        <mark key="[" line="39" column="19" />
+        <mark key="]" line="39" column="19" />
+        <mark key="." line="39" column="19" />
         <mark key="^" line="6" column="15" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/shared-lib/pom.xml" timestamp="1508855487847">
@@ -287,11 +287,11 @@
       <jump line="187" column="37" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/ruby/rails/app/views/activities/index.html.haml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CW1hdmVuQ2VudHJhbCgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>}savenCentral()</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>renderSend</text>
