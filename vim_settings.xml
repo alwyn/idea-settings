@@ -77,6 +77,7 @@
         <mark key="." line="120" column="47" />
         <mark key="^" line="120" column="47" />
       </file>
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/service/wrappers/TransferModelWrapper.java" timestamp="1509380834127" />
       <file name="C:/SOURCE/github/ADD/src/docs/asciidoc/2018.R1/epics/Summary.adoc" timestamp="1509033348967">
         <mark key="'" line="38" column="1" />
         <mark key="[" line="22" column="2" />
@@ -95,6 +96,7 @@
         <mark key="^" line="49" column="12" />
         <mark key="." line="49" column="12" />
       </file>
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/businessapps/view_postings/MergedTransactions.java" timestamp="1509380920211" />
       <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/test/java/postilion/services/tools/edd/TestEddImporter.java" timestamp="1508809901519">
         <mark key="[" line="124" column="0" />
         <mark key="]" line="124" column="0" />
@@ -171,10 +173,6 @@
         <mark key="]" line="60" column="20" />
         <mark key="^" line="60" column="20" />
         <mark key="." line="60" column="20" />
-      </file>
-      <file name="C:/SOURCE/git/legacy/postilion/ssb/web/services2/src/main/java/postilion/services/spring/jpa/office/ClearanceTran.java" timestamp="1509052112871">
-        <mark key="[" line="244" column="11" />
-        <mark key="]" line="244" column="76" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/shared-lib/pom.xml" timestamp="1508855487847">
         <mark key="[" line="252" column="15" />
@@ -253,7 +251,7 @@
         <mark key="." line="33" column="62" />
         <mark key="^" line="32" column="56" />
       </file>
-      <file name="/fragment.java" timestamp="1509143393704">
+      <file name="/fragment.java" timestamp="1509380847674">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="4" />
