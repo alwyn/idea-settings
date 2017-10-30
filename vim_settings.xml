@@ -105,17 +105,20 @@
         <mark key="^" line="13" column="60" />
         <mark key="." line="13" column="60" />
       </file>
+      <file name="$USER_HOME$/.gradle/wrapper/dists/gradle-4.2-all/ezqd45ostvbnq7xnu1o8hkaxx/gradle-4.2/src/core-api/org/gradle/api/artifacts/dsl/RepositoryHandler.java" timestamp="1509398724960" />
       <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/webapp/template/TabbedBase.jsp" timestamp="1481937974285">
         <mark key="[" line="59" column="21" />
         <mark key="]" line="60" column="20" />
         <mark key="^" line="60" column="20" />
         <mark key="." line="60" column="20" />
       </file>
-      <file name="C:/SOURCE/git/cfe/build.gradle" timestamp="1509396963964">
-        <mark key="[" line="19" column="15" />
-        <mark key="]" line="19" column="18" />
-        <mark key="." line="19" column="18" />
-        <mark key="^" line="19" column="18" />
+      <file name="C:/SOURCE/git/cfe/build.gradle" timestamp="1509398671599">
+        <mark key="a" line="7" column="4" />
+        <mark key="i" line="7" column="4" />
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="6" column="15" />
+        <mark key="." line="6" column="15" />
+        <mark key="^" line="6" column="15" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/shared-lib/pom.xml" timestamp="1508855487847">
         <mark key="[" line="252" column="15" />
@@ -131,6 +134,12 @@
         <mark key="]" line="47" column="63" />
         <mark key="^" line="47" column="63" />
         <mark key="." line="47" column="63" />
+      </file>
+      <file name="C:/SOURCE/git/cfe/gradle/wrapper/gradle-wrapper.properties" timestamp="1509398075651">
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="5" column="19" />
+        <mark key="." line="5" column="19" />
+        <mark key="^" line="5" column="19" />
       </file>
       <file name="/Dummy.txt" timestamp="1509385545439">
         <mark key="[" line="0" column="0" />
@@ -278,44 +287,44 @@
       <jump line="187" column="37" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/ruby/rails/app/views/activities/index.html.haml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>eclipse</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CW1hdmVuQ2VudHJhbCgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>eclipse</text>
+        <text>}savenCentral()</text>
       </register>
       <register name="/" type="4">
         <text>renderSend</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">c3RydWN0dXJlZERhdGFSZXEuaW5kZXhPZigiU2FtZURheUFjaDE0VHJ1ZSIpID4gLTEgPyB0cnVlIDogZmFsc2U7</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQltYXZlbiB7IHVybCAiaHR0cDovL25yYzNsbmV4dXMwM3ZtLmFjaS5pY2UubG9jYWw6ODA4MS9jb250ZW50L2dyb3Vwcy9zMSIgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">amF2YS5sYW5nLk9iamVjdAo=</text>
+        <text encoding="base64">CW1hdmVuQ2VudHJhbCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnd2FyJwo=</text>
+        <text encoding="base64">amF2YS5sYW5nLk9iamVjdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnd2FyJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBiYXRjaC4K</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBiYXRjaC4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwdWJsaWMgYm9vbGVhbiBpc1NhbWVEYXlBY2goKQo=</text>
+        <text encoding="base64">ICB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBAT3ZlcnJpZGUK</text>
+        <text encoding="base64">ICBwdWJsaWMgYm9vbGVhbiBpc1NhbWVEYXlBY2goKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG9mZmljZV9yb3dbT0ZGSUNFX1NUUlVDVF9EQVRBXSA9ICJCbGFoYmxhaGJsYWgiOwo=</text>
+        <text encoding="base64">ICBAT3ZlcnJpZGUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
