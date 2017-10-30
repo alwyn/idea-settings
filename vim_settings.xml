@@ -111,6 +111,12 @@
         <mark key="^" line="60" column="20" />
         <mark key="." line="60" column="20" />
       </file>
+      <file name="C:/SOURCE/git/cfe/build.gradle" timestamp="1509396963964">
+        <mark key="[" line="19" column="15" />
+        <mark key="]" line="19" column="18" />
+        <mark key="." line="19" column="18" />
+        <mark key="^" line="19" column="18" />
+      </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/shared-lib/pom.xml" timestamp="1508855487847">
         <mark key="[" line="252" column="15" />
         <mark key="]" line="252" column="18" />
@@ -272,11 +278,11 @@
       <jump line="187" column="37" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/ruby/rails/app/views/activities/index.html.haml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">amF2YS5sYW5nLk9iamVjdAo=</text>
+      <register name="&quot;" type="4">
+        <text>eclipse</text>
       </register>
       <register name="-" type="4">
-        <text>DateTime()</text>
+        <text>eclipse</text>
       </register>
       <register name="/" type="4">
         <text>renderSend</text>
