@@ -30,6 +30,9 @@
         <mark key="^" line="18" column="2" />
         <mark key="." line="18" column="2" />
       </file>
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/transfer/ViewTransferPostings.java" timestamp="1509379422423">
+        <mark key="'" line="544" column="23" />
+      </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/portal_parent/portal_java/src/main/java/postilion/portal/ui/service/serviceplan/ServiceFeatureChargeWrapper.java" timestamp="1508960810291">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
@@ -104,6 +107,7 @@
       <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/test/java/postilion/services/ssb/transactions/TestTransactionsDao.java" timestamp="1509054358358">
         <mark key="'" line="103" column="16" />
       </file>
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/webapp/transfer/ViewTransferPostings.jsp" timestamp="1509379340709" />
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/data/Application.java" timestamp="1508987664982">
         <mark key="'" line="3176" column="29" />
         <mark key="[" line="3177" column="29" />
@@ -196,7 +200,7 @@
         <mark key="." line="49" column="29" />
         <mark key="^" line="49" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509220406039">
+      <file name="/Dummy.txt" timestamp="1509379290464">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -266,11 +270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="37" filename="$USER_HOME$/.m2/settings.xml" />
-      <jump line="20" column="37" filename="$USER_HOME$/.m2/settings.xml" />
-      <jump line="34" column="35" filename="$USER_HOME$/.m2/settings.xml" />
-      <jump line="35" column="35" filename="$USER_HOME$/.m2/settings.xml" />
-      <jump line="2837" column="0" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/transfer/Transfer.java" />
       <jump line="3426" column="9" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/transfer/Transfer.java" />
       <jump line="3547" column="8" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/transfer/Transfer.java" />
       <jump line="4166" column="9" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/transfer/Transfer.java" />
@@ -366,6 +365,11 @@
       <jump line="0" column="0" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/service/wrappers/transactions/ATransactionProxy.java" />
       <jump line="103" column="16" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/test/java/postilion/services/ssb/transactions/TestTransactionsDao.java" />
       <jump line="127" column="0" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/service/wrappers/transactions/PaymentModelProxy.java" />
+      <jump line="68" column="13" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/transfer/ViewTransferPostings.java" />
+      <jump line="84" column="25" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/transfer/ViewTransferPostings.java" />
+      <jump line="115" column="16" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/transfer/ViewTransferPostings.java" />
+      <jump line="208" column="20" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/transfer/ViewTransferPostings.java" />
+      <jump line="544" column="23" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/transfer/ViewTransferPostings.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -375,7 +379,7 @@
         <text>DateTime()</text>
       </register>
       <register name="/" type="4">
-        <text>isSame</text>
+        <text>recur</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">c3RydWN0dXJlZERhdGFSZXEuaW5kZXhPZigiU2FtZURheUFjaDE0VHJ1ZSIpID4gLTEgPyB0cnVlIDogZmFsc2U7</text>
@@ -412,15 +416,14 @@
       </register>
     </registers>
     <search>
-      <last-search>isSame</last-search>
+      <last-search>recur</last-search>
       <last-offset />
-      <last-pattern>isSame</last-pattern>
+      <last-pattern>recur</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>isP2P</entry>
         <entry>transaction_type</entry>
         <entry>fi_config_table</entry>
         <entry>isTransferOnline</entry>
@@ -440,6 +443,7 @@
         <entry>isSameDa</entry>
         <entry>office_result</entry>
         <entry>isSame</entry>
+        <entry>recur</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
