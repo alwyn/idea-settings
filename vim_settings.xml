@@ -127,12 +127,12 @@
         <mark key="." line="39" column="19" />
         <mark key="^" line="6" column="15" />
       </file>
-      <file name="C:/SOURCE/github/ADD/src/docs/asciidoc/CPBSchedules/CPB-Schedules.adoc" timestamp="1509476103448">
-        <mark key="'" line="203" column="4" />
+      <file name="C:/SOURCE/github/ADD/src/docs/asciidoc/CPBSchedules/CPB-Schedules.adoc" timestamp="1509478281591">
+        <mark key="'" line="144" column="15" />
         <mark key="[" line="243" column="0" />
-        <mark key="]" line="244" column="0" />
-        <mark key="." line="244" column="0" />
-        <mark key="^" line="244" column="0" />
+        <mark key="]" line="243" column="0" />
+        <mark key="." line="243" column="0" />
+        <mark key="^" line="136" column="15" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/shared-lib/pom.xml" timestamp="1508855487847">
         <mark key="[" line="252" column="15" />
@@ -199,7 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="240" column="6" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/transactions/SsbTransaction.java" />
       <jump line="242" column="34" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/transactions/SsbTransaction.java" />
       <jump line="413" column="2" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/service/wrappers/TransactionDetailsWrapper.java" />
       <jump line="450" column="31" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/service/wrappers/TransactionDetailsWrapper.java" />
@@ -299,13 +298,14 @@
       <jump line="60" column="9" filename="C:/SOURCE/github/ADD/src/docs/asciidoc/CPBSchedules/CPB-Schedules.adoc" />
       <jump line="151" column="0" filename="C:/SOURCE/github/ADD/src/docs/asciidoc/CPBSchedules/CPB-Schedules.adoc" />
       <jump line="203" column="4" filename="C:/SOURCE/github/ADD/src/docs/asciidoc/CPBSchedules/CPB-Schedules.adoc" />
+      <jump line="144" column="15" filename="C:/SOURCE/github/ADD/src/docs/asciidoc/CPBSchedules/CPB-Schedules.adoc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PT09PSBPcHRpb24gMiAtIFNjaGVkdWxlIGluamVjdCBhZnRlciBFT0QsIGJ1dCBvbiBzYW1lIGNhbGVuZGFyIGRheSBFVAo=</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>04 Fri</text>
@@ -314,31 +314,31 @@
         <text encoding="base64">PT09PT0gVHJhbnNmZXIgaW5qZWN0ZWQgYmVmb3JlIEVPRCBhdCAxMDowMCBICgpbY29scz0iMSwxLDEsMyJdCnw9PT0KfEJ1c2luZXNzIGRheXxTZW5kIHRpbWV8TmV4dCBvY2N1cnJlbmNlIEVUfE5vdGVzCgp8MTEvMDEgV2VkCnZ8MTA6MDAgSCAxMS8wMQoxNjowMCBFVCAxMS8wMQp8MDI6MzAgRVQgMTEvMDIKLjIrfFBvcnRhbCB3aWxsIHNob3cgYm90aCB0aGVzZSB0cmFuc2FjdGlvbnMgYXMgaGFwcGVuaW5nIG9uIDExLzAxLgoKfDExLzAyIFRodQp2fDIwOjMwIEggMTEvMDEKMDI6MzAgRVQgMTEvMDIKfDAyOjMwIEVUIDExLzAzCgp8MTEvMDMgRnJpCnZ8MjA6MzAgSCAxMS8wMgowMjozMCBFVCAxMS8wMwp8MDI6MzAgRVQgMTEvMDYKfFBvcnRhbCBzaG93cyB0aGlzIHRyYW5zYWN0aW9uIGFzIGJlaW5nIG9uIDExLzAyLgoKfDExLzA2IE1vbgp2fDIwOjMwIEggMTEvMDUKMDI6MzAgRVQgMTEvMDYKfDAyOjMwIEVUIDExLzA3CnZ8UG9ydGFsIHNob3dzIG5vIHRyYW5zYWN0aW9uIGZvciAxMS8wMy4KRmlyc3QgdHJhbnNhY3Rpb24gb2YgdGhlIG5leHQgd2VlayBpcyAxMS8wNS4KCnw9PT0KCj09PT0gVHJhbnNmZXIgaW5qZWN0ZWQgYWZ0ZXIgRU9EIGF0IDE0OjAwIEgKCltjb2xzPSIxLDEsMSwzIl0KfD09PQp8QnVzaW5lc3MgZGF5fFNlbmQgdGltZSB8TmV4dCBvY2N1cnJlbmNlIEVUfE5vdGVzCgp8MTEvMDIgVGh1CnZ8MTQ6MDAgSCAxMS8wMQoyMDowMCBFVCAxMS8wMQp8MDI6MzAgRVQgMTEvMDIKLjIrfFBvcnRhbCBzaG93cyBib3RoIHRyYW5zYWN0aW9ucyBhcyBiZWluZyBvbiAxMS8wMS4KCnwxMS8wMiBUaHUKdnwyMDozMCBIIDExLzAxCjAyOjMwIEVUIDExLzAyCnwwMjozMCBFVCAxMS8wMwoKfDExLzAzIEZyaQp2fDIwOjMwIEggMTEvMDIKMDI6MzAgRVQgMTEvMDMKfDAyOjMwIEVUIDExLzA2CnxQb3J0YWwgc2hvd3MgdHJhbnNhY3Rpb24gYXMgYmVpbmcgb24gMTEvMDIuCgp8MTEvMDYgTW9uCnZ8MjA6MzAgSCAxMS8wNQowMjozMCBFVCAxMS8wNgp8MDI6MzAgRVQgMTEvMDcKdnxQb3J0YWwgc2hvd3Mgbm8gdHJhbnNhY3Rpb24gZm9yIDExLzAzLiAKRmlyc3QgdHJhbnNhY3Rpb24gb2YgdGhlIG5leHQgd2VlayBpcyAxMS8wNS4KCnw9PT0KCj09PT0gVHJhbnNmZXIgaW5qZWN0ZWQgYWZ0ZXIgaW5qZWN0aW9uIHRpbWUgYXQgMjI6MDAgSCBvbiAxMS8wMQoKW2NvbHM9IjEsMSwxLDMiXQp8PT09CnxCdXNpbmVzcyBkYXl8U2VuZCB0aW1lIHxOZXh0IG9jY3VycmVuY2UgRVR8Tm90ZXMKCnwxMS8wMiBUaHUKdnwyMjowMCBIIDExLzAxCjA0OjAwIEVUIDExLzAyCnwwMjozMCBFVCAxMS8wMwp8UG9ydGFsIHNob3dzIHRyYW5zYWN0aW9uIG9uIDExLzAxLgoKfDExLzAzIEZyaQp2fDIwOjMwIEggMTEvMDIKMDI6MzAgRVQgMTEvMDMKfDAyOjMwIEVUIDExLzA2CnxQb3J0YWwgc2hvd3MgdHJhbnNhY3Rpb24gb24gMTEvMDIuCgp8MTEvMDYgTW9uCnZ8MjA6MzAgSCAxMS8wNQowMjozMCBFVCAxMS8wNgp8MDI6MzAgRVQgMTEvMDcKdnxQb3J0YWwgc2hvd3Mgbm8gdHJhbnNhY3Rpb24gZm9yIDExLzAzLgpGaXJzdCB0cmFuc2FjdGlvbiBvZiB0aGUgbmV4dCB3ZWVrIGlzIDExLzA1LgoKfD09PQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Rmlyc3QgdHJhbnNhY3Rpb24gb2YgdGhlIG5leHQgd2VlayBpcyAxMS8wNS4K</text>
+        <text encoding="base64">PT09PSBPcHRpb24gMiAtIFNjaGVkdWxlIGluamVjdCBhZnRlciBFT0QsIGJ1dCBvbiBzYW1lIGNhbGVuZGFyIGRheSBFVAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Rmlyc3QgdHJhbnNhY3Rpb24gb2YgdGhlIG5leHQgd2VlayBpcyAxMS8wNS4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">SXQgc2tpcHMgMTEvMDIgaW5qZWN0IHRpbWUgYXMgYWxyZWFkeSAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">LjIrfFBvcnRhbCBzaG93cyBib3RoIHRyYW5zYWN0aW9ucyBhcyBiZWluZyBvbiAxMS8wMS4K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Rmlyc3QgdHJhbnNhY3Rpb24gb2YgdGhlIG5leHQgd2VlayBpcyAxMS8wNS4K</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">SXQgc2tpcHMgMTEvMDIgaW5qZWN0IHRpbWUgYXMgYWxyZWFkeSAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">LjIrfFBvcnRhbCBzaG93cyBib3RoIHRyYW5zYWN0aW9ucyBhcyBiZWluZyBvbiAxMS8wMS4K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">LjIrfFBvcnRhbCB3aWxsIHNob3cgYm90aCB0aGVzZSB0cmFuc2FjdGlvbnMgYXMgaGFwcGVuaW5nIG9uIDExLzAxLgo=</text>
+        <text encoding="base64">Rmlyc3QgdHJhbnNhY3Rpb24gb2YgdGhlIG5leHQgd2VlayBpcyAxMS8wNS4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LjIrfFBvcnRhbCB3aWxsIHNob3cgYm90aCB0aGVzZSB0cmFuc2FjdGlvbnMgYXMgaGFwcGVuaW5nIG9uIDExLzAxLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
