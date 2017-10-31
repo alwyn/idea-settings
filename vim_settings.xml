@@ -127,12 +127,12 @@
         <mark key="." line="39" column="19" />
         <mark key="^" line="6" column="15" />
       </file>
-      <file name="C:/SOURCE/github/ADD/src/docs/asciidoc/CPBSchedules/CPB-Schedules.adoc" timestamp="1509462513460">
+      <file name="C:/SOURCE/github/ADD/src/docs/asciidoc/CPBSchedules/CPB-Schedules.adoc" timestamp="1509464446933">
         <mark key="'" line="45" column="23" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="^" line="66" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/shared-lib/pom.xml" timestamp="1508855487847">
         <mark key="[" line="252" column="15" />
@@ -302,10 +302,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>|</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>|</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>renderSend</text>
