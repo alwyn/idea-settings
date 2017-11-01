@@ -10,6 +10,12 @@
         <mark key="." line="60" column="16" />
         <mark key="^" line="60" column="16" />
       </file>
+      <file name="C:/SOURCE/git/ssb6/postilion/ssb_installer/src/main/izpack/install.xml" timestamp="1509543637129">
+        <mark key="[" line="435" column="71" />
+        <mark key="]" line="435" column="77" />
+        <mark key="." line="435" column="77" />
+        <mark key="^" line="435" column="77" />
+      </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/ruby/rails/app/views/activities/index.html.haml" timestamp="1509386558386">
         <mark key="'" line="187" column="37" />
       </file>
@@ -239,7 +245,7 @@
         <mark key="." line="49" column="29" />
         <mark key="^" line="49" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509540421339">
+      <file name="/Dummy.txt" timestamp="1509543644461">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -435,10 +441,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>dom4j</text>
