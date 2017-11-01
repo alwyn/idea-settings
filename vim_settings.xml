@@ -203,7 +203,8 @@
         <mark key="." line="243" column="0" />
         <mark key="^" line="136" column="15" />
       </file>
-      <file name="C:/SOURCE/git/legacy/postilion/ssb/web/shared-lib/pom.xml" timestamp="1508855487847">
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/web/shared-lib/pom.xml" timestamp="1509496783012">
+        <mark key="'" line="353" column="18" />
         <mark key="[" line="252" column="15" />
         <mark key="]" line="252" column="18" />
         <mark key="^" line="252" column="18" />
@@ -238,7 +239,7 @@
         <mark key="." line="49" column="29" />
         <mark key="^" line="49" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509481215920">
+      <file name="/Dummy.txt" timestamp="1509496863564">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -274,8 +275,12 @@
         <mark key="." line="1104" column="0" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/ruby/rails/app/models/activity.rb" timestamp="1509383141033" />
-      <file name="C:/SOURCE/git/legacy/postilion/pom.xml" timestamp="1509481105037">
-        <mark key="'" line="1301" column="40" />
+      <file name="C:/SOURCE/git/legacy/postilion/pom.xml" timestamp="1509496808400">
+        <mark key="'" line="898" column="20" />
+        <mark key="[" line="899" column="22" />
+        <mark key="]" line="899" column="21" />
+        <mark key="." line="899" column="21" />
+        <mark key="^" line="899" column="21" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/action/AServiceAction.java" timestamp="1508873611779">
         <mark key="[" line="630" column="28" />
@@ -327,12 +332,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="893" column="35" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/service/wrappers/TransactionDetailsWrapper.java" />
-      <jump line="894" column="35" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/service/wrappers/TransactionDetailsWrapper.java" />
-      <jump line="946" column="25" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/service/wrappers/TransactionDetailsWrapper.java" />
-      <jump line="1147" column="11" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/service/wrappers/TransactionDetailsWrapper.java" />
-      <jump line="1201" column="24" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/service/wrappers/TransactionDetailsWrapper.java" />
-      <jump line="1208" column="22" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/service/wrappers/TransactionDetailsWrapper.java" />
       <jump line="1383" column="13" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/service/wrappers/TransactionDetailsWrapper.java" />
       <jump line="1388" column="13" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/service/wrappers/TransactionDetailsWrapper.java" />
       <jump line="1391" column="14" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/service/wrappers/TransactionDetailsWrapper.java" />
@@ -426,17 +425,23 @@
       <jump line="60" column="20" filename="C:/SOURCE/git/legacy/postilion/ssb/web/mobilerest_parent/mobilerest/pom.xml" />
       <jump line="59" column="21" filename="C:/SOURCE/git/legacy/postilion/ssb/web/mobilerest_parent/mobilerest/pom.xml" />
       <jump line="1468" column="14" filename="C:/SOURCE/git/legacy/postilion/pom.xml" />
+      <jump line="14" column="0" filename="C:/SOURCE/git/legacy/postilion/ssb/web/shared-lib/pom.xml" />
+      <jump line="352" column="15" filename="C:/SOURCE/git/legacy/postilion/ssb/web/shared-lib/pom.xml" />
+      <jump line="353" column="18" filename="C:/SOURCE/git/legacy/postilion/ssb/web/shared-lib/pom.xml" />
       <jump line="1301" column="40" filename="C:/SOURCE/git/legacy/postilion/pom.xml" />
+      <jump line="899" column="21" filename="C:/SOURCE/git/legacy/postilion/pom.xml" />
+      <jump line="897" column="17" filename="C:/SOURCE/git/legacy/postilion/pom.xml" />
+      <jump line="898" column="20" filename="C:/SOURCE/git/legacy/postilion/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PT09PSBPcHRpb24gMiAtIFNjaGVkdWxlIGluamVjdCBhZnRlciBFT0QsIGJ1dCBvbiBzYW1lIGNhbGVuZGFyIGRheSBFVAo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>jacoco-maven</text>
+        <text>dom4j</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PT09PT0gVHJhbnNmZXIgaW5qZWN0ZWQgYmVmb3JlIEVPRCBhdCAxMDowMCBICgpbY29scz0iMSwxLDEsMyJdCnw9PT0KfEJ1c2luZXNzIGRheXxTZW5kIHRpbWV8TmV4dCBvY2N1cnJlbmNlIEVUfE5vdGVzCgp8MTEvMDEgV2VkCnZ8MTA6MDAgSCAxMS8wMQoxNjowMCBFVCAxMS8wMQp8MDI6MzAgRVQgMTEvMDIKLjIrfFBvcnRhbCB3aWxsIHNob3cgYm90aCB0aGVzZSB0cmFuc2FjdGlvbnMgYXMgaGFwcGVuaW5nIG9uIDExLzAxLgoKfDExLzAyIFRodQp2fDIwOjMwIEggMTEvMDEKMDI6MzAgRVQgMTEvMDIKfDAyOjMwIEVUIDExLzAzCgp8MTEvMDMgRnJpCnZ8MjA6MzAgSCAxMS8wMgowMjozMCBFVCAxMS8wMwp8MDI6MzAgRVQgMTEvMDYKfFBvcnRhbCBzaG93cyB0aGlzIHRyYW5zYWN0aW9uIGFzIGJlaW5nIG9uIDExLzAyLgoKfDExLzA2IE1vbgp2fDIwOjMwIEggMTEvMDUKMDI6MzAgRVQgMTEvMDYKfDAyOjMwIEVUIDExLzA3CnZ8UG9ydGFsIHNob3dzIG5vIHRyYW5zYWN0aW9uIGZvciAxMS8wMy4KRmlyc3QgdHJhbnNhY3Rpb24gb2YgdGhlIG5leHQgd2VlayBpcyAxMS8wNS4KCnw9PT0KCj09PT0gVHJhbnNmZXIgaW5qZWN0ZWQgYWZ0ZXIgRU9EIGF0IDE0OjAwIEgKCltjb2xzPSIxLDEsMSwzIl0KfD09PQp8QnVzaW5lc3MgZGF5fFNlbmQgdGltZSB8TmV4dCBvY2N1cnJlbmNlIEVUfE5vdGVzCgp8MTEvMDIgVGh1CnZ8MTQ6MDAgSCAxMS8wMQoyMDowMCBFVCAxMS8wMQp8MDI6MzAgRVQgMTEvMDIKLjIrfFBvcnRhbCBzaG93cyBib3RoIHRyYW5zYWN0aW9ucyBhcyBiZWluZyBvbiAxMS8wMS4KCnwxMS8wMiBUaHUKdnwyMDozMCBIIDExLzAxCjAyOjMwIEVUIDExLzAyCnwwMjozMCBFVCAxMS8wMwoKfDExLzAzIEZyaQp2fDIwOjMwIEggMTEvMDIKMDI6MzAgRVQgMTEvMDMKfDAyOjMwIEVUIDExLzA2CnxQb3J0YWwgc2hvd3MgdHJhbnNhY3Rpb24gYXMgYmVpbmcgb24gMTEvMDIuCgp8MTEvMDYgTW9uCnZ8MjA6MzAgSCAxMS8wNQowMjozMCBFVCAxMS8wNgp8MDI6MzAgRVQgMTEvMDcKdnxQb3J0YWwgc2hvd3Mgbm8gdHJhbnNhY3Rpb24gZm9yIDExLzAzLiAKRmlyc3QgdHJhbnNhY3Rpb24gb2YgdGhlIG5leHQgd2VlayBpcyAxMS8wNS4KCnw9PT0KCj09PT0gVHJhbnNmZXIgaW5qZWN0ZWQgYWZ0ZXIgaW5qZWN0aW9uIHRpbWUgYXQgMjI6MDAgSCBvbiAxMS8wMQoKW2NvbHM9IjEsMSwxLDMiXQp8PT09CnxCdXNpbmVzcyBkYXl8U2VuZCB0aW1lIHxOZXh0IG9jY3VycmVuY2UgRVR8Tm90ZXMKCnwxMS8wMiBUaHUKdnwyMjowMCBIIDExLzAxCjA0OjAwIEVUIDExLzAyCnwwMjozMCBFVCAxMS8wMwp8UG9ydGFsIHNob3dzIHRyYW5zYWN0aW9uIG9uIDExLzAxLgoKfDExLzAzIEZyaQp2fDIwOjMwIEggMTEvMDIKMDI6MzAgRVQgMTEvMDMKfDAyOjMwIEVUIDExLzA2CnxQb3J0YWwgc2hvd3MgdHJhbnNhY3Rpb24gb24gMTEvMDIuCgp8MTEvMDYgTW9uCnZ8MjA6MzAgSCAxMS8wNQowMjozMCBFVCAxMS8wNgp8MDI6MzAgRVQgMTEvMDcKdnxQb3J0YWwgc2hvd3Mgbm8gdHJhbnNhY3Rpb24gZm9yIDExLzAzLgpGaXJzdCB0cmFuc2FjdGlvbiBvZiB0aGUgbmV4dCB3ZWVrIGlzIDExLzA1LgoKfD09PQo=</text>
@@ -473,15 +478,14 @@
       </register>
     </registers>
     <search>
-      <last-search>jacoco-maven</last-search>
+      <last-search>dom4j</last-search>
       <last-offset />
-      <last-pattern>jacoco-maven</last-pattern>
+      <last-pattern>dom4j</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>date</entry>
         <entry>find_trans_by_cif</entry>
         <entry>tran</entry>
         <entry>TransactionDetails</entry>
@@ -501,6 +505,7 @@
         <entry>04 Fri</entry>
         <entry>jacoco</entry>
         <entry>jacoco-maven</entry>
+        <entry>dom4j</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
