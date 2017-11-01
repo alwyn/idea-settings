@@ -16,12 +16,12 @@
         <mark key="." line="435" column="77" />
         <mark key="^" line="435" column="77" />
       </file>
-      <file name="C:/SOURCE/git/ssb6/postilion/pom.xml" timestamp="1509559262043">
-        <mark key="'" line="985" column="19" />
-        <mark key="[" line="987" column="17" />
-        <mark key="]" line="987" column="17" />
-        <mark key="." line="987" column="17" />
-        <mark key="^" line="987" column="17" />
+      <file name="C:/SOURCE/git/ssb6/postilion/pom.xml" timestamp="1509569094671">
+        <mark key="'" line="1379" column="24" />
+        <mark key="[" line="1454" column="19" />
+        <mark key="]" line="1454" column="19" />
+        <mark key="." line="1454" column="19" />
+        <mark key="^" line="1454" column="19" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/kotlin/postilion/services/util/Transfer.kt" timestamp="1508986857401">
         <mark key="[" line="28" column="29" />
@@ -247,7 +247,7 @@
         <mark key="." line="49" column="29" />
         <mark key="^" line="49" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509568022439">
+      <file name="/Dummy.txt" timestamp="1509568962433">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -360,9 +360,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/service/wrappers/transactions/TransactionDetailsProxy.java" />
-      <jump line="236" column="24" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/service/wrappers/transactions/ATransactionProxy.java" />
-      <jump line="85" column="28" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/transactions/SsbTransaction.java" />
       <jump line="945" column="36" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/service/wrappers/transactions/SsbTransactionProxy.java" />
       <jump line="61" column="0" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/service/wrappers/transactions/SsbTransactionProxy.java" />
       <jump line="926" column="21" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/service/wrappers/transactions/SsbTransactionProxy.java" />
@@ -459,17 +456,20 @@
       <jump line="0" column="0" filename="C:/SOURCE/git/ssb6/postilion/ssb/services/src/main/java/postilion/services/ssb/sso/generic/ASsoProvider.java" />
       <jump line="1955" column="2" filename="C:/SOURCE/git/ssb6/postilion/ssb/services/src/main/java/postilion/services/ssb/sso/generic/ASsoProvider.java" />
       <jump line="987" column="17" filename="C:/SOURCE/git/ssb6/postilion/pom.xml" />
+      <jump line="1454" column="19" filename="C:/SOURCE/git/ssb6/postilion/pom.xml" />
       <jump line="985" column="19" filename="C:/SOURCE/git/ssb6/postilion/pom.xml" />
+      <jump line="984" column="15" filename="C:/SOURCE/git/ssb6/postilion/pom.xml" />
+      <jump line="1379" column="24" filename="C:/SOURCE/git/ssb6/postilion/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cGRhcGRhdGVELTE1Mzc0IFBSRS1ET1JNQU5DWSBBTEVSVFMuIE1BREUgU1VSRSBUSEUgUklHSFQgQ1VTVE9NRVIgSVMgVVNFRCBGUk9NIFNTQl9DVVNUT01FUl9MT09LVVAuCg==</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>spockframework</text>
+        <text>versions</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PT09PT0gVHJhbnNmZXIgaW5qZWN0ZWQgYmVmb3JlIEVPRCBhdCAxMDowMCBICgpbY29scz0iMSwxLDEsMyJdCnw9PT0KfEJ1c2luZXNzIGRheXxTZW5kIHRpbWV8TmV4dCBvY2N1cnJlbmNlIEVUfE5vdGVzCgp8MTEvMDEgV2VkCnZ8MTA6MDAgSCAxMS8wMQoxNjowMCBFVCAxMS8wMQp8MDI6MzAgRVQgMTEvMDIKLjIrfFBvcnRhbCB3aWxsIHNob3cgYm90aCB0aGVzZSB0cmFuc2FjdGlvbnMgYXMgaGFwcGVuaW5nIG9uIDExLzAxLgoKfDExLzAyIFRodQp2fDIwOjMwIEggMTEvMDEKMDI6MzAgRVQgMTEvMDIKfDAyOjMwIEVUIDExLzAzCgp8MTEvMDMgRnJpCnZ8MjA6MzAgSCAxMS8wMgowMjozMCBFVCAxMS8wMwp8MDI6MzAgRVQgMTEvMDYKfFBvcnRhbCBzaG93cyB0aGlzIHRyYW5zYWN0aW9uIGFzIGJlaW5nIG9uIDExLzAyLgoKfDExLzA2IE1vbgp2fDIwOjMwIEggMTEvMDUKMDI6MzAgRVQgMTEvMDYKfDAyOjMwIEVUIDExLzA3CnZ8UG9ydGFsIHNob3dzIG5vIHRyYW5zYWN0aW9uIGZvciAxMS8wMy4KRmlyc3QgdHJhbnNhY3Rpb24gb2YgdGhlIG5leHQgd2VlayBpcyAxMS8wNS4KCnw9PT0KCj09PT0gVHJhbnNmZXIgaW5qZWN0ZWQgYWZ0ZXIgRU9EIGF0IDE0OjAwIEgKCltjb2xzPSIxLDEsMSwzIl0KfD09PQp8QnVzaW5lc3MgZGF5fFNlbmQgdGltZSB8TmV4dCBvY2N1cnJlbmNlIEVUfE5vdGVzCgp8MTEvMDIgVGh1CnZ8MTQ6MDAgSCAxMS8wMQoyMDowMCBFVCAxMS8wMQp8MDI6MzAgRVQgMTEvMDIKLjIrfFBvcnRhbCBzaG93cyBib3RoIHRyYW5zYWN0aW9ucyBhcyBiZWluZyBvbiAxMS8wMS4KCnwxMS8wMiBUaHUKdnwyMDozMCBIIDExLzAxCjAyOjMwIEVUIDExLzAyCnwwMjozMCBFVCAxMS8wMwoKfDExLzAzIEZyaQp2fDIwOjMwIEggMTEvMDIKMDI6MzAgRVQgMTEvMDMKfDAyOjMwIEVUIDExLzA2CnxQb3J0YWwgc2hvd3MgdHJhbnNhY3Rpb24gYXMgYmVpbmcgb24gMTEvMDIuCgp8MTEvMDYgTW9uCnZ8MjA6MzAgSCAxMS8wNQowMjozMCBFVCAxMS8wNgp8MDI6MzAgRVQgMTEvMDcKdnxQb3J0YWwgc2hvd3Mgbm8gdHJhbnNhY3Rpb24gZm9yIDExLzAzLiAKRmlyc3QgdHJhbnNhY3Rpb24gb2YgdGhlIG5leHQgd2VlayBpcyAxMS8wNS4KCnw9PT0KCj09PT0gVHJhbnNmZXIgaW5qZWN0ZWQgYWZ0ZXIgaW5qZWN0aW9uIHRpbWUgYXQgMjI6MDAgSCBvbiAxMS8wMQoKW2NvbHM9IjEsMSwxLDMiXQp8PT09CnxCdXNpbmVzcyBkYXl8U2VuZCB0aW1lIHxOZXh0IG9jY3VycmVuY2UgRVR8Tm90ZXMKCnwxMS8wMiBUaHUKdnwyMjowMCBIIDExLzAxCjA0OjAwIEVUIDExLzAyCnwwMjozMCBFVCAxMS8wMwp8UG9ydGFsIHNob3dzIHRyYW5zYWN0aW9uIG9uIDExLzAxLgoKfDExLzAzIEZyaQp2fDIwOjMwIEggMTEvMDIKMDI6MzAgRVQgMTEvMDMKfDAyOjMwIEVUIDExLzA2CnxQb3J0YWwgc2hvd3MgdHJhbnNhY3Rpb24gb24gMTEvMDIuCgp8MTEvMDYgTW9uCnZ8MjA6MzAgSCAxMS8wNQowMjozMCBFVCAxMS8wNgp8MDI6MzAgRVQgMTEvMDcKdnxQb3J0YWwgc2hvd3Mgbm8gdHJhbnNhY3Rpb24gZm9yIDExLzAzLgpGaXJzdCB0cmFuc2FjdGlvbiBvZiB0aGUgbmV4dCB3ZWVrIGlzIDExLzA1LgoKfD09PQo=</text>
@@ -506,15 +506,14 @@
       </register>
     </registers>
     <search>
-      <last-search>spockframework</last-search>
+      <last-search>versions</last-search>
       <last-offset />
-      <last-pattern>spockframework</last-pattern>
+      <last-pattern>versions</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Same</entry>
         <entry>same</entry>
         <entry>structured</entry>
         <entry>getStructuredData</entry>
@@ -534,6 +533,7 @@
         <entry>SSL</entry>
         <entry>HttpConnection</entry>
         <entry>spockframework</entry>
+        <entry>versions</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
