@@ -25,6 +25,12 @@
         <mark key="^" line="29" column="3" />
         <mark key="." line="29" column="3" />
       </file>
+      <file name="C:/SOURCE/git/ssb6/postilion/ssb_installer/pom.xml" timestamp="1509547214756">
+        <mark key="[" line="21" column="37" />
+        <mark key="]" line="21" column="38" />
+        <mark key="^" line="21" column="38" />
+        <mark key="." line="21" column="38" />
+      </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/transfer/Transfer.java" timestamp="1509220404232" />
       <file name="C:/SOURCE/git/legacy/postilion/database/src/main/sql/postilion/proc_ssb_get_bus_cust_transfers.sql" timestamp="1509379677615" />
       <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/util/ApplicationUtil.java" timestamp="1508985526407">
@@ -98,6 +104,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="28" />
+      </file>
+      <file name="C:/SOURCE/git/ssb6/postilion/shared-lib/pom.xml" timestamp="1509547505374">
+        <mark key="[" line="159" column="18" />
+        <mark key="]" line="159" column="18" />
+        <mark key="." line="159" column="18" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/messagedelivery/pom.xml" timestamp="1509043078681">
         <mark key="[" line="49" column="8" />
@@ -245,7 +256,7 @@
         <mark key="." line="49" column="29" />
         <mark key="^" line="49" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509546171923">
+      <file name="/Dummy.txt" timestamp="1509547551210">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -276,6 +287,12 @@
         <mark key="^" line="942" column="17" />
         <mark key="." line="942" column="17" />
       </file>
+      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/postilion_tomcat/src/main/izpack/postilion-tomcat-refpack.xml" timestamp="1509547532493">
+        <mark key="[" line="74" column="23" />
+        <mark key="m" line="74" column="31" />
+        <mark key="]" line="74" column="23" />
+        <mark key="." line="74" column="23" />
+      </file>
       <file name="C:/SOURCE/git/legacy/postilion/database/src/main/sql/postilion_office/proc_ssb_find_trans_by_cif.sql" timestamp="1509048652072">
         <mark key="'" line="351" column="11" />
       </file>
@@ -285,6 +302,11 @@
         <mark key="]" line="1104" column="0" />
         <mark key="^" line="1104" column="108" />
         <mark key="." line="1104" column="0" />
+      </file>
+      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/shared-lib/pom.xml" timestamp="1509547482380">
+        <mark key="[" line="164" column="18" />
+        <mark key="]" line="164" column="18" />
+        <mark key="." line="164" column="18" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/ruby/rails/app/models/activity.rb" timestamp="1509383141033" />
       <file name="C:/SOURCE/git/legacy/postilion/pom.xml" timestamp="1509496808400">
@@ -447,10 +469,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>repositories</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>repositories</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>dom4j</text>
