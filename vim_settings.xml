@@ -16,14 +16,17 @@
         <mark key="." line="435" column="77" />
         <mark key="^" line="435" column="77" />
       </file>
-      <file name="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/resources/application.properties" timestamp="1509591688356">
-        <mark key="[" line="0" column="0" />
+      <file name="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/resources/application.properties" timestamp="1509635647226">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="8" />
+        <mark key="." line="1" column="0" />
       </file>
-      <file name="C:/SOURCE/github/spring5kotlinguru/spring5webapp/build.gradle" timestamp="1509633927941">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="^" line="14" column="63" />
-        <mark key="." line="42" column="0" />
+      <file name="C:/SOURCE/github/spring5kotlinguru/spring5webapp/build.gradle" timestamp="1509635246379">
+        <mark key="[" line="20" column="26" />
+        <mark key="]" line="21" column="26" />
+        <mark key="^" line="21" column="26" />
+        <mark key="." line="21" column="26" />
       </file>
       <file name="C:/SOURCE/git/ssb6/postilion/ssb_installer/bin/old_files_cleaner.cmd" timestamp="1509581214408">
         <mark key="'" line="64" column="2" />
@@ -32,12 +35,12 @@
         <mark key="^" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/kotlin/technomads/public/spring5webapp/model/Author.kt" timestamp="1509593910430">
+      <file name="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/kotlin/technomads/public/spring5webapp/model/Author.kt" timestamp="1509635320706">
         <mark key="'" line="18" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="17" column="31" />
-        <mark key="." line="10" column="0" />
+        <mark key="[" line="17" column="24" />
+        <mark key="]" line="17" column="24" />
+        <mark key="^" line="10" column="4" />
+        <mark key="." line="17" column="24" />
       </file>
       <file name="C:/SOURCE/git/ssb6/postilion/pom.xml" timestamp="1509569094671">
         <mark key="'" line="1391" column="24" />
@@ -155,13 +158,13 @@
         <mark key="." line="27" column="90" />
         <mark key="^" line="27" column="90" />
       </file>
-      <file name="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/kotlin/technomads/public/spring5webapp/model/Book.kt" timestamp="1509627558405">
+      <file name="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/kotlin/technomads/public/spring5webapp/model/Book.kt" timestamp="1509635355893">
         <mark key="a" line="13" column="4" />
         <mark key="'" line="17" column="35" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="17" column="35" />
-        <mark key="." line="2" column="0" />
+        <mark key="[" line="17" column="28" />
+        <mark key="]" line="17" column="28" />
+        <mark key="^" line="9" column="4" />
+        <mark key="." line="17" column="28" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/test/java/postilion/services/tools/edd/TestEddImporter.java" timestamp="1508809901519">
         <mark key="[" line="124" column="0" />
@@ -493,10 +496,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3ByaW5nLmgyCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGF0YSA=</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>var</text>
@@ -505,31 +508,31 @@
         <text encoding="base64">ICAgIEBJZCAKICAgIEBHZW5lcmF0ZWRWYWx1ZShzdHJhdGVneSA9IEdlbmVyYXRpb25UeXBlLkFVVE8p</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3ByaW5nLmgyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMuYW5ub3RhdGlvbnMuTm90TnVsbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAJCXNlcnZpY2VfcGxhbl9hZGFwdGVyLnJlc2V0Q3VzdG9tZXJTZXJ2aWNlUGxhbk92ZXJyaWRkZW4oY3VzdG9tZXIuZ2V0Q3VzdG9tZXJCdXNpbmVzc0lkKCksdHJ1ZSAsIHNlcnZpY2VfcGxhbik7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMuYW5ub3RhdGlvbnMuTm90TnVsbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCB0aXRsZTogU3RyaW5nLAo=</text>
+        <text encoding="base64">ICAgICAgICAJCXNlcnZpY2VfcGxhbl9hZGFwdGVyLnJlc2V0Q3VzdG9tZXJTZXJ2aWNlUGxhbk92ZXJyaWRkZW4oY3VzdG9tZXIuZ2V0Q3VzdG9tZXJCdXNpbmVzc0lkKCksdHJ1ZSAsIHNlcnZpY2VfcGxhbik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBtYXZlbkxvY2FsKCkK</text>
+        <text encoding="base64">ICAgIHZhbCB0aXRsZTogU3RyaW5nLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1hdmVuTG9jYWwoKWRkCg==</text>
+        <text encoding="base64">ICBtYXZlbkxvY2FsKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1hdmVuIHsgdXJsICJodHRwczovL3JlcG8uc3ByaW5nLmlvL21pbGVzdG9uZSIgfQo=</text>
+        <text encoding="base64">ICAgIG1hdmVuTG9jYWwoKWRkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CW1hdmVuIHsgdXJsICJodHRwczovL3JlcG8uc3ByaW5nLmlvL21pbGVzdG9uZSIgfQo=</text>
+        <text encoding="base64">ICAgIG1hdmVuIHsgdXJsICJodHRwczovL3JlcG8uc3ByaW5nLmlvL21pbGVzdG9uZSIgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CW1hdmVuIHsgdXJsICJodHRwczovL3JlcG8uc3ByaW5nLmlvL3NuYXBzaG90IiB9Cg==</text>
+        <text encoding="base64">CW1hdmVuIHsgdXJsICJodHRwczovL3JlcG8uc3ByaW5nLmlvL21pbGVzdG9uZSIgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
