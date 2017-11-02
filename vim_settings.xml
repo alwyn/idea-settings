@@ -16,12 +16,28 @@
         <mark key="." line="435" column="77" />
         <mark key="^" line="435" column="77" />
       </file>
+      <file name="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/resources/application.properties" timestamp="1509591688356">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/SOURCE/github/spring5kotlinguru/spring5webapp/build.gradle" timestamp="1509592217435">
+        <mark key="[" line="13" column="69" />
+        <mark key="]" line="14" column="63" />
+        <mark key="^" line="14" column="63" />
+        <mark key="." line="14" column="63" />
+      </file>
       <file name="C:/SOURCE/git/ssb6/postilion/ssb_installer/bin/old_files_cleaner.cmd" timestamp="1509581214408">
         <mark key="'" line="64" column="2" />
         <mark key="[" line="62" column="0" />
         <mark key="]" line="63" column="0" />
         <mark key="^" line="63" column="0" />
         <mark key="." line="63" column="0" />
+      </file>
+      <file name="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/kotlin/technomads/public/spring5webapp/model/Author.kt" timestamp="1509593910430">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="17" column="31" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="C:/SOURCE/git/ssb6/postilion/pom.xml" timestamp="1509569094671">
         <mark key="'" line="1379" column="24" />
@@ -133,6 +149,14 @@
         <mark key="]" line="27" column="90" />
         <mark key="." line="27" column="90" />
         <mark key="^" line="27" column="90" />
+      </file>
+      <file name="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/kotlin/technomads/public/spring5webapp/model/Book.kt" timestamp="1509593899775">
+        <mark key="a" line="14" column="4" />
+        <mark key="'" line="18" column="35" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="18" column="35" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/test/java/postilion/services/tools/edd/TestEddImporter.java" timestamp="1508809901519">
         <mark key="[" line="124" column="0" />
@@ -361,9 +385,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="0" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/service/wrappers/transactions/SsbTransactionProxy.java" />
-      <jump line="926" column="21" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/service/wrappers/transactions/SsbTransactionProxy.java" />
-      <jump line="57" column="13" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/service/wrappers/transactions/SsbTransactionWrapper.java" />
       <jump line="1139" column="22" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/service/wrappers/transactions/SsbTransactionWrapper.java" />
       <jump line="0" column="0" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/service/wrappers/transactions/SsbTransactionWrapper.java" />
       <jump line="134" column="51" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/ssb/transactions/SSBTransaction.java" />
@@ -461,62 +482,65 @@
       <jump line="984" column="15" filename="C:/SOURCE/git/ssb6/postilion/pom.xml" />
       <jump line="1379" column="24" filename="C:/SOURCE/git/ssb6/postilion/pom.xml" />
       <jump line="63" column="2" filename="C:/SOURCE/git/ssb6/postilion/ssb_installer/bin/old_files_cleaner.cmd" />
+      <jump line="17" column="4" filename="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/kotlin/technomads/public/spring5webapp/model/Author.kt" />
+      <jump line="18" column="0" filename="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/kotlin/technomads/public/spring5webapp/model/Author.kt" />
+      <jump line="18" column="35" filename="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/kotlin/technomads/public/spring5webapp/model/Book.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZGF0YSA=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">ZGF0YSA=</text>
       </register>
       <register name="/" type="4">
-        <text>versions</text>
+        <text>var</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">PT09PT0gVHJhbnNmZXIgaW5qZWN0ZWQgYmVmb3JlIEVPRCBhdCAxMDowMCBICgpbY29scz0iMSwxLDEsMyJdCnw9PT0KfEJ1c2luZXNzIGRheXxTZW5kIHRpbWV8TmV4dCBvY2N1cnJlbmNlIEVUfE5vdGVzCgp8MTEvMDEgV2VkCnZ8MTA6MDAgSCAxMS8wMQoxNjowMCBFVCAxMS8wMQp8MDI6MzAgRVQgMTEvMDIKLjIrfFBvcnRhbCB3aWxsIHNob3cgYm90aCB0aGVzZSB0cmFuc2FjdGlvbnMgYXMgaGFwcGVuaW5nIG9uIDExLzAxLgoKfDExLzAyIFRodQp2fDIwOjMwIEggMTEvMDEKMDI6MzAgRVQgMTEvMDIKfDAyOjMwIEVUIDExLzAzCgp8MTEvMDMgRnJpCnZ8MjA6MzAgSCAxMS8wMgowMjozMCBFVCAxMS8wMwp8MDI6MzAgRVQgMTEvMDYKfFBvcnRhbCBzaG93cyB0aGlzIHRyYW5zYWN0aW9uIGFzIGJlaW5nIG9uIDExLzAyLgoKfDExLzA2IE1vbgp2fDIwOjMwIEggMTEvMDUKMDI6MzAgRVQgMTEvMDYKfDAyOjMwIEVUIDExLzA3CnZ8UG9ydGFsIHNob3dzIG5vIHRyYW5zYWN0aW9uIGZvciAxMS8wMy4KRmlyc3QgdHJhbnNhY3Rpb24gb2YgdGhlIG5leHQgd2VlayBpcyAxMS8wNS4KCnw9PT0KCj09PT0gVHJhbnNmZXIgaW5qZWN0ZWQgYWZ0ZXIgRU9EIGF0IDE0OjAwIEgKCltjb2xzPSIxLDEsMSwzIl0KfD09PQp8QnVzaW5lc3MgZGF5fFNlbmQgdGltZSB8TmV4dCBvY2N1cnJlbmNlIEVUfE5vdGVzCgp8MTEvMDIgVGh1CnZ8MTQ6MDAgSCAxMS8wMQoyMDowMCBFVCAxMS8wMQp8MDI6MzAgRVQgMTEvMDIKLjIrfFBvcnRhbCBzaG93cyBib3RoIHRyYW5zYWN0aW9ucyBhcyBiZWluZyBvbiAxMS8wMS4KCnwxMS8wMiBUaHUKdnwyMDozMCBIIDExLzAxCjAyOjMwIEVUIDExLzAyCnwwMjozMCBFVCAxMS8wMwoKfDExLzAzIEZyaQp2fDIwOjMwIEggMTEvMDIKMDI6MzAgRVQgMTEvMDMKfDAyOjMwIEVUIDExLzA2CnxQb3J0YWwgc2hvd3MgdHJhbnNhY3Rpb24gYXMgYmVpbmcgb24gMTEvMDIuCgp8MTEvMDYgTW9uCnZ8MjA6MzAgSCAxMS8wNQowMjozMCBFVCAxMS8wNgp8MDI6MzAgRVQgMTEvMDcKdnxQb3J0YWwgc2hvd3Mgbm8gdHJhbnNhY3Rpb24gZm9yIDExLzAzLiAKRmlyc3QgdHJhbnNhY3Rpb24gb2YgdGhlIG5leHQgd2VlayBpcyAxMS8wNS4KCnw9PT0KCj09PT0gVHJhbnNmZXIgaW5qZWN0ZWQgYWZ0ZXIgaW5qZWN0aW9uIHRpbWUgYXQgMjI6MDAgSCBvbiAxMS8wMQoKW2NvbHM9IjEsMSwxLDMiXQp8PT09CnxCdXNpbmVzcyBkYXl8U2VuZCB0aW1lIHxOZXh0IG9jY3VycmVuY2UgRVR8Tm90ZXMKCnwxMS8wMiBUaHUKdnwyMjowMCBIIDExLzAxCjA0OjAwIEVUIDExLzAyCnwwMjozMCBFVCAxMS8wMwp8UG9ydGFsIHNob3dzIHRyYW5zYWN0aW9uIG9uIDExLzAxLgoKfDExLzAzIEZyaQp2fDIwOjMwIEggMTEvMDIKMDI6MzAgRVQgMTEvMDMKfDAyOjMwIEVUIDExLzA2CnxQb3J0YWwgc2hvd3MgdHJhbnNhY3Rpb24gb24gMTEvMDIuCgp8MTEvMDYgTW9uCnZ8MjA6MzAgSCAxMS8wNQowMjozMCBFVCAxMS8wNgp8MDI6MzAgRVQgMTEvMDcKdnxQb3J0YWwgc2hvd3Mgbm8gdHJhbnNhY3Rpb24gZm9yIDExLzAzLgpGaXJzdCB0cmFuc2FjdGlvbiBvZiB0aGUgbmV4dCB3ZWVrIGlzIDExLzA1LgoKfD09PQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIEBJZCAKICAgIEBHZW5lcmF0ZWRWYWx1ZShzdHJhdGVneSA9IEdlbmVyYXRpb25UeXBlLkFVVE8p</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCB0aXRsZTogU3RyaW5nLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvKioKICAgKiA8cD4KICAgKiBUaGlzIG1ldGhvZCBkZWxldGVzIHRoZSBvdmVycmlkZGVuIFNlcnZpY2VQbGFuCiAgICogPC9wPgogICAqCiAgICogQHRocm93cyBYU2VydmljZUV4Y2VwdGlvbgogICAqLwogIHB1YmxpYyB2b2lkIHJlc2V0Q3VzdG9tZXJTZXJ2aWNlUGxhbk92ZXJyaWRkZW4oCiAgICAgICAgICBpbnQgY3VzdG9tZXJJZCAsCiAgICAgICAgICBib29sZWFuIGlzX2J1c2luZXNzX2N1c3RvbWVyICwKICAgICAgICAgIFNlcnZpY2VQbGFuV3JhcHBlciBzZXJ2aWNlX3BsYW4pCiAgICAgICAgdGhyb3dzIFhTZXJ2aWNlRXhjZXB0aW9uCiAgewogICAgc2VydmljZS5yZXNldEN1c3RvbWVyU2VydmljZVBsYW5PdmVycmlkZGVuKGdldFNlcnZpY2VDb250ZXh0KCksIGN1c3RvbWVySWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaXNfYnVzaW5lc3NfY3VzdG9tZXIgLCAoU2VydmljZVBsYW4pIHVud3JhcChzZXJ2aWNlX3BsYW4pKTsKICB9CiAgCg==</text>
+        <text encoding="base64">ICBtYXZlbkxvY2FsKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cGRhcGRhdGVELTE1Mzc0IFBSRS1ET1JNQU5DWSBBTEVSVFMuIE1BREUgU1VSRSBUSEUgUklHSFQgQ1VTVE9NRVIgSVMgVVNFRCBGUk9NIFNTQl9DVVNUT01FUl9MT09LVVAuCg==</text>
+        <text encoding="base64">ICAgIG1hdmVuTG9jYWwoKWRkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gaW1wbGVtZW50IHN0aW11bHVzCg==</text>
+        <text encoding="base64">ICAgIG1hdmVuIHsgdXJsICJodHRwczovL3JlcG8uc3ByaW5nLmlvL21pbGVzdG9uZSIgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgSHR0cENvCg==</text>
+        <text encoding="base64">CW1hdmVuIHsgdXJsICJodHRwczovL3JlcG8uc3ByaW5nLmlvL21pbGVzdG9uZSIgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHN1bi5uZXQuaHR0cHNlcnZlci5IdHRwQ29ubmVjdGlvbgo=</text>
+        <text encoding="base64">CW1hdmVuIHsgdXJsICJodHRwczovL3JlcG8uc3ByaW5nLmlvL3NuYXBzaG90IiB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">CW1hdmVuQ2VudHJhbCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">CQltYXZlbiB7IHVybCAiaHR0cHM6Ly9yZXBvLnNwcmluZy5pby9taWxlc3RvbmUiIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">CQltYXZlbiB7IHVybCAiaHR0cHM6Ly9yZXBvLnNwcmluZy5pby9zbmFwc2hvdCIgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>versions</last-search>
+      <last-search>var</last-search>
       <last-offset />
-      <last-pattern>versions</last-pattern>
+      <last-pattern>var</last-pattern>
+      <last-replace>val</last-replace>
+      <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>same</entry>
-        <entry>structured</entry>
         <entry>getStructuredData</entry>
         <entry>isSameDa</entry>
         <entry>office_result</entry>
@@ -535,6 +559,8 @@
         <entry>HttpConnection</entry>
         <entry>spockframework</entry>
         <entry>versions</entry>
+        <entry>val</entry>
+        <entry>var</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
@@ -551,6 +577,8 @@
         <entry>56</entry>
         <entry>904</entry>
         <entry>q</entry>
+        <entry>%s/val/var/g</entry>
+        <entry>%s/var/val/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
