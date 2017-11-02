@@ -35,12 +35,12 @@
         <mark key="^" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/kotlin/technomads/public/spring5webapp/model/Author.kt" timestamp="1509654720111">
+      <file name="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/kotlin/technomads/public/spring5webapp/model/Author.kt" timestamp="1509661862743">
         <mark key="'" line="17" column="0" />
-        <mark key="[" line="12" column="16" />
-        <mark key="]" line="12" column="20" />
-        <mark key="^" line="12" column="20" />
-        <mark key="." line="12" column="20" />
+        <mark key="[" line="15" column="36" />
+        <mark key="]" line="15" column="36" />
+        <mark key="." line="15" column="36" />
+        <mark key="^" line="11" column="49" />
       </file>
       <file name="C:/SOURCE/git/ssb6/postilion/pom.xml" timestamp="1509569094671">
         <mark key="'" line="1391" column="24" />
@@ -164,13 +164,13 @@
         <mark key="." line="27" column="90" />
         <mark key="^" line="27" column="90" />
       </file>
-      <file name="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/kotlin/technomads/public/spring5webapp/model/Book.kt" timestamp="1509654732113">
+      <file name="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/kotlin/technomads/public/spring5webapp/model/Book.kt" timestamp="1509662519105">
         <mark key="a" line="13" column="4" />
-        <mark key="'" line="20" column="35" />
-        <mark key="[" line="12" column="16" />
-        <mark key="]" line="12" column="20" />
-        <mark key="^" line="12" column="20" />
-        <mark key="." line="12" column="20" />
+        <mark key="'" line="22" column="35" />
+        <mark key="[" line="23" column="28" />
+        <mark key="]" line="23" column="28" />
+        <mark key="^" line="23" column="28" />
+        <mark key="." line="23" column="28" />
       </file>
       <file name="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/kotlin/technomads/public/spring5webapp/repositories/BookRepository.kt" timestamp="1509654161657">
         <mark key="[" line="8" column="0" />
@@ -191,12 +191,18 @@
         <mark key="^" line="18" column="28" />
         <mark key="." line="18" column="28" />
       </file>
-      <file name="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/kotlin/technomads/public/spring5webapp/bootstrap/DevBootstrap.kt" timestamp="1509655309792">
-        <mark key="'" line="55" column="0" />
-        <mark key="[" line="50" column="30" />
-        <mark key="]" line="51" column="28" />
-        <mark key="^" line="51" column="28" />
-        <mark key="." line="51" column="28" />
+      <file name="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/kotlin/technomads/public/spring5webapp/bootstrap/DevBootstrap.kt" timestamp="1509662488104">
+        <mark key="'" line="39" column="85" />
+        <mark key="[" line="39" column="86" />
+        <mark key="]" line="39" column="86" />
+        <mark key="^" line="39" column="86" />
+        <mark key="." line="39" column="86" />
+      </file>
+      <file name="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/kotlin/technomads/public/spring5webapp/model/Publisher.kt" timestamp="1509657997436">
+        <mark key="[" line="12" column="7" />
+        <mark key="]" line="12" column="7" />
+        <mark key="^" line="12" column="6" />
+        <mark key="." line="12" column="7" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/data/Application.java" timestamp="1508987664982">
         <mark key="'" line="3176" column="29" />
@@ -317,6 +323,12 @@
         <mark key="^" line="31" column="8" />
         <mark key="." line="31" column="8" />
       </file>
+      <file name="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/kotlin/technomads/public/spring5webapp/repositories/PublisherRepository.kt" timestamp="1509655755556">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="8" />
+        <mark key="^" line="9" column="8" />
+        <mark key="." line="9" column="8" />
+      </file>
       <file name="C:/SOURCE/git/izpack_extensions/pom.xml" timestamp="1509546878701">
         <mark key="[" line="23" column="30" />
         <mark key="]" line="23" column="31" />
@@ -328,6 +340,7 @@
         <mark key="]" line="1484" column="0" />
         <mark key="." line="1484" column="0" />
       </file>
+      <file name="D:/gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.51/b44aed5fe16fe27bb75488a2274d435e875fdb44/kotlin-stdlib-1.1.51-sources.jar!/generated/_Sets.kt" timestamp="1509661423484" />
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/postilion_tomcat/pom.xml" timestamp="1508855710147">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="293" column="15" />
@@ -429,7 +442,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="198" column="2" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/ssb/transactions/SSBTransaction.java" />
       <jump line="942" column="57" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/ssb/transactions/SSBTransaction.java" />
       <jump line="197" column="38" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/ssb/transactions/SSBTransaction.java" />
       <jump line="941" column="78" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/ssb/transactions/SSBTransaction.java" />
@@ -529,13 +541,14 @@
       <jump line="17" column="0" filename="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/kotlin/technomads/public/spring5webapp/bootstrap/DevBootstrap.kt" />
       <jump line="41" column="0" filename="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/kotlin/technomads/public/spring5webapp/bootstrap/DevBootstrap.kt" />
       <jump line="42" column="0" filename="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/kotlin/technomads/public/spring5webapp/bootstrap/DevBootstrap.kt" />
+      <jump line="39" column="85" filename="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/kotlin/technomads/public/spring5webapp/bootstrap/DevBootstrap.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>eric</text>
+        <text>())</text>
       </register>
       <register name="-" type="4">
-        <text>eric</text>
+        <text>())</text>
       </register>
       <register name="/" type="4">
         <text>var</text>
@@ -544,31 +557,31 @@
         <text encoding="base64">ICAgIHZhbCBlcmljID0gQXV0aG9yKAogICAgICAgIGZpcnN0TmFtZSA9ICJFcmljIiwgCiAgICAgICAgbGFzdE5hbWUgPSAiRXZhbnMiLCAKICAgICAgICBib29rcyA9IG11dGFibGVTZXRPZigpKQogICAgdmFsIGJvb2sgPSBCb29rKAogICAgICAgIHRpdGxlID0gIkRvbWFpbiBEcml2ZW4gRGVzaWduIiwgCiAgICAgICAgaXNibiA9ICIxMjM0MzQ1MjM0IiwgCiAgICAgICAgcHVibGlzaGVyID0gIkhhcnBlciBDb2xsaW5zIiwgCiAgICAgICAgYXV0aG9ycyA9IG11dGFibGVTZXRPZigpKQogICAgZXJpYy5ib29rcy5wbHVzKGJvb2spCiAgICBib29rLmF1dGhvcnMucGx1cyhlcmljKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1Ymxpc2hlciA9IHB1Ymxpc2hlclJlcG9zaXRvcnkuc2F2ZShwdWJsaXNoZXIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB2YWwgYm9va1JlcG9zaXRvcnk6IEJvb2tSZXBvc2l0b3J5IAo=</text>
+        <text encoding="base64">ICAgIHB1Ymxpc2hlciA9IHB1Ymxpc2hlclJlcG9zaXRvcnkuc2F2ZShwdWJsaXNoZXIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2YWwgYXV0aG9yUmVwb3NpdG9yeTogQXV0aG9yUmVwb3NpdG9yeQo=</text>
+        <text encoding="base64">Ly8gICAgYm9va1JlcG9zaXRvcnkuc2F2ZShub0VKQikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgYXV0aG9yUmVwb3NpdG9yeS5zYXZlKHJvZCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgbm9FSkIuYXV0aG9ycy5wbHVzKHJvZCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgcm9kLmJvb2tzLnBsdXMobm9FSkIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGF1dGhvcnMgPSBtdXRhYmxlU2V0T2YoKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHB1Ymxpc2hlciA9IHB1Ymxpc2hlciwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGlzYm4gPSAiODc5ODY3NTYzIiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -607,7 +620,6 @@
         <entry>var</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>actionlist maven</entry>
         <entry>help</entry>
         <entry>1084</entry>
@@ -623,6 +635,8 @@
         <entry>q</entry>
         <entry>%s/val/var/g</entry>
         <entry>%s/var/val/g</entry>
+        <entry>w\</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
