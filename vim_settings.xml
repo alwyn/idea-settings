@@ -35,12 +35,12 @@
         <mark key="^" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/kotlin/technomads/public/spring5webapp/model/Author.kt" timestamp="1509652997167">
+      <file name="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/kotlin/technomads/public/spring5webapp/model/Author.kt" timestamp="1509654720111">
         <mark key="'" line="17" column="0" />
-        <mark key="[" line="15" column="15" />
-        <mark key="]" line="15" column="34" />
-        <mark key="^" line="15" column="34" />
-        <mark key="." line="15" column="34" />
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="12" column="20" />
+        <mark key="^" line="12" column="20" />
+        <mark key="." line="12" column="20" />
       </file>
       <file name="C:/SOURCE/git/ssb6/postilion/pom.xml" timestamp="1509569094671">
         <mark key="'" line="1391" column="24" />
@@ -164,13 +164,19 @@
         <mark key="." line="27" column="90" />
         <mark key="^" line="27" column="90" />
       </file>
-      <file name="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/kotlin/technomads/public/spring5webapp/model/Book.kt" timestamp="1509653483245">
+      <file name="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/kotlin/technomads/public/spring5webapp/model/Book.kt" timestamp="1509654732113">
         <mark key="a" line="13" column="4" />
         <mark key="'" line="20" column="35" />
-        <mark key="[" line="20" column="67" />
-        <mark key="]" line="20" column="67" />
-        <mark key="^" line="20" column="67" />
-        <mark key="." line="20" column="67" />
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="12" column="20" />
+        <mark key="^" line="12" column="20" />
+        <mark key="." line="12" column="20" />
+      </file>
+      <file name="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/kotlin/technomads/public/spring5webapp/repositories/BookRepository.kt" timestamp="1509654161657">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="52" />
+        <mark key="^" line="8" column="52" />
+        <mark key="." line="8" column="52" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/test/java/postilion/services/tools/edd/TestEddImporter.java" timestamp="1508809901519">
         <mark key="[" line="124" column="0" />
@@ -184,6 +190,13 @@
         <mark key="]" line="18" column="28" />
         <mark key="^" line="18" column="28" />
         <mark key="." line="18" column="28" />
+      </file>
+      <file name="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/kotlin/technomads/public/spring5webapp/bootstrap/DevBootstrap.kt" timestamp="1509655309792">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="50" column="30" />
+        <mark key="]" line="51" column="28" />
+        <mark key="^" line="51" column="28" />
+        <mark key="." line="51" column="28" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/data/Application.java" timestamp="1508987664982">
         <mark key="'" line="3176" column="29" />
@@ -217,6 +230,9 @@
         <mark key="]" line="2354" column="10" />
         <mark key="^" line="2354" column="10" />
         <mark key="." line="2354" column="10" />
+      </file>
+      <file name="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/kotlin/technomads/public/spring5webapp/repositories/AuthorRepository.kt" timestamp="1509653892465">
+        <mark key="[" line="7" column="3" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/cfgpack/src/test/java/postilion/cfgpack/snid/nightmode/TestNightModeSNID.java" timestamp="1508873957937">
         <mark key="'" line="2629" column="45" />
@@ -413,9 +429,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="51" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/ssb/transactions/SSBTransaction.java" />
-      <jump line="150" column="23" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/ssb/transactions/SSBTransaction.java" />
-      <jump line="936" column="36" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/ssb/transactions/SSBTransaction.java" />
       <jump line="198" column="2" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/ssb/transactions/SSBTransaction.java" />
       <jump line="942" column="57" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/ssb/transactions/SSBTransaction.java" />
       <jump line="197" column="38" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/ssb/transactions/SSBTransaction.java" />
@@ -513,28 +526,31 @@
       <jump line="18" column="35" filename="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/kotlin/technomads/public/spring5webapp/model/Book.kt" />
       <jump line="135" column="0" filename="C:/SOURCE/github/ADD/src/docs/asciidoc/CPBSchedules/CPB-Schedules.adoc" />
       <jump line="130" column="0" filename="C:/SOURCE/github/ADD/src/docs/asciidoc/CPBSchedules/CPB-Schedules.adoc" />
+      <jump line="17" column="0" filename="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/kotlin/technomads/public/spring5webapp/bootstrap/DevBootstrap.kt" />
+      <jump line="41" column="0" filename="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/kotlin/technomads/public/spring5webapp/bootstrap/DevBootstrap.kt" />
+      <jump line="42" column="0" filename="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/kotlin/technomads/public/spring5webapp/bootstrap/DevBootstrap.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>eric</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>eric</text>
       </register>
       <register name="/" type="4">
         <text>var</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IFBlcmZvcm1hbmNlIGltcGFjdDo6CiAgKiBBcHBsaWNhdGlvbiBtdXN0IG5vdCBwdXQgaGlnaCBsb2FkIG9uIHRoZSBwcm9kdWN0aW9uIGRhdGFiYXNlcyB3aGVuIHF1ZXJ5aW5nIHRyYW5zYWN0aW9ucy4KICAqIEFwcGxpY2F0aW9uIG11c3Qgbm90IGRlYWRsb2NrIHRoZSBkYXRhYmFzZXMuCiBBdmFpbGFiaWxpdHk6OgogU2VydmljZSBtdXN0IGNvbXBseSB3aXRoIHRoZSBhdmFpbGFiaWxpdHkgcmVxdWlyZW1lbnRzIG9mIHRoZSByZXN0IG9mIHRoZSBTU0IgcHJvZHVjdC4KIEV4dGVuc2liaWxpdHk6OgogQWRkaW5nIGFkZGl0aW9uYWwgY29uc29sZXMgdG8gdGhlIGFwcGxpY2F0aW9uIG11c3QgYmUgcG9zc2libGUgZm9sbG93aW5nIGEgd2VsbCBlc3RhYmxpc2hlZCBmcmFtZXdvcmsuCiBBdWRpdGFiaWxpdHk6OgogQWxsIGFjdGlvbnMgbXVzdCBiZSBsb2dnZWQgd2l0aCBhIGNsZWFyIHZpZXcgb2Ygd2hvIGRpZCB3aGF0IGFuZCB3aGVuLgogU2VjdXJpdHk6OgogKiBEYXRhIGJldHdlZW4gY2xpZW50IGFuZCBzZXJ2ZXIgbXVzdCBiZSBlbmNyeXB0ZWQuCiAqIFVzZXJzIG11c3QgYmUgYXV0aGVudGljYXRlZCB1c2luZyB0aGUgRmlTZXJ2IGRvbWFpbiBjcmVkZW50aWFscyBvZiB0aGUgdXNlci4KICogQXV0aGVudGljYXRpb24gbXVzdCBvbmx5IGJlIGFsbG93ZWQgdG8gYSBncm91cCBvZiBkZWZpbmVkIHVzZXJzLgogKiBBbGwgYXV0aGVudGljYXRlZCB1c2VzIHdpbGwgaGF2ZSBhY2Nlc3MgdG8gYWxsIGFjdGlvbnMuCiAqIERhdGFiYXNlIGFjY2VzcyB3aWxsIHVzZSBkb21haW4gYXV0aGVudGljYXRpb24uCg==</text>
+        <text encoding="base64">ICAgIHZhbCBlcmljID0gQXV0aG9yKAogICAgICAgIGZpcnN0TmFtZSA9ICJFcmljIiwgCiAgICAgICAgbGFzdE5hbWUgPSAiRXZhbnMiLCAKICAgICAgICBib29rcyA9IG11dGFibGVTZXRPZigpKQogICAgdmFsIGJvb2sgPSBCb29rKAogICAgICAgIHRpdGxlID0gIkRvbWFpbiBEcml2ZW4gRGVzaWduIiwgCiAgICAgICAgaXNibiA9ICIxMjM0MzQ1MjM0IiwgCiAgICAgICAgcHVibGlzaGVyID0gIkhhcnBlciBDb2xsaW5zIiwgCiAgICAgICAgYXV0aG9ycyA9IG11dGFibGVTZXRPZigpKQogICAgZXJpYy5ib29rcy5wbHVzKGJvb2spCiAgICBib29rLmF1dGhvcnMucGx1cyhlcmljKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbnZlcnNlSm9pbkNvbHVtbnMgPSBKb2luQ29sdW1uKG5hbWUgPSAiYXV0aG9yX2lkIikpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Tm90IGVub3VnaCBpbmZvcm1hdGlvbiBhYm91dCB0aGUgaW50ZWdyYXRpb24gYXQgdGhpcyBwb2ludC4K</text>
+        <text encoding="base64">ICB2YWwgYm9va1JlcG9zaXRvcnk6IEJvb2tSZXBvc2l0b3J5IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YWwgYXV0aG9yUmVwb3NpdG9yeTogQXV0aG9yUmVwb3NpdG9yeQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -543,16 +559,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Tm90IGVub3VnaCBpbmZvcm1hdGlvbiBhYm91dCB0aGUgaW50ZWdyYXRpb24gYXQgdGhpcyBwb2ludC4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogRGF0YWJhc2UgYWNjZXNzIHdpbGwgdXNlIGRvbWFpbiBhdXRoZW50aWNhdGlvbi4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogQWxsIGF1dGhlbnRpY2F0ZWQgdXNlcyB3aWxsIGhhdmUgYWNjZXNzIHRvIGFsbCBhY3Rpb25zLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogQXV0aGVudGljYXRpb24gbXVzdCBvbmx5IGJlIGFsbG93ZWQgdG8gYSBncm91cCBvZiBkZWZpbmVkIHVzZXJzLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
