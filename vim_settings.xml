@@ -36,11 +36,11 @@
         <mark key="." line="63" column="0" />
       </file>
       <file name="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/kotlin/technomads/public/spring5webapp/model/Author.kt" timestamp="1509635320706">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="17" column="24" />
-        <mark key="]" line="17" column="24" />
-        <mark key="^" line="10" column="4" />
-        <mark key="." line="17" column="24" />
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="16" column="24" />
+        <mark key="]" line="16" column="24" />
+        <mark key="^" line="9" column="4" />
+        <mark key="." line="16" column="24" />
       </file>
       <file name="C:/SOURCE/git/ssb6/postilion/pom.xml" timestamp="1509569094671">
         <mark key="'" line="1391" column="24" />
@@ -65,6 +65,12 @@
         <mark key="[" line="1602" column="0" />
         <mark key="]" line="1602" column="0" />
         <mark key="." line="1602" column="0" />
+      </file>
+      <file name="C:/SOURCE/github/ADD/src/docs/asciidoc/2017.R4/epics/MySnap.adoc" timestamp="1509651472479">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+        <mark key="^" line="77" column="6" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/util/ApplicationUtil.java" timestamp="1508985526407">
         <mark key="'" line="27" column="2" />
@@ -238,6 +244,12 @@
         <mark key="^" line="60" column="20" />
         <mark key="." line="60" column="20" />
       </file>
+      <file name="C:/SOURCE/github/ADD/src/docs/asciidoc/2017.R4/epics/ALLDATA.adoc" timestamp="1509651450191">
+        <mark key="[" line="203" column="1" />
+        <mark key="]" line="203" column="1" />
+        <mark key="^" line="201" column="2" />
+        <mark key="." line="203" column="1" />
+      </file>
       <file name="C:/SOURCE/github/ADD/src/docs/asciidoc/CPBSchedules/CPB-Schedules.adoc" timestamp="1509650618236">
         <mark key="'" line="128" column="0" />
         <mark key="[" line="217" column="3" />
@@ -314,12 +326,6 @@
         <mark key="^" line="942" column="17" />
         <mark key="." line="942" column="17" />
       </file>
-      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/postilion_tomcat/src/main/izpack/postilion-tomcat-refpack.xml" timestamp="1509547532493">
-        <mark key="[" line="74" column="23" />
-        <mark key="m" line="74" column="31" />
-        <mark key="]" line="74" column="23" />
-        <mark key="." line="74" column="23" />
-      </file>
       <file name="C:/SOURCE/github/ADD/src/docs/asciidoc/2017.R4/Architecture Description Document for SSB 17_4.adoc" timestamp="1509650148559">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -342,12 +348,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/SOURCE/git/ssb6/postilion/ssb/services/src/main/java/postilion/services/ssb/sso/generic/ASsoProvider.java" timestamp="1509558945662">
-        <mark key="'" line="1955" column="2" />
-        <mark key="[" line="1957" column="0" />
-        <mark key="]" line="1957" column="0" />
-        <mark key="." line="1957" column="0" />
-      </file>
       <file name="C:/SOURCE/git/legacy/postilion/pom.xml" timestamp="1509496808400">
         <mark key="'" line="898" column="20" />
         <mark key="[" line="899" column="22" />
@@ -361,12 +361,22 @@
         <mark key="." line="630" column="28" />
         <mark key="^" line="630" column="29" />
       </file>
+      <file name="C:/SOURCE/github/ADD/src/docs/asciidoc/2017.R4/epics/PlatformUpdate.adoc" timestamp="1509651207839">
+        <mark key="[" line="189" column="0" />
+        <mark key="]" line="203" column="50" />
+      </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/mobilerest_parent/mobilerest/pom.xml" timestamp="1509481213023">
         <mark key="'" line="59" column="21" />
         <mark key="[" line="65" column="15" />
         <mark key="]" line="66" column="8" />
         <mark key="^" line="66" column="8" />
         <mark key="." line="66" column="8" />
+      </file>
+      <file name="C:/SOURCE/github/ADD/src/docs/asciidoc/2017.R4/epics/PopMoney.adoc" timestamp="1509651577494">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+        <mark key="^" line="80" column="0" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/test/java/postilion/services/ssb/accounts/TestTransactionHistoryDao.java" timestamp="1508810236904">
         <mark key="[" line="204" column="54" />
@@ -505,44 +515,44 @@
       <jump line="130" column="0" filename="C:/SOURCE/github/ADD/src/docs/asciidoc/CPBSchedules/CPB-Schedules.adoc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Tm90IGVub3VnaCBpbmZvcm1hdGlvbiBhYm91dCB0aGUgaW50ZWdyYXRpb24gYXQgdGhpcyBwb2ludC4K</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>var</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgIEBJZCAKICAgIEBHZW5lcmF0ZWRWYWx1ZShzdHJhdGVneSA9IEdlbmVyYXRpb25UeXBlLkFVVE8p</text>
+      <register name="0" type="2">
+        <text encoding="base64">IFBlcmZvcm1hbmNlIGltcGFjdDo6CiAgKiBBcHBsaWNhdGlvbiBtdXN0IG5vdCBwdXQgaGlnaCBsb2FkIG9uIHRoZSBwcm9kdWN0aW9uIGRhdGFiYXNlcyB3aGVuIHF1ZXJ5aW5nIHRyYW5zYWN0aW9ucy4KICAqIEFwcGxpY2F0aW9uIG11c3Qgbm90IGRlYWRsb2NrIHRoZSBkYXRhYmFzZXMuCiBBdmFpbGFiaWxpdHk6OgogU2VydmljZSBtdXN0IGNvbXBseSB3aXRoIHRoZSBhdmFpbGFiaWxpdHkgcmVxdWlyZW1lbnRzIG9mIHRoZSByZXN0IG9mIHRoZSBTU0IgcHJvZHVjdC4KIEV4dGVuc2liaWxpdHk6OgogQWRkaW5nIGFkZGl0aW9uYWwgY29uc29sZXMgdG8gdGhlIGFwcGxpY2F0aW9uIG11c3QgYmUgcG9zc2libGUgZm9sbG93aW5nIGEgd2VsbCBlc3RhYmxpc2hlZCBmcmFtZXdvcmsuCiBBdWRpdGFiaWxpdHk6OgogQWxsIGFjdGlvbnMgbXVzdCBiZSBsb2dnZWQgd2l0aCBhIGNsZWFyIHZpZXcgb2Ygd2hvIGRpZCB3aGF0IGFuZCB3aGVuLgogU2VjdXJpdHk6OgogKiBEYXRhIGJldHdlZW4gY2xpZW50IGFuZCBzZXJ2ZXIgbXVzdCBiZSBlbmNyeXB0ZWQuCiAqIFVzZXJzIG11c3QgYmUgYXV0aGVudGljYXRlZCB1c2luZyB0aGUgRmlTZXJ2IGRvbWFpbiBjcmVkZW50aWFscyBvZiB0aGUgdXNlci4KICogQXV0aGVudGljYXRpb24gbXVzdCBvbmx5IGJlIGFsbG93ZWQgdG8gYSBncm91cCBvZiBkZWZpbmVkIHVzZXJzLgogKiBBbGwgYXV0aGVudGljYXRlZCB1c2VzIHdpbGwgaGF2ZSBhY2Nlc3MgdG8gYWxsIGFjdGlvbnMuCiAqIERhdGFiYXNlIGFjY2VzcyB3aWxsIHVzZSBkb21haW4gYXV0aGVudGljYXRpb24uCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Tm90IGVub3VnaCBpbmZvcm1hdGlvbiBhYm91dCB0aGUgaW50ZWdyYXRpb24gYXQgdGhpcyBwb2ludC4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09IFNjaGVkdWxlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW5jbHVkZTo6e2luY2x1ZGVkaXJ9L1BsYXRmb3JtVXBkYXRlLmFkb2NbXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Cgo8PDwK</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Tm90IGVub3VnaCBpbmZvcm1hdGlvbiBhYm91dCB0aGUgaW50ZWdyYXRpb24gYXQgdGhpcyBwb2ludC4K</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CnxNaWNyb3NvZnQgUGxhdGZvcm0gVXBkYXRlCnxFLTA5NzUyCnwqWUVTKg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICogRGF0YWJhc2UgYWNjZXNzIHdpbGwgdXNlIGRvbWFpbiBhdXRoZW50aWNhdGlvbi4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c3ByaW5nLmgyCg==</text>
+        <text encoding="base64">ICogQWxsIGF1dGhlbnRpY2F0ZWQgdXNlcyB3aWxsIGhhdmUgYWNjZXNzIHRvIGFsbCBhY3Rpb25zLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQXV0aGVudGljYXRpb24gbXVzdCBvbmx5IGJlIGFsbG93ZWQgdG8gYSBncm91cCBvZiBkZWZpbmVkIHVzZXJzLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMuYW5ub3RhdGlvbnMuTm90TnVsbAo=</text>
+        <text encoding="base64">ICogVXNlcnMgbXVzdCBiZSBhdXRoZW50aWNhdGVkU1NPU1NPICAgdXNpbmcgdGhlIEZpU2VydiBkb21haW4gY3JlZGVudGlhbHMgb2YgdGhlIHVzZXIuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
