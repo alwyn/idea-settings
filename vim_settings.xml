@@ -155,13 +155,13 @@
         <mark key="." line="27" column="90" />
         <mark key="^" line="27" column="90" />
       </file>
-      <file name="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/kotlin/technomads/public/spring5webapp/model/Book.kt" timestamp="1509593899775">
-        <mark key="a" line="14" column="4" />
-        <mark key="'" line="18" column="35" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="18" column="35" />
-        <mark key="." line="10" column="0" />
+      <file name="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/kotlin/technomads/public/spring5webapp/model/Book.kt" timestamp="1509627558405">
+        <mark key="a" line="13" column="4" />
+        <mark key="'" line="17" column="35" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="17" column="35" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/test/java/postilion/services/tools/edd/TestEddImporter.java" timestamp="1508809901519">
         <mark key="[" line="124" column="0" />
@@ -493,7 +493,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAJCXNlcnZpY2VfcGxhbl9hZGFwdGVyLnJlc2V0Q3VzdG9tZXJTZXJ2aWNlUGxhbk92ZXJyaWRkZW4oY3VzdG9tZXIuZ2V0Q3VzdG9tZXJCdXNpbmVzc0lkKCksdHJ1ZSAsIHNlcnZpY2VfcGxhbik7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMuYW5ub3RhdGlvbnMuTm90TnVsbAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ZGF0YSA=</text>
@@ -505,31 +505,31 @@
         <text encoding="base64">ICAgIEBJZCAKICAgIEBHZW5lcmF0ZWRWYWx1ZShzdHJhdGVneSA9IEdlbmVyYXRpb25UeXBlLkFVVE8p</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAJCXNlcnZpY2VfcGxhbl9hZGFwdGVyLnJlc2V0Q3VzdG9tZXJTZXJ2aWNlUGxhbk92ZXJyaWRkZW4oY3VzdG9tZXIuZ2V0Q3VzdG9tZXJCdXNpbmVzc0lkKCksdHJ1ZSAsIHNlcnZpY2VfcGxhbik7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMuYW5ub3RhdGlvbnMuTm90TnVsbAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCB0aXRsZTogU3RyaW5nLAo=</text>
+        <text encoding="base64">ICAgICAgICAJCXNlcnZpY2VfcGxhbl9hZGFwdGVyLnJlc2V0Q3VzdG9tZXJTZXJ2aWNlUGxhbk92ZXJyaWRkZW4oY3VzdG9tZXIuZ2V0Q3VzdG9tZXJCdXNpbmVzc0lkKCksdHJ1ZSAsIHNlcnZpY2VfcGxhbik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBtYXZlbkxvY2FsKCkK</text>
+        <text encoding="base64">ICAgIHZhbCB0aXRsZTogU3RyaW5nLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1hdmVuTG9jYWwoKWRkCg==</text>
+        <text encoding="base64">ICBtYXZlbkxvY2FsKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1hdmVuIHsgdXJsICJodHRwczovL3JlcG8uc3ByaW5nLmlvL21pbGVzdG9uZSIgfQo=</text>
+        <text encoding="base64">ICAgIG1hdmVuTG9jYWwoKWRkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CW1hdmVuIHsgdXJsICJodHRwczovL3JlcG8uc3ByaW5nLmlvL21pbGVzdG9uZSIgfQo=</text>
+        <text encoding="base64">ICAgIG1hdmVuIHsgdXJsICJodHRwczovL3JlcG8uc3ByaW5nLmlvL21pbGVzdG9uZSIgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CW1hdmVuIHsgdXJsICJodHRwczovL3JlcG8uc3ByaW5nLmlvL3NuYXBzaG90IiB9Cg==</text>
+        <text encoding="base64">CW1hdmVuIHsgdXJsICJodHRwczovL3JlcG8uc3ByaW5nLmlvL21pbGVzdG9uZSIgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CW1hdmVuQ2VudHJhbCgpCg==</text>
+        <text encoding="base64">CW1hdmVuIHsgdXJsICJodHRwczovL3JlcG8uc3ByaW5nLmlvL3NuYXBzaG90IiB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQltYXZlbiB7IHVybCAiaHR0cHM6Ly9yZXBvLnNwcmluZy5pby9taWxlc3RvbmUiIH0K</text>
+        <text encoding="base64">CW1hdmVuQ2VudHJhbCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
