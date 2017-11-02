@@ -238,12 +238,12 @@
         <mark key="^" line="60" column="20" />
         <mark key="." line="60" column="20" />
       </file>
-      <file name="C:/SOURCE/github/ADD/src/docs/asciidoc/CPBSchedules/CPB-Schedules.adoc" timestamp="1509478281591">
-        <mark key="'" line="144" column="15" />
-        <mark key="[" line="243" column="0" />
-        <mark key="]" line="243" column="0" />
-        <mark key="." line="243" column="0" />
-        <mark key="^" line="136" column="15" />
+      <file name="C:/SOURCE/github/ADD/src/docs/asciidoc/CPBSchedules/CPB-Schedules.adoc" timestamp="1509650618236">
+        <mark key="'" line="128" column="0" />
+        <mark key="[" line="217" column="3" />
+        <mark key="]" line="217" column="3" />
+        <mark key="^" line="135" column="0" />
+        <mark key="." line="217" column="3" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/shared-lib/pom.xml" timestamp="1509496783012">
         <mark key="'" line="353" column="18" />
@@ -320,6 +320,11 @@
         <mark key="]" line="74" column="23" />
         <mark key="." line="74" column="23" />
       </file>
+      <file name="C:/SOURCE/github/ADD/src/docs/asciidoc/2017.R4/Architecture Description Document for SSB 17_4.adoc" timestamp="1509650148559">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/service/wrappers/TransactionDetailsWrapper.java" timestamp="1509386194286">
         <mark key="'" line="303" column="18" />
         <mark key="[" line="1104" column="0" />
@@ -331,6 +336,11 @@
         <mark key="[" line="164" column="18" />
         <mark key="]" line="164" column="18" />
         <mark key="." line="164" column="18" />
+      </file>
+      <file name="C:/SOURCE/github/ADD/src/docs/asciidoc/2017.R4/epics/Summary.adoc" timestamp="1509650134588">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="C:/SOURCE/git/ssb6/postilion/ssb/services/src/main/java/postilion/services/ssb/sso/generic/ASsoProvider.java" timestamp="1509558945662">
         <mark key="'" line="1955" column="2" />
@@ -393,8 +403,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1139" column="22" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/service/wrappers/transactions/SsbTransactionWrapper.java" />
-      <jump line="0" column="0" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/service/wrappers/transactions/SsbTransactionWrapper.java" />
       <jump line="134" column="51" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/ssb/transactions/SSBTransaction.java" />
       <jump line="150" column="23" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/ssb/transactions/SSBTransaction.java" />
       <jump line="936" column="36" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/ssb/transactions/SSBTransaction.java" />
@@ -493,13 +501,15 @@
       <jump line="17" column="4" filename="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/kotlin/technomads/public/spring5webapp/model/Author.kt" />
       <jump line="18" column="0" filename="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/kotlin/technomads/public/spring5webapp/model/Author.kt" />
       <jump line="18" column="35" filename="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/kotlin/technomads/public/spring5webapp/model/Book.kt" />
+      <jump line="135" column="0" filename="C:/SOURCE/github/ADD/src/docs/asciidoc/CPBSchedules/CPB-Schedules.adoc" />
+      <jump line="130" column="0" filename="C:/SOURCE/github/ADD/src/docs/asciidoc/CPBSchedules/CPB-Schedules.adoc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c3ByaW5nLmgyCg==</text>
+      <register name="&quot;" type="4">
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>var</text>
@@ -508,31 +518,31 @@
         <text encoding="base64">ICAgIEBJZCAKICAgIEBHZW5lcmF0ZWRWYWx1ZShzdHJhdGVneSA9IEdlbmVyYXRpb25UeXBlLkFVVE8p</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c3ByaW5nLmgyCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMuYW5ub3RhdGlvbnMuTm90TnVsbAo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">PT09IFNjaGVkdWxlcgo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAJCXNlcnZpY2VfcGxhbl9hZGFwdGVyLnJlc2V0Q3VzdG9tZXJTZXJ2aWNlUGxhbk92ZXJyaWRkZW4oY3VzdG9tZXIuZ2V0Q3VzdG9tZXJCdXNpbmVzc0lkKCksdHJ1ZSAsIHNlcnZpY2VfcGxhbik7Cg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW5jbHVkZTo6e2luY2x1ZGVkaXJ9L1BsYXRmb3JtVXBkYXRlLmFkb2NbXQo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">Cgo8PDwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCB0aXRsZTogU3RyaW5nLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBtYXZlbkxvY2FsKCkK</text>
+      <register name="6" type="4">
+        <text encoding="base64">CnxNaWNyb3NvZnQgUGxhdGZvcm0gVXBkYXRlCnxFLTA5NzUyCnwqWUVTKg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1hdmVuTG9jYWwoKWRkCg==</text>
+        <text encoding="base64">c3ByaW5nLmgyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1hdmVuIHsgdXJsICJodHRwczovL3JlcG8uc3ByaW5nLmlvL21pbGVzdG9uZSIgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CW1hdmVuIHsgdXJsICJodHRwczovL3JlcG8uc3ByaW5nLmlvL21pbGVzdG9uZSIgfQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMuYW5ub3RhdGlvbnMuTm90TnVsbAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
