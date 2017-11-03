@@ -22,11 +22,11 @@
         <mark key="^" line="1" column="8" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="C:/SOURCE/github/spring5kotlinguru/spring5webapp/build.gradle" timestamp="1509635246379">
-        <mark key="[" line="20" column="26" />
-        <mark key="]" line="21" column="26" />
-        <mark key="^" line="21" column="26" />
-        <mark key="." line="21" column="26" />
+      <file name="C:/SOURCE/github/spring5kotlinguru/spring5webapp/build.gradle" timestamp="1509670477969">
+        <mark key="[" line="39" column="46" />
+        <mark key="]" line="39" column="46" />
+        <mark key="^" line="39" column="46" />
+        <mark key="." line="39" column="46" />
       </file>
       <file name="C:/SOURCE/git/ssb6/postilion/ssb_installer/bin/old_files_cleaner.cmd" timestamp="1509581214408">
         <mark key="'" line="64" column="2" />
@@ -318,7 +318,7 @@
         <mark key="." line="49" column="29" />
         <mark key="^" line="49" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509636401548">
+      <file name="/Dummy.txt" timestamp="1509670571964">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -341,7 +341,6 @@
         <mark key="." line="23" column="31" />
         <mark key="^" line="23" column="31" />
       </file>
-      <file name="D:/gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.51/b44aed5fe16fe27bb75488a2274d435e875fdb44/kotlin-stdlib-1.1.51-sources.jar!/generated/_Sets.kt" timestamp="1509661423484" />
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/postilion_tomcat/pom.xml" timestamp="1508855710147">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="293" column="15" />
@@ -564,10 +563,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Gemming</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>Gemming</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>var</text>
@@ -576,31 +575,31 @@
         <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIiB4bWxuczp0aD0iaHR0cDovL3d3dy50aHltZWxlYWYub3JnIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCIvPgogICAgPHRpdGxlPlNwcmluZyBGcmFtZXdvcmsgR3VydTwvdGl0bGU+CjwvaGVhZD4KCjxib2R5PgogICAgPGgxPkJvb2sgTGlzdDwvaDE+CgogICAgPHRhYmxlPgogICAgICAgIDx0cj4KICAgICAgICAgICAgPHRoPklEPC90aD4KICAgICAgICAgICAgPHRoPlRpdGxlPC90aD4KICAgICAgICAgICAgPHRoPlB1Ymxpc2hlcjwvdGg+CiAgICAgICAgPC90cj4KICAgICAgICA8dHIgdGg6ZWFjaD0iYm9vayA6ICR7Ym9va3N9Ij4KICAgICAgICAgICAgPHRkIHRoOnRleHQ9IiR7Ym9vay5pZH0iPjEyMzwvdGQ+CiAgICAgICAgICAgIDx0ZCB0aDp0ZXh0PSIke2Jvb2sudGl0bGV9Ij5TcHJpbmcgaW4gQWN0aW9uPC90ZD4KICAgICAgICAgICAgPHRkIHRoOnRleHQ9IiR7Ym9vay5wdWJsaXNoZXIubmFtZX0iPldyb3g8L3RkPgogICAgICAgIDwvdHI+CiAgICA8L3RhYmxlPgoKPC9ib2R5Pgo8L2h0bWw+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnN3aW5nLlNwcmluZwo=</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAndHJ1c3QtYWxsJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDwvdGFibGU+Cg==</text>
+        <text encoding="base64">ICAgIGNsYXNzcGF0aCBmaWxlcygnZ3JhZGxlL2dyYWRsZS10cnVzdC1hbGwuamFyJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwvdHI+Cg==</text>
+        <text encoding="base64">ICBtYXZlbiB7IHVybCAiaHR0cDovL25yYzNsbmV4dXMwM3ZtLmFjaS5pY2UubG9jYWw6ODA4MS9yZXBvc2l0b3J5L3MxIn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIG1hdmVuIHsgdXJsICJodHRwOi8vbnJjM2xuZXh1czAzdm0uYWNpLmljZS5sb2NhbDo4MDgxL3JlcG9zaXRvcnkvczEiIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnN3aW5nLlNwcmluZwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIDwvdGFibGU+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PC9oZWFkPgo=</text>
+        <text encoding="base64">ICAgIDwvdHI+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJib29rcyI6dwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1Ymxpc2hlciA9IHB1Ymxpc2hlclJlcG9zaXRvcnkuc2F2ZShwdWJsaXNoZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
