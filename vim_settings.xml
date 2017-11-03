@@ -71,6 +71,12 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="207" column="24" />
       </file>
+      <file name="C:/SOURCE/github/spring5kotlinguru/di-demo/src/main/kotlin/technomads/public/didemo/services/ConstructorGreetingService.kt" timestamp="1509735466366">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="7" />
+        <mark key="^" line="8" column="7" />
+        <mark key="." line="8" column="7" />
+      </file>
       <file name="C:/SOURCE/github/ADD/src/docs/asciidoc/2018.R1/epics/PlatformUpdate.adoc" timestamp="1509031306271">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="3" column="0" />
@@ -188,6 +194,12 @@
       </file>
       <file name="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/kotlin/technomads/public/spring5webapp/repositories/AuthorRepository.kt" timestamp="1509653892465">
         <mark key="[" line="7" column="3" />
+      </file>
+      <file name="C:/SOURCE/github/spring5kotlinguru/di-demo/src/main/kotlin/technomads/public/didemo/services/GetterGreetingService.kt" timestamp="1509735375481">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="7" />
+        <mark key="." line="8" column="7" />
+        <mark key="^" line="8" column="7" />
       </file>
       <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/clientfrontend/src/main/ruby/rails/app/views/layouts/application.html.haml" timestamp="1481925751384">
         <mark key="[" line="12" column="57" />
@@ -325,11 +337,11 @@
         <mark key="." line="15" column="11" />
         <mark key="^" line="15" column="11" />
       </file>
-      <file name="C:/SOURCE/github/spring5kotlinguru/di-demo/src/main/kotlin/technomads/public/didemo/controllers/ConstructorInjectedController.kt" timestamp="1509734681161">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="9" column="10" />
-        <mark key="^" line="9" column="10" />
-        <mark key="." line="9" column="10" />
+      <file name="C:/SOURCE/github/spring5kotlinguru/di-demo/src/main/kotlin/technomads/public/didemo/controllers/ConstructorInjectedController.kt" timestamp="1509737163913">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1509558951161">
         <mark key="[" line="0" column="0" />
@@ -339,9 +351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="942" column="57" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/ssb/transactions/SSBTransaction.java" />
-      <jump line="197" column="38" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/ssb/transactions/SSBTransaction.java" />
-      <jump line="941" column="78" filename="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/ssb/transactions/SSBTransaction.java" />
       <jump line="67" column="15" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/service/wrappers/transactions/SsbTransactionProxy.java" />
       <jump line="1436" column="16" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/service/wrappers/transactions/ATransactionProxy.java" />
       <jump line="0" column="0" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/service/wrappers/transactions/ATransactionProxy.java" />
@@ -439,46 +448,49 @@
       <jump line="41" column="0" filename="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/kotlin/technomads/public/spring5webapp/bootstrap/DevBootstrap.kt" />
       <jump line="42" column="0" filename="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/kotlin/technomads/public/spring5webapp/bootstrap/DevBootstrap.kt" />
       <jump line="39" column="85" filename="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/kotlin/technomads/public/spring5webapp/bootstrap/DevBootstrap.kt" />
+      <jump line="7" column="2" filename="C:/SOURCE/github/spring5kotlinguru/di-demo/src/main/kotlin/technomads/public/didemo/services/ConstructorGreetingService.kt" />
+      <jump line="11" column="81" filename="C:/SOURCE/github/spring5kotlinguru/di-demo/src/main/kotlin/technomads/public/didemo/controllers/ConstructorInjectedController.kt" />
+      <jump line="0" column="0" filename="C:/SOURCE/github/spring5kotlinguru/di-demo/src/main/kotlin/technomads/public/didemo/controllers/ConstructorInjectedController.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>y</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB2YWwgZ3JlZXRpbmdTZXJ2aWNlID0gbnVsbAo=</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text encoding="base64">Y29uc3RydWN0b3Ig</text>
       </register>
       <register name="/" type="4">
         <text>var</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBwcmludGxuICgiUHJvcGVydHlJbmplY3RlZDogJHsoY29udGV4dC5nZXRCZWFuKCJwcm9wZXJ0eUluamVjdGVkQ29udHJvbGxlciIpIGFzIFByb3BlcnR5SW5qZWN0ZWRDb250cm9sbGVyKS5zYXlIZWxsbygpfSIpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">QFF1YWxpZmllcigiY29uc3RydWN0b3JJbmplY3RlZENvbnRyb2xsZXIiKSA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YWwgZ3JlZXRpbmdTZXJ2aWNlID0gbnVsbAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBmdW4gZ2V0R3JlZXRpbmdTZXJ2aWNlKCkgPSB0aGlzLmdyZWV0aW5nU2VydmljZQo=</text>
+        <text encoding="base64">Y2xhc3MgQ29uc3RydWN0b3JJbmplY3RlZENvbnRyb2xsZXIgcHJpdmF0ZSBAUXVhbGlmaWVyKCJjb25zdHJ1Y3RvckluamVjdGVkQ29udHJvbGxlciIpIGNvbnN0cnVjdG9yKHZhbCBncmVldGluZ1NlcnZpY2U6IEdyZWV0aW5nU2VydmljZSkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBsYXRlaW5pdCB2YXIgZ3JlZXRpbmdTZXJ2aWNlIDogR3JlZXRpbmdTZXJ2aWNlCg==</text>
+        <text encoding="base64">QFF1YWxpZmllcigiY29uc3RydWN0b3JJbmplY3RlZENvbnRyb2xsZXIiKQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXNAR2V0dGVySW5qZWN0ZWRDb250cm9sbGVyLmdyZWV0aW5nU2VydmljZSA9IHRoaXMK</text>
+      <register name="4" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNldCh2YWx1ZSkgeyBmaWVsZCA9IHZhbHVlIH0K</text>
+        <text encoding="base64">ICBmdW4gZ2V0R3JlZXRpbmdTZXJ2aWNlKCkgPSB0aGlzLmdyZWV0aW5nU2VydmljZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB2YXIgZ3JlZXRpbmdTZXJ2aWNlIDogR3JlZXRpbmdTZXJ2aWNlPyA9IG51bGwK</text>
+        <text encoding="base64">ICBsYXRlaW5pdCB2YXIgZ3JlZXRpbmdTZXJ2aWNlIDogR3JlZXRpbmdTZXJ2aWNlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBvcGVyYXRvciBmdW4gaW52b2tlKGdyZWV0aW5nU2VydmljZUltcGw6IEdyZWV0aW5nU2VydmljZUltcGwpIHt9Cg==</text>
+        <text encoding="base64">ICAgIHRoaXNAR2V0dGVySW5qZWN0ZWRDb250cm9sbGVyLmdyZWV0aW5nU2VydmljZSA9IHRoaXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBACg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
