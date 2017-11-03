@@ -31,6 +31,12 @@
         <mark key="^" line="39" column="46" />
         <mark key="." line="39" column="46" />
       </file>
+      <file name="C:/SOURCE/github/spring5kotlinguru/di-demo/src/main/kotlin/technomads/public/didemo/services/GreetingService.kt" timestamp="1509730131435">
+        <mark key="[" line="7" column="19" />
+        <mark key="]" line="7" column="27" />
+        <mark key="^" line="7" column="27" />
+        <mark key="." line="7" column="27" />
+      </file>
       <file name="C:/SOURCE/git/ssb6/postilion/ssb_installer/bin/old_files_cleaner.cmd" timestamp="1509581214408">
         <mark key="'" line="64" column="2" />
         <mark key="[" line="62" column="0" />
@@ -140,6 +146,12 @@
         <mark key="]" line="22" column="3" />
         <mark key="^" line="22" column="3" />
         <mark key="." line="22" column="3" />
+      </file>
+      <file name="C:/SOURCE/github/spring5kotlinguru/di-demo/src/main/kotlin/technomads/public/didemo/services/GreetingServiceImpl.kt" timestamp="1509730786103">
+        <mark key="[" line="8" column="7" />
+        <mark key="]" line="8" column="7" />
+        <mark key="^" line="8" column="7" />
+        <mark key="." line="8" column="7" />
       </file>
       <file name="C:/SOURCE/git/ssb6/postilion/ssb/services/src/main/java/postilion/services/ssb/sso/connection/HTTPConnection.java" timestamp="1509558673799">
         <mark key="'" line="90" column="15" />
@@ -254,6 +266,12 @@
         <mark key="]" line="2354" column="10" />
         <mark key="^" line="2354" column="10" />
         <mark key="." line="2354" column="10" />
+      </file>
+      <file name="C:/SOURCE/github/spring5kotlinguru/di-demo/src/main/kotlin/technomads/public/didemo/controllers/PropertyInjectedController.kt" timestamp="1509730925708">
+        <mark key="[" line="12" column="33" />
+        <mark key="]" line="12" column="33" />
+        <mark key="." line="12" column="33" />
+        <mark key="^" line="12" column="33" />
       </file>
       <file name="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/kotlin/technomads/public/spring5webapp/repositories/AuthorRepository.kt" timestamp="1509653892465">
         <mark key="[" line="7" column="3" />
@@ -459,6 +477,12 @@
         <mark key="." line="204" column="64" />
         <mark key="^" line="204" column="64" />
       </file>
+      <file name="C:/SOURCE/github/spring5kotlinguru/di-demo/src/main/kotlin/technomads/public/didemo/controllers/GetterInjectedController.kt" timestamp="1509731390588">
+        <mark key="[" line="12" column="34" />
+        <mark key="]" line="12" column="34" />
+        <mark key="." line="12" column="34" />
+        <mark key="^" line="12" column="34" />
+      </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/kotlin/postilion/services/util/Configuration.kt" timestamp="1509042987509">
         <mark key="'" line="25" column="56" />
         <mark key="[" line="33" column="62" />
@@ -591,10 +615,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>controller</text>
+        <text encoding="base64">bGF0ZWluaXQg</text>
       </register>
       <register name="-" type="4">
-        <text>controller</text>
+        <text encoding="base64">bGF0ZWluaXQg</text>
       </register>
       <register name="/" type="4">
         <text>var</text>
@@ -602,32 +626,32 @@
       <register name="0" type="4">
         <text>controller</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBmdW4gCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQltYXZlbkNlbnRyYWwoKQo=</text>
+        <text encoding="base64">ICBmdW4gZ2V0R3JlZXRpbmdTZXJ2aWNlKCkgOiBHcmVldGluZ1NlcnZpY2VJbXBsID0gZ3JlZXRpbmdTZXJ2aWNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAndHJ1c3QtYWxsJwo=</text>
+        <text encoding="base64">ICBjb25zdCBIRUxMT19HVVJVUyA9ICJIZWxsbyBHdXJ1cyEhISEiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNsYXNzcGF0aCBmaWxlcygnZ3JhZGxlL2dyYWRsZS10cnVzdC1hbGwuamFyJykK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBtYXZlbiB7IHVybCAiaHR0cDovL25yYzNsbmV4dXMwM3ZtLmFjaS5pY2UubG9jYWw6ODA4MS9yZXBvc2l0b3J5L3MxIn0K</text>
+        <text encoding="base64">ICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1hdmVuIHsgdXJsICJodHRwOi8vbnJjM2xuZXh1czAzdm0uYWNpLmljZS5sb2NhbDo4MDgxL3JlcG9zaXRvcnkvczEiIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnN3aW5nLlNwcmluZwo=</text>
+        <text encoding="base64">ICBqa2sK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwvdGFibGU+Cg==</text>
+        <text encoding="base64">ICB2YXIgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwvdHI+Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
