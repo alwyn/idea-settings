@@ -299,6 +299,12 @@
         <mark key="^" line="615" column="81" />
         <mark key="." line="615" column="81" />
       </file>
+      <file name="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/kotlin/technomads/public/spring5webapp/controllers/AuthorController.kt" timestamp="1509668977579">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="14" column="26" />
+        <mark key="^" line="14" column="26" />
+        <mark key="." line="14" column="26" />
+      </file>
       <file name="C:/SOURCE/git/cfe/gradle/wrapper/gradle-wrapper.properties" timestamp="1509398075651">
         <mark key="[" line="5" column="20" />
         <mark key="]" line="5" column="19" />
@@ -335,11 +341,6 @@
         <mark key="." line="23" column="31" />
         <mark key="^" line="23" column="31" />
       </file>
-      <file name="C:/SOURCE/git/ssb6/postilion/ssb/web/portal_parent/portal_java/src/main/java/postilion/portal/ui/service/serviceplan/ServicePlanAdapter.java" timestamp="1509588086580">
-        <mark key="[" line="1484" column="0" />
-        <mark key="]" line="1484" column="0" />
-        <mark key="." line="1484" column="0" />
-      </file>
       <file name="D:/gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.51/b44aed5fe16fe27bb75488a2274d435e875fdb44/kotlin-stdlib-1.1.51-sources.jar!/generated/_Sets.kt" timestamp="1509661423484" />
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/postilion_tomcat/pom.xml" timestamp="1508855710147">
         <mark key="'" line="0" column="0" />
@@ -347,6 +348,12 @@
         <mark key="]" line="293" column="18" />
         <mark key="^" line="293" column="18" />
         <mark key="." line="293" column="18" />
+      </file>
+      <file name="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/resources/templates/authors.html" timestamp="1509669203426">
+        <mark key="[" line="19" column="41" />
+        <mark key="]" line="19" column="47" />
+        <mark key="." line="19" column="47" />
+        <mark key="^" line="19" column="47" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/ssb/transactions/SSBTransaction.java" timestamp="1509052940870">
         <mark key="'" line="941" column="78" />
@@ -394,6 +401,12 @@
         <mark key="[" line="189" column="0" />
         <mark key="]" line="203" column="50" />
       </file>
+      <file name="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/resources/templates/books.html" timestamp="1509669076039">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="24" column="6" />
+        <mark key="." line="21" column="11" />
+        <mark key="^" line="21" column="11" />
+      </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/mobilerest_parent/mobilerest/pom.xml" timestamp="1509481213023">
         <mark key="'" line="59" column="21" />
         <mark key="[" line="65" column="15" />
@@ -406,6 +419,12 @@
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
         <mark key="^" line="80" column="0" />
+      </file>
+      <file name="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/kotlin/technomads/public/spring5webapp/controllers/BookController.kt" timestamp="1509668133267">
+        <mark key="[" line="14" column="18" />
+        <mark key="]" line="14" column="24" />
+        <mark key="." line="14" column="24" />
+        <mark key="^" line="14" column="24" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/test/java/postilion/services/ssb/accounts/TestTransactionHistoryDao.java" timestamp="1508810236904">
         <mark key="[" line="204" column="54" />
@@ -545,43 +564,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>())</text>
+        <text>Gemming</text>
       </register>
       <register name="-" type="4">
-        <text>())</text>
+        <text>Gemming</text>
       </register>
       <register name="/" type="4">
         <text>var</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBlcmljID0gQXV0aG9yKAogICAgICAgIGZpcnN0TmFtZSA9ICJFcmljIiwgCiAgICAgICAgbGFzdE5hbWUgPSAiRXZhbnMiLCAKICAgICAgICBib29rcyA9IG11dGFibGVTZXRPZigpKQogICAgdmFsIGJvb2sgPSBCb29rKAogICAgICAgIHRpdGxlID0gIkRvbWFpbiBEcml2ZW4gRGVzaWduIiwgCiAgICAgICAgaXNibiA9ICIxMjM0MzQ1MjM0IiwgCiAgICAgICAgcHVibGlzaGVyID0gIkhhcnBlciBDb2xsaW5zIiwgCiAgICAgICAgYXV0aG9ycyA9IG11dGFibGVTZXRPZigpKQogICAgZXJpYy5ib29rcy5wbHVzKGJvb2spCiAgICBib29rLmF1dGhvcnMucGx1cyhlcmljKQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIiB4bWxuczp0aD0iaHR0cDovL3d3dy50aHltZWxlYWYub3JnIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCIvPgogICAgPHRpdGxlPlNwcmluZyBGcmFtZXdvcmsgR3VydTwvdGl0bGU+CjwvaGVhZD4KCjxib2R5PgogICAgPGgxPkJvb2sgTGlzdDwvaDE+CgogICAgPHRhYmxlPgogICAgICAgIDx0cj4KICAgICAgICAgICAgPHRoPklEPC90aD4KICAgICAgICAgICAgPHRoPlRpdGxlPC90aD4KICAgICAgICAgICAgPHRoPlB1Ymxpc2hlcjwvdGg+CiAgICAgICAgPC90cj4KICAgICAgICA8dHIgdGg6ZWFjaD0iYm9vayA6ICR7Ym9va3N9Ij4KICAgICAgICAgICAgPHRkIHRoOnRleHQ9IiR7Ym9vay5pZH0iPjEyMzwvdGQ+CiAgICAgICAgICAgIDx0ZCB0aDp0ZXh0PSIke2Jvb2sudGl0bGV9Ij5TcHJpbmcgaW4gQWN0aW9uPC90ZD4KICAgICAgICAgICAgPHRkIHRoOnRleHQ9IiR7Ym9vay5wdWJsaXNoZXIubmFtZX0iPldyb3g8L3RkPgogICAgICAgIDwvdHI+CiAgICA8L3RhYmxlPgoKPC9ib2R5Pgo8L2h0bWw+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1Ymxpc2hlciA9IHB1Ymxpc2hlclJlcG9zaXRvcnkuc2F2ZShwdWJsaXNoZXIpCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnN3aW5nLlNwcmluZwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1Ymxpc2hlciA9IHB1Ymxpc2hlclJlcG9zaXRvcnkuc2F2ZShwdWJsaXNoZXIpCg==</text>
+        <text encoding="base64">ICAgIDwvdGFibGU+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgYm9va1JlcG9zaXRvcnkuc2F2ZShub0VKQikK</text>
+        <text encoding="base64">ICAgIDwvdHI+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgYXV0aG9yUmVwb3NpdG9yeS5zYXZlKHJvZCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgbm9FSkIuYXV0aG9ycy5wbHVzKHJvZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgcm9kLmJvb2tzLnBsdXMobm9FSkIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGF1dGhvcnMgPSBtdXRhYmxlU2V0T2YoKSkK</text>
+        <text encoding="base64">PC9oZWFkPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHB1Ymxpc2hlciA9IHB1Ymxpc2hlciwK</text>
+        <text encoding="base64">ICAgICJib29rcyI6dwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGlzYm4gPSAiODc5ODY3NTYzIiwK</text>
+        <text encoding="base64">ICAgIHB1Ymxpc2hlciA9IHB1Ymxpc2hlclJlcG9zaXRvcnkuc2F2ZShwdWJsaXNoZXIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -637,6 +656,7 @@
         <entry>%s/var/val/g</entry>
         <entry>w\</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>%y+</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
