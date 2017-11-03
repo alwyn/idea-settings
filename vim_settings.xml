@@ -24,11 +24,11 @@
         <mark key="^" line="39" column="46" />
         <mark key="." line="39" column="46" />
       </file>
-      <file name="C:/SOURCE/github/spring5kotlinguru/di-demo/src/main/kotlin/technomads/public/didemo/services/GreetingService.kt" timestamp="1509730131435">
-        <mark key="[" line="7" column="19" />
-        <mark key="]" line="7" column="27" />
+      <file name="C:/SOURCE/github/spring5kotlinguru/di-demo/src/main/kotlin/technomads/public/didemo/services/GreetingService.kt" timestamp="1509732759610">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
         <mark key="^" line="7" column="27" />
-        <mark key="." line="7" column="27" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/kotlin/postilion/services/util/Transfer.kt" timestamp="1508986857401">
         <mark key="[" line="28" column="29" />
@@ -59,11 +59,11 @@
         <mark key="^" line="18" column="2" />
         <mark key="." line="18" column="2" />
       </file>
-      <file name="C:/SOURCE/github/spring5kotlinguru/di-demo/src/test/kotlin/technomads/publid/didemo/controllers/PropertyInjectedControllerTest.kt" timestamp="1509732214764">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="22" column="6" />
-        <mark key="." line="2" column="0" />
+      <file name="C:/SOURCE/github/spring5kotlinguru/di-demo/src/test/kotlin/technomads/publid/didemo/controllers/PropertyInjectedControllerTest.kt" timestamp="1509732563098">
+        <mark key="[" line="24" column="81" />
+        <mark key="]" line="24" column="81" />
+        <mark key="^" line="14" column="12" />
+        <mark key="." line="24" column="81" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/portal_parent/portal_java/src/main/java/postilion/portal/ui/service/serviceplan/ServiceFeatureChargeWrapper.java" timestamp="1508960810291">
         <mark key="[" line="37" column="0" />
@@ -180,6 +180,12 @@
         <mark key="." line="10" column="48" />
         <mark key="^" line="9" column="2" />
       </file>
+      <file name="C:/SOURCE/github/spring5kotlinguru/di-demo/src/test/kotlin/technomads/publid/didemo/controllers/GetterInjectedControllerTest.kt" timestamp="1509733404169">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="21" column="6" />
+        <mark key="^" line="21" column="6" />
+        <mark key="." line="21" column="6" />
+      </file>
       <file name="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/kotlin/technomads/public/spring5webapp/repositories/AuthorRepository.kt" timestamp="1509653892465">
         <mark key="[" line="7" column="3" />
       </file>
@@ -205,6 +211,12 @@
         <mark key="[" line="5" column="20" />
         <mark key="]" line="5" column="20" />
         <mark key="." line="5" column="20" />
+      </file>
+      <file name="C:/SOURCE/github/spring5kotlinguru/di-demo/src/test/kotlin/technomads/publid/didemo/controllers/ConstructorInjectedControllerTest.kt" timestamp="1509733606043">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="20" column="6" />
+        <mark key="^" line="20" column="6" />
+        <mark key="." line="20" column="6" />
       </file>
       <file name="C:/SOURCE/git/admin/build.gradle" timestamp="1509156494754">
         <mark key="[" line="46" column="61" />
@@ -307,11 +319,10 @@
         <mark key="." line="204" column="64" />
         <mark key="^" line="204" column="64" />
       </file>
-      <file name="C:/SOURCE/github/spring5kotlinguru/di-demo/src/main/kotlin/technomads/public/didemo/controllers/GetterInjectedController.kt" timestamp="1509731390588">
-        <mark key="[" line="12" column="34" />
-        <mark key="]" line="12" column="34" />
-        <mark key="." line="12" column="34" />
-        <mark key="^" line="12" column="34" />
+      <file name="C:/SOURCE/github/spring5kotlinguru/di-demo/src/main/kotlin/technomads/public/didemo/controllers/GetterInjectedController.kt" timestamp="1509733377781">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="C:/SOURCE/github/spring5kotlinguru/di-demo/src/main/kotlin/technomads/public/didemo/controllers/ConstructorInjectedController.kt" timestamp="1509731686154">
         <mark key="[" line="8" column="72" />
@@ -430,10 +441,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGp1bml0LmZyYW1ld29yay5Bc3NlcnQuYXNzZXJ0RXF1YWxzCg==</text>
+        <text encoding="base64">ICBmdW4gZ2V0R3JlZXRpbmdTZXJ2aWNlKCkgPSB0aGlzLmdyZWV0aW5nU2VydmljZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>var</text>
@@ -442,31 +453,31 @@
         <text>controller</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGp1bml0LmZyYW1ld29yay5Bc3NlcnQuYXNzZXJ0RXF1YWxzCg==</text>
+        <text encoding="base64">ICBmdW4gZ2V0R3JlZXRpbmdTZXJ2aWNlKCkgPSB0aGlzLmdyZWV0aW5nU2VydmljZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBsYXRlaW5pdCB2YXIgZ3JlZXRpbmdTZXJ2aWNlIDogR3JlZXRpbmdTZXJ2aWNlSW1wbAo=</text>
+        <text encoding="base64">ICBsYXRlaW5pdCB2YXIgZ3JlZXRpbmdTZXJ2aWNlIDogR3JlZXRpbmdTZXJ2aWNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCBncmVldGluZ1NlcnZpY2UgOiBHcmVldGluZ1NlcnZpY2UK</text>
+        <text encoding="base64">ICAgIHRoaXNAR2V0dGVySW5qZWN0ZWRDb250cm9sbGVyLmdyZWV0aW5nU2VydmljZSA9IHRoaXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBmdW4gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBmdW4gZ2V0R3JlZXRpbmdTZXJ2aWNlKCkgOiBHcmVldGluZ1NlcnZpY2VJbXBsID0gZ3JlZXRpbmdTZXJ2aWNlCg==</text>
+        <text encoding="base64">ICAgIHNldCh2YWx1ZSkgeyBmaWVsZCA9IHZhbHVlIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBIRUxMT19HVVJVUyA9ICJIZWxsbyBHdXJ1cyEhISEiCg==</text>
+        <text encoding="base64">ICB2YXIgZ3JlZXRpbmdTZXJ2aWNlIDogR3JlZXRpbmdTZXJ2aWNlPyA9IG51bGwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICBvcGVyYXRvciBmdW4gaW52b2tlKGdyZWV0aW5nU2VydmljZUltcGw6IEdyZWV0aW5nU2VydmljZUltcGwpIHt9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
+        <text encoding="base64">ICBACg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGp1bml0LmZyYW1ld29yay5Bc3NlcnQuYXNzZXJ0RXF1YWxzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
