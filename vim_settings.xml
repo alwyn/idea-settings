@@ -85,6 +85,7 @@
         <mark key="^" line="66" column="24" />
         <mark key="." line="66" column="24" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/javax/faces/jsf-api/1_1_01/jsf-api-1_1_01.jar!/javax/faces/webapp/FacesServlet.class" timestamp="1510009564364" />
       <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/java/postilion/services/sdk/env/HttpTraceFilter.java" timestamp="1510007508829" />
       <file name="C:/SOURCE/github/spring5kotlinguru/di-demo/src/test/kotlin/technomads/publid/didemo/controllers/PropertyInjectedControllerTest.kt" timestamp="1509732563098">
         <mark key="[" line="24" column="81" />
@@ -228,6 +229,13 @@
         <mark key="]" line="124" column="0" />
         <mark key="^" line="118" column="28" />
         <mark key="." line="124" column="0" />
+      </file>
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/webapp/WEB-INF/web.xml" timestamp="1510008734617">
+        <mark key="'" line="600" column="3" />
+        <mark key="[" line="448" column="4" />
+        <mark key="]" line="448" column="2" />
+        <mark key="." line="448" column="2" />
+        <mark key="^" line="448" column="2" />
       </file>
       <file name="C:/SOURCE/github/spring5kotlinguru/spring5webapp/src/main/kotlin/technomads/public/spring5webapp/model/Publisher.kt" timestamp="1509657997436">
         <mark key="[" line="12" column="7" />
@@ -421,6 +429,7 @@
         <mark key="^" line="21" column="38" />
         <mark key="." line="466" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-catalina/7.0.79/tomcat-catalina-7.0.79-sources.jar!/org/apache/catalina/core/ApplicationFilterChain.java" timestamp="1510009162123" />
       <file name="C:/SOURCE/github/ADD/src/docs/asciidoc/2017.R4/epics/PopMoney.adoc" timestamp="1509651577494">
         <mark key="[" line="75" column="0" />
         <mark key="]" line="80" column="0" />
@@ -445,6 +454,7 @@
         <mark key="." line="17" column="34" />
         <mark key="^" line="17" column="34" />
       </file>
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" timestamp="1510008634108" />
       <file name="/fragment.java" timestamp="1510005491120">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -453,24 +463,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="20" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/ruby/rails/app/views/activities/index.html.haml" />
-      <jump line="92" column="30" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/ruby/rails/app/views/activities/index.html.haml" />
-      <jump line="93" column="30" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/ruby/rails/app/views/activities/index.html.haml" />
-      <jump line="94" column="39" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/ruby/rails/app/views/activities/index.html.haml" />
-      <jump line="95" column="23" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/ruby/rails/app/views/activities/index.html.haml" />
-      <jump line="105" column="34" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/ruby/rails/app/views/activities/index.html.haml" />
-      <jump line="107" column="44" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/ruby/rails/app/views/activities/index.html.haml" />
-      <jump line="114" column="32" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/ruby/rails/app/views/activities/index.html.haml" />
-      <jump line="115" column="22" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/ruby/rails/app/views/activities/index.html.haml" />
-      <jump line="116" column="27" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/ruby/rails/app/views/activities/index.html.haml" />
-      <jump line="117" column="26" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/ruby/rails/app/views/activities/index.html.haml" />
-      <jump line="44" column="30" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/ruby/rails/app/views/activities/index.html.haml" />
-      <jump line="45" column="30" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/ruby/rails/app/views/activities/index.html.haml" />
-      <jump line="0" column="0" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/ruby/rails/app/views/activities/show.html.haml" />
-      <jump line="187" column="37" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/ruby/rails/app/views/activities/index.html.haml" />
-      <jump line="30" column="0" filename="C:/SOURCE/github/ADD/src/docs/asciidoc/CPBSchedules/CPB-Schedules.adoc" />
-      <jump line="146" column="36" filename="C:/SOURCE/github/ADD/src/docs/asciidoc/CPBSchedules/CPB-Schedules.adoc" />
-      <jump line="88" column="0" filename="C:/SOURCE/github/ADD/src/docs/asciidoc/CPBSchedules/CPB-Schedules.adoc" />
       <jump line="45" column="0" filename="C:/SOURCE/github/ADD/src/docs/asciidoc/CPBSchedules/CPB-Schedules.adoc" />
       <jump line="60" column="9" filename="C:/SOURCE/github/ADD/src/docs/asciidoc/CPBSchedules/CPB-Schedules.adoc" />
       <jump line="151" column="0" filename="C:/SOURCE/github/ADD/src/docs/asciidoc/CPBSchedules/CPB-Schedules.adoc" />
@@ -553,55 +545,73 @@
       <jump line="81" column="28" filename="/parent-pom-effective-pom.xml" />
       <jump line="73" column="24" filename="C:/SOURCE/git/legacy/postilion/ssb/services/pom.xml" />
       <jump line="74" column="17" filename="C:/SOURCE/git/legacy/postilion/ssb/services/pom.xml" />
+      <jump line="449" column="4" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/webapp/WEB-INF/web.xml" />
+      <jump line="351" column="51" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/webapp/WEB-INF/web.xml" />
+      <jump line="490" column="23" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/webapp/WEB-INF/web.xml" />
+      <jump line="518" column="23" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/webapp/WEB-INF/web.xml" />
+      <jump line="548" column="17" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/webapp/WEB-INF/web.xml" />
+      <jump line="69" column="7" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/webapp/WEB-INF/web.xml" />
+      <jump line="315" column="32" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/webapp/WEB-INF/web.xml" />
+      <jump line="321" column="34" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/webapp/WEB-INF/web.xml" />
+      <jump line="451" column="34" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/webapp/WEB-INF/web.xml" />
+      <jump line="467" column="102" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/webapp/WEB-INF/web.xml" />
+      <jump line="585" column="3" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/webapp/WEB-INF/web.xml" />
+      <jump line="586" column="35" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/webapp/WEB-INF/web.xml" />
+      <jump line="587" column="74" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/webapp/WEB-INF/web.xml" />
+      <jump line="593" column="7" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/webapp/WEB-INF/web.xml" />
+      <jump line="595" column="6" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/webapp/WEB-INF/web.xml" />
+      <jump line="596" column="38" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/webapp/WEB-INF/web.xml" />
+      <jump line="598" column="7" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/webapp/WEB-INF/web.xml" />
+      <jump line="600" column="3" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/webapp/WEB-INF/web.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>jsp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDxmaWx0ZXI+IDxmaWx0ZXItbmFtZT5DZmVIZWxwUGFnZUFjY2Vzc0ZpbHRlcjwvZmlsdGVyLW5hbWU+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>jsp</text>
       </register>
       <register name="/" type="4">
-        <text>tomcat-version</text>
+        <text>servlet</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">U0VMRUNUCiAgICAgIHRtLm1zZ190eXBlLAogICAgICB0bS50cmFuX3R5cGUsCiAgICAgIHRtLmV4dGVuZGVkX3RyYW5fdHlwZSwKICAgICAgdG0uZnJvbV9hY2NvdW50LAogICAgICB0bS50b19hY2NvdW50LAogICAgICB0bS5hY2NvdW50X2lkXzEsCgkJdG0uYWNjb3VudF9pZF8yLAogICAgICB0bS5hbW91bnRfdHJhbl9yZXF1ZXN0ZWQsIC0tIHRyYW4gYW1vdW50IHJlcQogICAgICB0bS5zb3VyY2Vfbm9kZV9hbW91bnRfZmluYWwsIC0tc2V0dGxlIGFtb3VudAogICAgICAtLSBGb3JtYXQgZGF0ZV9sb2NhbCAmIHRpbWVfbG9jYWwgYXMgYSBkYXRldGltZS4gKENvbnN0cnVjdCBhIHN0cmluZyBmb3JtYXR0ZWQgYXMgeXl5eS1tbS1kZCBoaDptaTpzcykKCQlDT05WRVJUKERBVEVUSU1FLENPTlZFUlQoVkFSQ0hBUig0KSwgREFURVBBUlQoeXksIENPQUxFU0NFKGluX3JlcSwgaW5fYWR2KSkpKyctJytTVUJTVFJJTkcoZGF0ZV9sb2NhbCwgMSwgMikrJy0nKyBTVUJTVFJJTkcoZGF0ZV9sb2NhbCwgMywgMikrJyAnKwoJCVNVQlNUUklORyh0aW1lX2xvY2FsLCAxLCAyKSsnOicrU1VCU1RSSU5HKHRpbWVfbG9jYWwsIDMsIDIpKyc6JytTVUJTVFJJTkcodGltZV9sb2NhbCwgNSwgMikgLCAyMCkgQVMgZGF0ZXRpbWVfbG9jYWwsCiAgICAgIHRtLmNhcmRfc2VxX25yLAogICAgICB0bS5jdXJyZW5jeV9jb2RlX3RyYW4sCiAgICAgIHRtLnN0cnVjdHVyZWRfZGF0YV9yZXEsCgkJdG0uc291cmNlX25vZGVfZmVlLCAtLSB0cmFuX3RyYW5fZmVlX3JlcQoJCXRtLnRyYW5fbnIsCgkJdG0ucmV0X3JlZl9ubywKCQl0bS5jdXN0b21lcl9pZAogICBGUk9NCgkJdG1fdHJhbnMgQVMgdG0gV0lUSCAoTk9MT0NLKQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdAo=</text>
+        <text encoding="base64">ICAgIDxmaWx0ZXI+IDxmaWx0ZXItbmFtZT5DZmVIZWxwUGFnZUFjY2Vzc0ZpbHRlcjwvZmlsdGVyLW5hbWU+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2MuZ2V0Qwo=</text>
+        <text encoding="base64">ICAgICAgdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQk8IS0tIGNvbW1vbiBsaWIgLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2MuZ2V0Qwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDwvZGVwZW5kZW5jaWVzPgo=</text>
+        <text encoding="base64">CQk8IS0tIGNvbW1vbiBsaWIgLS0+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIDwvZGVwZW5kZW5jaWVzPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN1cGVyLnN0YXJ0KCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB7Cg==</text>
+        <text encoding="base64">ICAgIHN1cGVyLnN0YXJ0KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>tomcat-version</last-search>
+      <last-search>servlet</last-search>
       <last-offset />
-      <last-pattern>tomcat-version</last-pattern>
+      <last-pattern>servlet</last-pattern>
       <last-replace>val</last-replace>
       <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
@@ -609,8 +619,6 @@
     </search>
     <history>
       <history-search>
-        <entry>renderSend</entry>
-        <entry>04 Fri</entry>
         <entry>jacoco</entry>
         <entry>jacoco-maven</entry>
         <entry>dom4j</entry>
@@ -629,6 +637,8 @@
         <entry>juli</entry>
         <entry>tomcat</entry>
         <entry>tomcat-version</entry>
+        <entry>JSF</entry>
+        <entry>servlet</entry>
       </history-search>
       <history-cmd>
         <entry>1084</entry>
