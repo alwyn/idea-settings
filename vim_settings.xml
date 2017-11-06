@@ -74,6 +74,10 @@
         <mark key="^" line="14" column="12" />
         <mark key="." line="24" column="81" />
       </file>
+      <file name="/parent-pom-effective-pom.xml" timestamp="1509989540987">
+        <mark key="c" line="48" column="29" />
+        <mark key="'" line="81" column="28" />
+      </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/portal_parent/portal_java/src/main/java/postilion/portal/ui/service/serviceplan/ServiceFeatureChargeWrapper.java" timestamp="1508960810291">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
@@ -304,7 +308,7 @@
         <mark key="^" line="9" column="8" />
         <mark key="." line="9" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509988572657">
+      <file name="/Dummy.txt" timestamp="1509989757796">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -414,16 +418,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="27" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/ruby/rails/app/views/activities/index.html.haml" />
-      <jump line="58" column="40" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/ruby/rails/app/views/activities/index.html.haml" />
-      <jump line="59" column="22" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/ruby/rails/app/views/activities/index.html.haml" />
-      <jump line="60" column="22" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/ruby/rails/app/views/activities/index.html.haml" />
-      <jump line="62" column="19" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/ruby/rails/app/views/activities/index.html.haml" />
-      <jump line="63" column="25" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/ruby/rails/app/views/activities/index.html.haml" />
-      <jump line="71" column="32" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/ruby/rails/app/views/activities/index.html.haml" />
-      <jump line="72" column="30" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/ruby/rails/app/views/activities/index.html.haml" />
-      <jump line="73" column="22" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/ruby/rails/app/views/activities/index.html.haml" />
-      <jump line="79" column="36" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/ruby/rails/app/views/activities/index.html.haml" />
       <jump line="80" column="19" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/ruby/rails/app/views/activities/index.html.haml" />
       <jump line="84" column="41" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/ruby/rails/app/views/activities/index.html.haml" />
       <jump line="85" column="20" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/ruby/rails/app/views/activities/index.html.haml" />
@@ -514,6 +508,16 @@
       <jump line="174" column="22" filename="C:/SOURCE/git/legacy/postilion/pom.xml" />
       <jump line="54" column="20" filename="C:/SOURCE/git/legacy/postilion/pom.xml" />
       <jump line="828" column="27" filename="C:/SOURCE/git/legacy/postilion/pom.xml" />
+      <jump line="48" column="29" filename="/parent-pom-effective-pom.xml" />
+      <jump line="82" column="14" filename="/parent-pom-effective-pom.xml" />
+      <jump line="157" column="27" filename="/parent-pom-effective-pom.xml" />
+      <jump line="163" column="28" filename="/parent-pom-effective-pom.xml" />
+      <jump line="164" column="20" filename="/parent-pom-effective-pom.xml" />
+      <jump line="198" column="30" filename="/parent-pom-effective-pom.xml" />
+      <jump line="684" column="28" filename="/parent-pom-effective-pom.xml" />
+      <jump line="685" column="20" filename="/parent-pom-effective-pom.xml" />
+      <jump line="690" column="28" filename="/parent-pom-effective-pom.xml" />
+      <jump line="81" column="28" filename="/parent-pom-effective-pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -523,7 +527,7 @@
         <text encoding="base64">MC42LjMuMjAxMzA2MDMwODA2PC92ZXJzaW9uPg==</text>
       </register>
       <register name="/" type="4">
-        <text>juli</text>
+        <text>tomcat</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">U0VMRUNUCiAgICAgIHRtLm1zZ190eXBlLAogICAgICB0bS50cmFuX3R5cGUsCiAgICAgIHRtLmV4dGVuZGVkX3RyYW5fdHlwZSwKICAgICAgdG0uZnJvbV9hY2NvdW50LAogICAgICB0bS50b19hY2NvdW50LAogICAgICB0bS5hY2NvdW50X2lkXzEsCgkJdG0uYWNjb3VudF9pZF8yLAogICAgICB0bS5hbW91bnRfdHJhbl9yZXF1ZXN0ZWQsIC0tIHRyYW4gYW1vdW50IHJlcQogICAgICB0bS5zb3VyY2Vfbm9kZV9hbW91bnRfZmluYWwsIC0tc2V0dGxlIGFtb3VudAogICAgICAtLSBGb3JtYXQgZGF0ZV9sb2NhbCAmIHRpbWVfbG9jYWwgYXMgYSBkYXRldGltZS4gKENvbnN0cnVjdCBhIHN0cmluZyBmb3JtYXR0ZWQgYXMgeXl5eS1tbS1kZCBoaDptaTpzcykKCQlDT05WRVJUKERBVEVUSU1FLENPTlZFUlQoVkFSQ0hBUig0KSwgREFURVBBUlQoeXksIENPQUxFU0NFKGluX3JlcSwgaW5fYWR2KSkpKyctJytTVUJTVFJJTkcoZGF0ZV9sb2NhbCwgMSwgMikrJy0nKyBTVUJTVFJJTkcoZGF0ZV9sb2NhbCwgMywgMikrJyAnKwoJCVNVQlNUUklORyh0aW1lX2xvY2FsLCAxLCAyKSsnOicrU1VCU1RSSU5HKHRpbWVfbG9jYWwsIDMsIDIpKyc6JytTVUJTVFJJTkcodGltZV9sb2NhbCwgNSwgMikgLCAyMCkgQVMgZGF0ZXRpbWVfbG9jYWwsCiAgICAgIHRtLmNhcmRfc2VxX25yLAogICAgICB0bS5jdXJyZW5jeV9jb2RlX3RyYW4sCiAgICAgIHRtLnN0cnVjdHVyZWRfZGF0YV9yZXEsCgkJdG0uc291cmNlX25vZGVfZmVlLCAtLSB0cmFuX3RyYW5fZmVlX3JlcQoJCXRtLnRyYW5fbnIsCgkJdG0ucmV0X3JlZl9ubywKCQl0bS5jdXN0b21lcl9pZAogICBGUk9NCgkJdG1fdHJhbnMgQVMgdG0gV0lUSCAoTk9MT0NLKQ==</text>
@@ -556,13 +560,13 @@
         <text encoding="base64">ICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>juli</last-search>
+      <last-search>tomcat</last-search>
       <last-offset />
-      <last-pattern>juli</last-pattern>
+      <last-pattern>tomcat</last-pattern>
       <last-replace>val</last-replace>
       <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
@@ -570,7 +574,6 @@
     </search>
     <history>
       <history-search>
-        <entry>oObj</entry>
         <entry>render</entry>
         <entry>renderSend</entry>
         <entry>04 Fri</entry>
@@ -590,9 +593,9 @@
         <entry>filter</entry>
         <entry>7.0.79</entry>
         <entry>juli</entry>
+        <entry>tomcat</entry>
       </history-search>
       <history-cmd>
-        <entry>help</entry>
         <entry>1084</entry>
         <entry>204</entry>
         <entry>243</entry>
@@ -612,6 +615,7 @@
         <entry>jumps</entry>
         <entry>set visualbell</entry>
         <entry>w</entry>
+        <entry>q!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
