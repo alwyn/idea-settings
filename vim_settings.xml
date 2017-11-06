@@ -262,7 +262,7 @@
         <mark key="^" line="60" column="20" />
         <mark key="." line="60" column="20" />
       </file>
-      <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/webapp/Login.jsp" timestamp="1509927421767" />
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/webapp/Login.jsp" timestamp="1509930193913" />
       <file name="C:/SOURCE/github/spring5-di-demo/pom.xml" timestamp="1509753055354">
         <mark key="[" line="16" column="20" />
         <mark key="]" line="16" column="21" />
@@ -394,10 +394,10 @@
         <mark key="." line="17" column="34" />
         <mark key="^" line="17" column="34" />
       </file>
-      <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" timestamp="1509927338194">
-        <mark key="'" line="825" column="16" />
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" timestamp="1509930512334">
+        <mark key="'" line="684" column="26" />
       </file>
-      <file name="/fragment.java" timestamp="1509558951161">
+      <file name="/fragment.java" timestamp="1509930468910">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="4" />
@@ -405,7 +405,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="12" filename="C:/SOURCE/git/legacy/postilion/database/src/main/sql/postilion/proc_ssb_get_scheduled_transfers_by_criteria.sql" />
       <jump line="51" column="11" filename="C:/SOURCE/git/legacy/postilion/database/src/main/sql/postilion/proc_ssb_get_scheduled_transfers_by_criteria.sql" />
       <jump line="255" column="106" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/ruby/rails/app/views/activities/index.html.haml" />
       <jump line="50" column="35" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/ruby/rails/app/views/activities/index.html.haml" />
@@ -505,6 +504,7 @@
       <jump line="19" column="43" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/utils/InstitutionEnvironmentVariables.java" />
       <jump line="0" column="0" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/utils/InstitutionEnvironmentVariables.java" />
       <jump line="825" column="16" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" />
+      <jump line="684" column="26" filename="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/src/main/java/postilion/ibs/ui/bean/authentication/Login.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
