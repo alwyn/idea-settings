@@ -32,11 +32,11 @@
         <mark key="^" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="C:/SOURCE/git/legacy/postilion/ssb/web/portal_parent/postilion_jsf_sdk/pom.xml" timestamp="1509990896327">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="^" line="29" column="24" />
-        <mark key="." line="51" column="0" />
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/web/portal_parent/postilion_jsf_sdk/pom.xml" timestamp="1510000362083">
+        <mark key="[" line="51" column="27" />
+        <mark key="]" line="51" column="33" />
+        <mark key="." line="51" column="33" />
+        <mark key="^" line="51" column="33" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/services/src/main/kotlin/postilion/services/util/Transfer.kt" timestamp="1508986857401">
         <mark key="[" line="28" column="29" />
@@ -123,6 +123,12 @@
         <mark key="]" line="44" column="1" />
         <mark key="^" line="44" column="1" />
         <mark key="." line="44" column="1" />
+      </file>
+      <file name="C:/SOURCE/git/legacy/postilion/ssb/web/portal_parent/portal_java/src/main/java/postilion/portal/ui/bean/fi/PostilionToday.java" timestamp="1510000676710">
+        <mark key="[" line="2006" column="53" />
+        <mark key="]" line="2007" column="18" />
+        <mark key="^" line="2007" column="18" />
+        <mark key="." line="2007" column="18" />
       </file>
       <file name="C:/SOURCE/git/legacy/postilion/ssb/web/clientfrontend/pom.xml" timestamp="1509990871038">
         <mark key="[" line="298" column="0" />
@@ -529,11 +535,11 @@
       <jump line="81" column="28" filename="/parent-pom-effective-pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>tomcat</text>
       </register>
       <register name="-" type="4">
-        <text>org.apache.catalina.loader.V</text>
+        <text>tomcat</text>
       </register>
       <register name="/" type="4">
         <text>tomcat</text>
@@ -542,31 +548,31 @@
         <text encoding="base64">U0VMRUNUCiAgICAgIHRtLm1zZ190eXBlLAogICAgICB0bS50cmFuX3R5cGUsCiAgICAgIHRtLmV4dGVuZGVkX3RyYW5fdHlwZSwKICAgICAgdG0uZnJvbV9hY2NvdW50LAogICAgICB0bS50b19hY2NvdW50LAogICAgICB0bS5hY2NvdW50X2lkXzEsCgkJdG0uYWNjb3VudF9pZF8yLAogICAgICB0bS5hbW91bnRfdHJhbl9yZXF1ZXN0ZWQsIC0tIHRyYW4gYW1vdW50IHJlcQogICAgICB0bS5zb3VyY2Vfbm9kZV9hbW91bnRfZmluYWwsIC0tc2V0dGxlIGFtb3VudAogICAgICAtLSBGb3JtYXQgZGF0ZV9sb2NhbCAmIHRpbWVfbG9jYWwgYXMgYSBkYXRldGltZS4gKENvbnN0cnVjdCBhIHN0cmluZyBmb3JtYXR0ZWQgYXMgeXl5eS1tbS1kZCBoaDptaTpzcykKCQlDT05WRVJUKERBVEVUSU1FLENPTlZFUlQoVkFSQ0hBUig0KSwgREFURVBBUlQoeXksIENPQUxFU0NFKGluX3JlcSwgaW5fYWR2KSkpKyctJytTVUJTVFJJTkcoZGF0ZV9sb2NhbCwgMSwgMikrJy0nKyBTVUJTVFJJTkcoZGF0ZV9sb2NhbCwgMywgMikrJyAnKwoJCVNVQlNUUklORyh0aW1lX2xvY2FsLCAxLCAyKSsnOicrU1VCU1RSSU5HKHRpbWVfbG9jYWwsIDMsIDIpKyc6JytTVUJTVFJJTkcodGltZV9sb2NhbCwgNSwgMikgLCAyMCkgQVMgZGF0ZXRpbWVfbG9jYWwsCiAgICAgIHRtLmNhcmRfc2VxX25yLAogICAgICB0bS5jdXJyZW5jeV9jb2RlX3RyYW4sCiAgICAgIHRtLnN0cnVjdHVyZWRfZGF0YV9yZXEsCgkJdG0uc291cmNlX25vZGVfZmVlLCAtLSB0cmFuX3RyYW5fZmVlX3JlcQoJCXRtLnRyYW5fbnIsCgkJdG0ucmV0X3JlZl9ubywKCQl0bS5jdXN0b21lcl9pZAogICBGUk9NCgkJdG1fdHJhbnMgQVMgdG0gV0lUSCAoTk9MT0NLKQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">CQk8IS0tIGNvbW1vbiBsaWIgLS0+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwvZGVwZW5kZW5jaWVzPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN1cGVyLnN0YXJ0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRocm93cyBMaWZlY3ljbGVFeGNlcHRpb24K</text>
+        <text encoding="base64">ICAgIHN1cGVyLnN0YXJ0KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwdWJsaWMgdm9pZCBzdGFydCgpCg==</text>
+        <text encoding="base64">ICB7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIENsYXNzTG9hZGVyIGNsYXNzX2xvYWRlciA9IGdldENsYXNzTG9hZGVyKCk7CiAgICBpZiAoKGNsYXNzX2xvYWRlciBpbnN0YW5jZW9mIFZpcnR1YWxXZWJhcHBDbGFzc0xvYWRlcikpIHsKICAgICAgKChWaXJ0dWFsV2ViYXBwQ2xhc3NMb2FkZXIpY2xhc3NfbG9hZGVyKS5zZXRTZWFyY2hFeHRlcm5hbEZpcnN0KHRoaXMuc2VhcmNoX2V4dGVybmFsX2ZpcnN0KTsKICAgIH0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHRocm93cyBMaWZlY3ljbGVFeGNlcHRpb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQk8L2RlcGVuZGVuY3k+CQkK</text>
+        <text encoding="base64">ICBwdWJsaWMgdm9pZCBzdGFydCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
