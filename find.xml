@@ -8,16 +8,8 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.haml" />
     <recentFileMasks>
-      <mask>*ref</mask>
-      <mask>*refp</mask>
-      <mask>*refpa</mask>
-      <mask>*refpac</mask>
-      <mask>*refpack</mask>
-      <mask>*refpack.</mask>
-      <mask>*refpack.x</mask>
-      <mask>*refpack.xml</mask>
-      <mask>*refpac.xml</mask>
       <mask>*refpa.xml</mask>
       <mask>*refp.xml</mask>
       <mask>*ref.xml</mask>
@@ -25,13 +17,8 @@
       <mask>.xml</mask>
       <mask>pom.x</mask>
       <mask>pom.xm</mask>
-      <mask>*</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
       <mask>*.xml</mask>
       <mask>0</mask>
       <mask>p</mask>
@@ -39,6 +26,20 @@
       <mask>pom</mask>
       <mask>pom.</mask>
       <mask>pom.xml</mask>
+      <mask>*</mask>
+      <mask>*.jsp</mask>
+      <mask>*.js</mask>
+      <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.rb</mask>
+      <mask>*.r</mask>
+      <mask>*.</mask>
+      <mask>*.h</mask>
+      <mask>*.ha</mask>
+      <mask>*.ham</mask>
+      <mask>*.haml</mask>
     </recentFileMasks>
   </component>
 </application>
