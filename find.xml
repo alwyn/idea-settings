@@ -1,13 +1,13 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'legacy'" />
-    <option name="defaultScopeName" value="Project 'legacy'" />
+    <option name="customScope" value="All java classes" />
+    <option name="defaultScopeName" value="All java classes" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="Project 'legacy'" />
+    <option name="SEARCH_SCOPE" value="All java classes" />
     <recentFileMasks>
       <mask>*refpa.xml</mask>
       <mask>*refp.xml</mask>
