@@ -1,4 +1,10 @@
 <keymap version="1" name="Emacs copy" parent="Emacs">
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="a" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="b" />
+  </action>
   <action id="JumpToNextChange">
     <keyboard-shortcut first-keystroke="ctrl alt back_slash" />
   </action>
