@@ -8,6 +8,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All java classes" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
       <mask>*refpa.xml</mask>
       <mask>*refp.xml</mask>
@@ -20,11 +21,6 @@
       <mask>*.x</mask>
       <mask>*.xml</mask>
       <mask>0</mask>
-      <mask>p</mask>
-      <mask>po</mask>
-      <mask>pom</mask>
-      <mask>pom.</mask>
-      <mask>pom.xml</mask>
       <mask>*</mask>
       <mask>*.jsp</mask>
       <mask>*.js</mask>
@@ -39,6 +35,11 @@
       <mask>*.ha</mask>
       <mask>*.ham</mask>
       <mask>*.haml</mask>
+      <mask>p</mask>
+      <mask>po</mask>
+      <mask>pom</mask>
+      <mask>pom.</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
