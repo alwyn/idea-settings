@@ -8,17 +8,14 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="pom.xml" />
+    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
-      <mask>*refpa.xml</mask>
-      <mask>*refp.xml</mask>
       <mask>*ref.xml</mask>
       <mask>*re.xml</mask>
       <mask>.xml</mask>
       <mask>pom.x</mask>
       <mask>pom.xm</mask>
       <mask>0</mask>
-      <mask>*</mask>
       <mask>*.jsp</mask>
       <mask>*.js</mask>
       <mask>*.jav</mask>
@@ -31,7 +28,6 @@
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
@@ -40,6 +36,10 @@
       <mask>pom</mask>
       <mask>pom.</mask>
       <mask>pom.xml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
