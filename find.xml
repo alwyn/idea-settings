@@ -8,6 +8,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.jsp" />
     <recentFileMasks>
       <mask>*ref.xml</mask>
       <mask>*re.xml</mask>
@@ -15,7 +16,6 @@
       <mask>pom.x</mask>
       <mask>pom.xm</mask>
       <mask>0</mask>
-      <mask>*.jsp</mask>
       <mask>*.js</mask>
       <mask>*.jav</mask>
       <mask>*.rb</mask>
@@ -39,6 +39,7 @@
       <mask>pom</mask>
       <mask>pom.</mask>
       <mask>pom.xml</mask>
+      <mask>*.jsp</mask>
     </recentFileMasks>
   </component>
 </application>
